@@ -1,0 +1,5 @@
+librosa==0.7.0
+numpy==1.16.4
+tensorflow-gpu==1.14.0
+tensorflow-base==1.14.0
+tensorboard==1.14.0

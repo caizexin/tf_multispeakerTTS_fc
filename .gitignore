@@ -1,0 +1,14 @@
+synthesizer/saved_models
+synthesizer/pre_trained
+feedback_synthesizer/saved_models
+vocoder/saved_models
+vocoder/pretrained
+deep_speaker/data_vox12/vox12_train_aug.csv
+deep_speaker/vox12_resnet34
+deep_speaker/log
+deep_speaker/database
+datasets/vctk/wavs
+datasets/vctk/synthesizer/audio
+datasets/vctk/synthesizer/embeds
+datasets/vctk/synthesizer/mels
+!.gitignore

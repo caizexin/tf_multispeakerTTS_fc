@@ -1,0 +1,1423 @@
+audio-p340_002.npy|mel-p340_002.npy|embed-p340_002.npy|38080|191|Ask her to bring these things with her from the store.
+audio-p340_003.npy|mel-p340_003.npy|embed-p340_003.npy|76480|383|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p340_004.npy|mel-p340_004.npy|embed-p340_004.npy|51200|257|We also need a small plastic snake and a big toy frog for the kids.
+audio-p340_005.npy|mel-p340_005.npy|embed-p340_005.npy|69440|348|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p340_006.npy|mel-p340_006.npy|embed-p340_006.npy|64320|322|When the sunlight strikes the raindrops in the air, they act as a prism and form a rainbow.
+audio-p340_007.npy|mel-p340_007.npy|embed-p340_007.npy|47680|239|The rainbow is a division of white light into many beautiful colors.
+audio-p340_008.npy|mel-p340_008.npy|embed-p340_008.npy|92160|461|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p340_009.npy|mel-p340_009.npy|embed-p340_009.npy|67200|337|There is , according to legend, a boiling pot of gold at one end.
+audio-p340_010.npy|mel-p340_010.npy|embed-p340_010.npy|29440|148|People look, but no one ever finds it.
+audio-p340_011.npy|mel-p340_011.npy|embed-p340_011.npy|86080|431|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow.
+audio-p340_012.npy|mel-p340_012.npy|embed-p340_012.npy|52160|261|Throughout the centuries people have explained the rainbow in various ways.
+audio-p340_013.npy|mel-p340_013.npy|embed-p340_013.npy|52160|261|Some have accepted it as a miracle without physical explanation.
+audio-p340_014.npy|mel-p340_014.npy|embed-p340_014.npy|54080|271|To the Hebrews it was a token that there would be no more universal floods.
+audio-p340_015.npy|mel-p340_015.npy|embed-p340_015.npy|66880|335|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain.
+audio-p340_016.npy|mel-p340_016.npy|embed-p340_016.npy|77760|389|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
+audio-p340_017.npy|mel-p340_017.npy|embed-p340_017.npy|38400|193|Others have tried to explain this phenomenon physically.
+audio-p340_018.npy|mel-p340_018.npy|embed-p340_018.npy|67840|340|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain.
+audio-p340_019.npy|mel-p340_019.npy|embed-p340_019.npy|87040|436|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows.
+audio-p340_020.npy|mel-p340_020.npy|embed-p340_020.npy|48320|242|Many complicated ideas about the rainbow have been formed.
+audio-p340_021.npy|mel-p340_021.npy|embed-p340_021.npy|113920|570|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.
+audio-p340_022.npy|mel-p340_022.npy|embed-p340_022.npy|74560|373|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.
+audio-p340_024.npy|mel-p340_024.npy|embed-p340_024.npy|81600|409|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+audio-p340_027.npy|mel-p340_027.npy|embed-p340_027.npy|32320|162|We've just decided to do something about it.
+audio-p340_033.npy|mel-p340_033.npy|embed-p340_033.npy|29120|146|We don't find any danger from them.
+audio-p340_035.npy|mel-p340_035.npy|embed-p340_035.npy|27840|140|They were appalling, disgraceful.
+audio-p340_037.npy|mel-p340_037.npy|embed-p340_037.npy|38080|191|There was only one problem, the teacher was still there!
+audio-p340_040.npy|mel-p340_040.npy|embed-p340_040.npy|27520|138|You've got to have everything inside with you.
+audio-p340_048.npy|mel-p340_048.npy|embed-p340_048.npy|29440|148|None of the pieces was commissioned.
+audio-p340_054.npy|mel-p340_054.npy|embed-p340_054.npy|30080|151|I certainly think it's very short-sighted.
+audio-p340_064.npy|mel-p340_064.npy|embed-p340_064.npy|25920|130|That, however, was the exception.
+audio-p340_068.npy|mel-p340_068.npy|embed-p340_068.npy|25600|129|It is time for the talking to stop.
+audio-p340_072.npy|mel-p340_072.npy|embed-p340_072.npy|28160|141|However, that is just for starters.
+audio-p340_076.npy|mel-p340_076.npy|embed-p340_076.npy|33600|169|There was still more disquiet in Israel.
+audio-p340_078.npy|mel-p340_078.npy|embed-p340_078.npy|38080|191|Mr Masterton said he was very hopeful.
+audio-p340_084.npy|mel-p340_084.npy|embed-p340_084.npy|35520|178|Willie deserved it, for what he has achieved.
+audio-p340_086.npy|mel-p340_086.npy|embed-p340_086.npy|28800|145|I've thought a lot about the Commonwealths.
+audio-p340_087.npy|mel-p340_087.npy|embed-p340_087.npy|28480|143|But we never wanted to do that here.
+audio-p340_089.npy|mel-p340_089.npy|embed-p340_089.npy|31680|159|The money will go straight to the headteacher.
+audio-p340_090.npy|mel-p340_090.npy|embed-p340_090.npy|30400|153|He said, we're delighted by the vote.
+audio-p340_091.npy|mel-p340_091.npy|embed-p340_091.npy|28480|143|It could be to do with the location.
+audio-p340_093.npy|mel-p340_093.npy|embed-p340_093.npy|29120|146|The teenager had been missing for six months.
+audio-p340_098.npy|mel-p340_098.npy|embed-p340_098.npy|25920|130|He did not have to stop and think.
+audio-p340_102.npy|mel-p340_102.npy|embed-p340_102.npy|41280|207|His own excitement is never difficult to detect.
+audio-p340_103.npy|mel-p340_103.npy|embed-p340_103.npy|26560|133|He almost admitted as much.
+audio-p340_105.npy|mel-p340_105.npy|embed-p340_105.npy|36800|185|We believe it to be completely without merit.
+audio-p340_108.npy|mel-p340_108.npy|embed-p340_108.npy|29120|146|Fishing is a declining industry.
+audio-p340_109.npy|mel-p340_109.npy|embed-p340_109.npy|30720|154|Another man said, It was horrible.
+audio-p340_112.npy|mel-p340_112.npy|embed-p340_112.npy|30720|154|Are there any he wants to play?
+audio-p340_115.npy|mel-p340_115.npy|embed-p340_115.npy|31040|156|I have never been in anything like that.
+audio-p340_116.npy|mel-p340_116.npy|embed-p340_116.npy|31040|156|I have done ever since it was published.
+audio-p340_118.npy|mel-p340_118.npy|embed-p340_118.npy|28800|145|In fact, they have the opposite effect.
+audio-p340_120.npy|mel-p340_120.npy|embed-p340_120.npy|27520|138|The king is delighted by the honour.
+audio-p340_121.npy|mel-p340_121.npy|embed-p340_121.npy|26880|135|Johnsen is equally concerned.
+audio-p340_122.npy|mel-p340_122.npy|embed-p340_122.npy|26880|135|My body is clearly capable.
+audio-p340_130.npy|mel-p340_130.npy|embed-p340_130.npy|26240|132|You need that freedom in society.
+audio-p340_133.npy|mel-p340_133.npy|embed-p340_133.npy|32640|164|I certainly would not accept this decision.
+audio-p340_137.npy|mel-p340_137.npy|embed-p340_137.npy|28480|143|This research is extremely promising.
+audio-p340_138.npy|mel-p340_138.npy|embed-p340_138.npy|28800|145|I was invited to work in Germany.
+audio-p340_139.npy|mel-p340_139.npy|embed-p340_139.npy|30720|154|Weather conditions were good, he added.
+audio-p340_149.npy|mel-p340_149.npy|embed-p340_149.npy|28160|141|And he listens to his artists as well.
+audio-p340_150.npy|mel-p340_150.npy|embed-p340_150.npy|27520|138|He is advised that he has done so.
+audio-p340_151.npy|mel-p340_151.npy|embed-p340_151.npy|27840|140|Annika is very, very fit.
+audio-p340_154.npy|mel-p340_154.npy|embed-p340_154.npy|28800|145|I've never regretted my decision.
+audio-p340_155.npy|mel-p340_155.npy|embed-p340_155.npy|30720|154|This is a recipe for disaster.
+audio-p340_156.npy|mel-p340_156.npy|embed-p340_156.npy|30720|154|The wind was coming from all directions.
+audio-p340_167.npy|mel-p340_167.npy|embed-p340_167.npy|29120|146|It is clear that change is required.
+audio-p340_170.npy|mel-p340_170.npy|embed-p340_170.npy|35840|180|As far as we're concerned, the matter is closed.
+audio-p340_171.npy|mel-p340_171.npy|embed-p340_171.npy|25920|130|He had no previous convictions.
+audio-p340_178.npy|mel-p340_178.npy|embed-p340_178.npy|26880|135|We can't determine that clearly.
+audio-p340_182.npy|mel-p340_182.npy|embed-p340_182.npy|30080|151|I came here this week to work.
+audio-p340_185.npy|mel-p340_185.npy|embed-p340_185.npy|27840|140|Of course the ending was fantastic.
+audio-p340_190.npy|mel-p340_190.npy|embed-p340_190.npy|29440|148|I think it was just a tragic accident.
+audio-p340_191.npy|mel-p340_191.npy|embed-p340_191.npy|26240|132|We haven't been able to go and see.
+audio-p340_194.npy|mel-p340_194.npy|embed-p340_194.npy|30720|154|I would be interested in another attempt.
+audio-p340_195.npy|mel-p340_195.npy|embed-p340_195.npy|32000|161|However, that is a sizeable if.
+audio-p340_203.npy|mel-p340_203.npy|embed-p340_203.npy|36160|181|He had been on holiday visiting his grandmother.
+audio-p340_206.npy|mel-p340_206.npy|embed-p340_206.npy|32960|165|They are very clever and very dangerous.
+audio-p340_209.npy|mel-p340_209.npy|embed-p340_209.npy|29120|146|Hollywood comedy is having a good week.
+audio-p340_212.npy|mel-p340_212.npy|embed-p340_212.npy|26880|135|We have to put pressure on Rangers.
+audio-p340_213.npy|mel-p340_213.npy|embed-p340_213.npy|26240|132|It was properly reported to us.
+audio-p340_214.npy|mel-p340_214.npy|embed-p340_214.npy|42880|215|He was outstanding today - the best player on the park.
+audio-p340_223.npy|mel-p340_223.npy|embed-p340_223.npy|35840|180|This produces exactly the opposite effect.
+audio-p340_224.npy|mel-p340_224.npy|embed-p340_224.npy|29440|148|Our thoughts and prayers are with her family.
+audio-p340_225.npy|mel-p340_225.npy|embed-p340_225.npy|25600|129|You have to keep it on the fairways.
+audio-p340_226.npy|mel-p340_226.npy|embed-p340_226.npy|27200|137|Sub Not Used, McCormick.
+audio-p340_230.npy|mel-p340_230.npy|embed-p340_230.npy|26880|135|He may have a long wait.
+audio-p340_232.npy|mel-p340_232.npy|embed-p340_232.npy|33920|170|Later, a very different story emerged.
+audio-p340_234.npy|mel-p340_234.npy|embed-p340_234.npy|25600|129|They didn't find any substance.
+audio-p340_237.npy|mel-p340_237.npy|embed-p340_237.npy|30400|153|After all, he is the King of Scotland.
+audio-p340_238.npy|mel-p340_238.npy|embed-p340_238.npy|28480|143|Is there any prospect of this happening?
+audio-p340_240.npy|mel-p340_240.npy|embed-p340_240.npy|35200|177|He had been surprised by the local reaction.
+audio-p340_241.npy|mel-p340_241.npy|embed-p340_241.npy|28480|143|Government funding is not a problem.
+audio-p340_242.npy|mel-p340_242.npy|embed-p340_242.npy|26240|132|I'm still an amateur in that sense.
+audio-p340_244.npy|mel-p340_244.npy|embed-p340_244.npy|33600|169|The medal itself is not that important.
+audio-p340_247.npy|mel-p340_247.npy|embed-p340_247.npy|29440|148|They deserved to beat us in the replay.
+audio-p340_256.npy|mel-p340_256.npy|embed-p340_256.npy|25600|129|It was quite simply, delicious.
+audio-p340_259.npy|mel-p340_259.npy|embed-p340_259.npy|27200|137|The game will be at a football stadium.
+audio-p340_261.npy|mel-p340_261.npy|embed-p340_261.npy|29120|146|Shelter also supports the reform.
+audio-p340_262.npy|mel-p340_262.npy|embed-p340_262.npy|28480|143|The attack was totally out of the blue.
+audio-p340_264.npy|mel-p340_264.npy|embed-p340_264.npy|26240|132|We've had a lot of adjusting to do.
+audio-p340_266.npy|mel-p340_266.npy|embed-p340_266.npy|26560|133|The people have been really friendly.
+audio-p340_267.npy|mel-p340_267.npy|embed-p340_267.npy|34240|172|It was bound to happen, and it has happened.
+audio-p340_268.npy|mel-p340_268.npy|embed-p340_268.npy|30080|151|Aberdeen were difficult to break down.
+audio-p340_274.npy|mel-p340_274.npy|embed-p340_274.npy|28800|145|The second half was a different affair.
+audio-p340_275.npy|mel-p340_275.npy|embed-p340_275.npy|29760|149|The scheme has been funded by the Government.
+audio-p340_276.npy|mel-p340_276.npy|embed-p340_276.npy|28480|143|They might be surprised by the response.
+audio-p340_278.npy|mel-p340_278.npy|embed-p340_278.npy|29760|149|We have worked well with them for years.
+audio-p340_279.npy|mel-p340_279.npy|embed-p340_279.npy|25920|130|They've had a good start as well.
+audio-p340_288.npy|mel-p340_288.npy|embed-p340_288.npy|27200|137|We could have had no new money.
+audio-p340_293.npy|mel-p340_293.npy|embed-p340_293.npy|28480|143|The Dream is as hard as they come.
+audio-p340_295.npy|mel-p340_295.npy|embed-p340_295.npy|27200|137|It shows the right amount of progress.
+audio-p340_297.npy|mel-p340_297.npy|embed-p340_297.npy|30080|151|I think they have got it completely right.
+audio-p340_298.npy|mel-p340_298.npy|embed-p340_298.npy|28480|143|This is excellent news for Glasgow.
+audio-p340_300.npy|mel-p340_300.npy|embed-p340_300.npy|27520|138|Police have appealed for witnesses.
+audio-p340_314.npy|mel-p340_314.npy|embed-p340_314.npy|25920|130|I have still to hear about that.
+audio-p340_319.npy|mel-p340_319.npy|embed-p340_319.npy|33280|167|One is investment, one is reform.
+audio-p340_320.npy|mel-p340_320.npy|embed-p340_320.npy|29760|149|The last few weeks have been really bad.
+audio-p340_321.npy|mel-p340_321.npy|embed-p340_321.npy|31680|159|Structural changes will never be enough.
+audio-p340_323.npy|mel-p340_323.npy|embed-p340_323.npy|25600|129|That was always the danger.
+audio-p340_325.npy|mel-p340_325.npy|embed-p340_325.npy|26880|135|There was nothing sinister in that.
+audio-p340_326.npy|mel-p340_326.npy|embed-p340_326.npy|25600|129|But don't just take my word for it.
+audio-p340_332.npy|mel-p340_332.npy|embed-p340_332.npy|29760|149|People are using it in their daily lives.
+audio-p340_334.npy|mel-p340_334.npy|embed-p340_334.npy|29440|148|Would that be for men and women?
+audio-p340_336.npy|mel-p340_336.npy|embed-p340_336.npy|27200|137|I think we have got the balance right.
+audio-p340_339.npy|mel-p340_339.npy|embed-p340_339.npy|30400|153|It has been an extremely long haul.
+audio-p340_340.npy|mel-p340_340.npy|embed-p340_340.npy|28480|143|I'll need to discuss it with my family.
+audio-p340_343.npy|mel-p340_343.npy|embed-p340_343.npy|35200|177|Well, there can be no complaints about this one.
+audio-p340_349.npy|mel-p340_349.npy|embed-p340_349.npy|30400|153|The improvement today was fantastic.
+audio-p340_351.npy|mel-p340_351.npy|embed-p340_351.npy|25600|129|I'm looking forward to coming home.
+audio-p340_352.npy|mel-p340_352.npy|embed-p340_352.npy|44480|223|She is also claiming constructive and unfair dismissal.
+audio-p340_353.npy|mel-p340_353.npy|embed-p340_353.npy|27840|140|Our Great Depression is our lives.
+audio-p340_354.npy|mel-p340_354.npy|embed-p340_354.npy|34880|175|He was elected as a councillor last year.
+audio-p340_355.npy|mel-p340_355.npy|embed-p340_355.npy|27840|140|I just did not cope with the pressure.
+audio-p340_357.npy|mel-p340_357.npy|embed-p340_357.npy|28480|143|So he was anxious to try something new.
+audio-p340_363.npy|mel-p340_363.npy|embed-p340_363.npy|26560|133|Governments will have to respond.
+audio-p340_365.npy|mel-p340_365.npy|embed-p340_365.npy|27200|137|We wanted to do something different.
+audio-p340_366.npy|mel-p340_366.npy|embed-p340_366.npy|31360|157|The past is history, not destiny.
+audio-p340_372.npy|mel-p340_372.npy|embed-p340_372.npy|34240|172|I'm sorry if any offence has been caused.
+audio-p340_376.npy|mel-p340_376.npy|embed-p340_376.npy|37120|186|Sadly, it took a tragedy to change things.
+audio-p340_377.npy|mel-p340_377.npy|embed-p340_377.npy|28160|141|But we wouldn't want them any other way.
+audio-p340_380.npy|mel-p340_380.npy|embed-p340_380.npy|26880|135|They are expected to be released today.
+audio-p340_381.npy|mel-p340_381.npy|embed-p340_381.npy|32640|164|There was no question of him not impressing.
+audio-p340_388.npy|mel-p340_388.npy|embed-p340_388.npy|34240|172|Scotland has lost a great religious leader.
+audio-p340_398.npy|mel-p340_398.npy|embed-p340_398.npy|30080|151|Detectives are still working on the case.
+audio-p340_399.npy|mel-p340_399.npy|embed-p340_399.npy|30720|154|I reported it but nothing was done.
+audio-p340_401.npy|mel-p340_401.npy|embed-p340_401.npy|29440|148|There was much to be positive about.
+audio-p340_404.npy|mel-p340_404.npy|embed-p340_404.npy|32320|162|Yet the improvement in behaviour was huge.
+audio-p340_408.npy|mel-p340_408.npy|embed-p340_408.npy|32640|164|My daughter was really, really innocent.
+audio-p340_410.npy|mel-p340_410.npy|embed-p340_410.npy|26240|132|Once again, he refused.
+audio-p340_413.npy|mel-p340_413.npy|embed-p340_413.npy|26560|133|The power of religion is so strong.
+audio-p340_415.npy|mel-p340_415.npy|embed-p340_415.npy|30400|153|There are two interests in this woodland.
+audio-p340_419.npy|mel-p340_419.npy|embed-p340_419.npy|29760|149|I'll never think of myself as a star.
+audio-p340_421.npy|mel-p340_421.npy|embed-p340_421.npy|25600|129|We made a world record together.
+audio-p340_422.npy|mel-p340_422.npy|embed-p340_422.npy|28160|141|Our policy is already working well.
+audio-p340_424.npy|mel-p340_424.npy|embed-p340_424.npy|28480|143|Things were not easy from the outset.
+audio-p376_002.npy|mel-p376_002.npy|embed-p376_002.npy|47360|237|"Ask her to bring these things with her from the store.  "
+audio-p376_003.npy|mel-p376_003.npy|embed-p376_003.npy|105920|530|"Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  "
+audio-p376_004.npy|mel-p376_004.npy|embed-p376_004.npy|73280|367|"We also need a small plastic snake and a big toy frog for the kids.  "
+audio-p376_005.npy|mel-p376_005.npy|embed-p376_005.npy|109440|548|"She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. "
+audio-p376_006.npy|mel-p376_006.npy|embed-p376_006.npy|76480|383|"When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. "
+audio-p376_007.npy|mel-p376_007.npy|embed-p376_007.npy|57600|289|"The rainbow is a division of white light into many beautiful colors. "
+audio-p376_008.npy|mel-p376_008.npy|embed-p376_008.npy|103360|517|"These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. "
+audio-p376_009.npy|mel-p376_009.npy|embed-p376_009.npy|68800|345|"There is , according to legend, a boiling pot of gold at one end. "
+audio-p376_010.npy|mel-p376_010.npy|embed-p376_010.npy|59520|298|"People look, but no one ever finds it. "
+audio-p376_011.npy|mel-p376_011.npy|embed-p376_011.npy|107200|537|"When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. "
+audio-p376_012.npy|mel-p376_012.npy|embed-p376_012.npy|54080|271|"Throughout the centuries people have explained the rainbow in various ways. "
+audio-p376_013.npy|mel-p376_013.npy|embed-p376_013.npy|59200|297|"Some have accepted it as a miracle without physical explanation. "
+audio-p376_014.npy|mel-p376_014.npy|embed-p376_014.npy|66240|332|"To the Hebrews it was a token that there would be no more universal floods. "
+audio-p376_015.npy|mel-p376_015.npy|embed-p376_015.npy|89920|450|"The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. "
+audio-p376_016.npy|mel-p376_016.npy|embed-p376_016.npy|82880|415|"The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. "
+audio-p376_017.npy|mel-p376_017.npy|embed-p376_017.npy|39680|199|"Others have tried to explain the phenomenon physically. "
+audio-p376_018.npy|mel-p376_018.npy|embed-p376_018.npy|61440|308|"Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. "
+audio-p376_019.npy|mel-p376_019.npy|embed-p376_019.npy|85760|429|"Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. "
+audio-p376_020.npy|mel-p376_020.npy|embed-p376_020.npy|46400|233|"Many complicated ideas about the rainbow have been formed. "
+audio-p376_021.npy|mel-p376_021.npy|embed-p376_021.npy|109120|546|"The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. "
+audio-p376_022.npy|mel-p376_022.npy|embed-p376_022.npy|93120|466|"The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. "
+audio-p376_023.npy|mel-p376_023.npy|embed-p376_023.npy|165760|829|"If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. "
+audio-p376_024.npy|mel-p376_024.npy|embed-p376_024.npy|93440|468|"This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue."
+audio-p376_025.npy|mel-p376_025.npy|embed-p376_025.npy|44480|223|"It's a relief that a decision has finally been made."
+audio-p376_027.npy|mel-p376_027.npy|embed-p376_027.npy|38720|194|"He said the matter had been neglected in the past."
+audio-p376_028.npy|mel-p376_028.npy|embed-p376_028.npy|39680|199|"We have to pull together, or we will hang apart."
+audio-p376_029.npy|mel-p376_029.npy|embed-p376_029.npy|57920|290|"Several other countries are also reported to be interested in the format."
+audio-p376_030.npy|mel-p376_030.npy|embed-p376_030.npy|43199|216|"Suggestions of the action being a punishment were dismissed."
+audio-p376_031.npy|mel-p376_031.npy|embed-p376_031.npy|51840|260|"So if we can take anything from tonight, it will be fantastic."
+audio-p376_032.npy|mel-p376_032.npy|embed-p376_032.npy|45120|226|"We want to ensure that the process is entirely transparent."
+audio-p376_036.npy|mel-p376_036.npy|embed-p376_036.npy|51200|257|"Mr Ferguson became a minister after seven years as a journalist."
+audio-p376_038.npy|mel-p376_038.npy|embed-p376_038.npy|36800|185|"It is a matter of the utmost concern to the Allies."
+audio-p376_039.npy|mel-p376_039.npy|embed-p376_039.npy|48640|244|"They have now been banned from Celtic Park for life."
+audio-p376_044.npy|mel-p376_044.npy|embed-p376_044.npy|50880|255|"We're in the premier division and we intend to stay there."
+audio-p376_048.npy|mel-p376_048.npy|embed-p376_048.npy|40320|202|"The whole of southern Africa is in the grip of Aids."
+audio-p376_049.npy|mel-p376_049.npy|embed-p376_049.npy|31680|159|"A recording contract is on the horizon."
+audio-p376_050.npy|mel-p376_050.npy|embed-p376_050.npy|37440|188|"It has been a horrible, horrible time."
+audio-p376_053.npy|mel-p376_053.npy|embed-p376_053.npy|55360|277|"However, he will now have to wait for his chance to impress."
+audio-p376_054.npy|mel-p376_054.npy|embed-p376_054.npy|26560|133|"But the law is very clear on this."
+audio-p376_060.npy|mel-p376_060.npy|embed-p376_060.npy|38720|194|"The story was first reported in the Spectator magazine."
+audio-p376_064.npy|mel-p376_064.npy|embed-p376_064.npy|59840|300|"George Robertson described the plan as an outrageous and disgraceful decision."
+audio-p376_065.npy|mel-p376_065.npy|embed-p376_065.npy|43200|217|"An appeal against the sentence was dismissed the following year."
+audio-p376_066.npy|mel-p376_066.npy|embed-p376_066.npy|45440|228|"There was a tremendous amount of anger and frustration in that music."
+audio-p376_069.npy|mel-p376_069.npy|embed-p376_069.npy|51200|257|"Everything happened so quickly, that we were taken by surprise."
+audio-p376_070.npy|mel-p376_070.npy|embed-p376_070.npy|30400|153|"We welcome the decision of Mr Byers."
+audio-p376_071.npy|mel-p376_071.npy|embed-p376_071.npy|35200|177|"They do not work for Glasgow City Council."
+audio-p376_074.npy|mel-p376_074.npy|embed-p376_074.npy|37440|188|"She died in hospital two hours later."
+audio-p376_075.npy|mel-p376_075.npy|embed-p376_075.npy|25600|129|"It is a job creation scheme."
+audio-p376_076.npy|mel-p376_076.npy|embed-p376_076.npy|55680|279|"Everyone is in favour of the need for welfare reform in general."
+audio-p376_077.npy|mel-p376_077.npy|embed-p376_077.npy|27200|137|"This is the way things should be handled."
+audio-p376_078.npy|mel-p376_078.npy|embed-p376_078.npy|45440|228|"It is not long term, but I need time to recover."
+audio-p376_079.npy|mel-p376_079.npy|embed-p376_079.npy|54720|274|"Other members of the family were too upset to comment last night."
+audio-p376_082.npy|mel-p376_082.npy|embed-p376_082.npy|55680|279|"It just shows the arrogance of Labour and the Liberal Democrats."
+audio-p376_084.npy|mel-p376_084.npy|embed-p376_084.npy|32320|162|"That will come after the game on Saturday."
+audio-p376_085.npy|mel-p376_085.npy|embed-p376_085.npy|58560|293|"Downing Street will make the second appointment in the Scotland Office today."
+audio-p376_086.npy|mel-p376_086.npy|embed-p376_086.npy|49920|250|"This time, it will have opened up the field a little bit."
+audio-p376_089.npy|mel-p376_089.npy|embed-p376_089.npy|37440|188|"The oil companies would be asked to contribute."
+audio-p376_091.npy|mel-p376_091.npy|embed-p376_091.npy|61440|308|"We have always maintained that we would never abandon Scottish football."
+audio-p376_093.npy|mel-p376_093.npy|embed-p376_093.npy|52480|263|"Scotland will have strong defences as part of the United Kingdom."
+audio-p376_094.npy|mel-p376_094.npy|embed-p376_094.npy|44160|221|"The selection process is still at a very early stage."
+audio-p376_095.npy|mel-p376_095.npy|embed-p376_095.npy|49280|247|"Previously, they were raised in the European Court of Human Rights."
+audio-p376_099.npy|mel-p376_099.npy|embed-p376_099.npy|62400|313|"Meanwhile, the Scottish Consumer Council yesterday offered support for the new Bill."
+audio-p376_100.npy|mel-p376_100.npy|embed-p376_100.npy|45760|229|"We recognise the important role of golf in attracting visitors."
+audio-p376_101.npy|mel-p376_101.npy|embed-p376_101.npy|26240|132|"Oil embargo endorsed."
+audio-p376_103.npy|mel-p376_103.npy|embed-p376_103.npy|40320|202|"According to the criteria, he is qualified for Scotland."
+audio-p376_104.npy|mel-p376_104.npy|embed-p376_104.npy|26240|132|"It's not a new concept in jazz."
+audio-p376_107.npy|mel-p376_107.npy|embed-p376_107.npy|48960|245|"We are determined to continue on this mission and we will prevail."
+audio-p376_112.npy|mel-p376_112.npy|embed-p376_112.npy|39360|197|"This is the first big idea of the Scottish Parliament election."
+audio-p376_113.npy|mel-p376_113.npy|embed-p376_113.npy|33280|167|"There will be a beginning, a middle, and an end."
+audio-p376_114.npy|mel-p376_114.npy|embed-p376_114.npy|26560|133|"It is a delight on every level."
+audio-p376_115.npy|mel-p376_115.npy|embed-p376_115.npy|31360|157|"Here, again, they were denied a voice."
+audio-p376_117.npy|mel-p376_117.npy|embed-p376_117.npy|51200|257|"It is still too early for any likely contenders to have emerged."
+audio-p376_118.npy|mel-p376_118.npy|embed-p376_118.npy|35520|178|"Wednesday night was a difficult time for Britton."
+audio-p376_120.npy|mel-p376_120.npy|embed-p376_120.npy|25600|129|"She really suffered for her art."
+audio-p376_121.npy|mel-p376_121.npy|embed-p376_121.npy|34240|172|"So the European elections are extremely important."
+audio-p376_123.npy|mel-p376_123.npy|embed-p376_123.npy|46400|233|"Buckingham Palace said the appointment was a matter for the prince."
+audio-p376_124.npy|mel-p376_124.npy|embed-p376_124.npy|34560|173|"Some of the characters will not be played by humans."
+audio-p376_129.npy|mel-p376_129.npy|embed-p376_129.npy|32320|162|"If not, a deal could take many months."
+audio-p376_130.npy|mel-p376_130.npy|embed-p376_130.npy|40640|204|"We had a great time when we came with Easy Rider."
+audio-p376_131.npy|mel-p376_131.npy|embed-p376_131.npy|51200|257|"The Scottish Socialist party is also expected to attend."
+audio-p376_133.npy|mel-p376_133.npy|embed-p376_133.npy|49280|247|"Police could not say if the two incidents were connected."
+audio-p376_135.npy|mel-p376_135.npy|embed-p376_135.npy|44800|225|"It was not hard to feel some sympathy for Baxter yesterday."
+audio-p376_136.npy|mel-p376_136.npy|embed-p376_136.npy|29440|148|"Nobody in the world can get away from him."
+audio-p376_137.npy|mel-p376_137.npy|embed-p376_137.npy|32960|165|"He sees a difference in the style of the two teams."
+audio-p376_138.npy|mel-p376_138.npy|embed-p376_138.npy|29120|146|"We've got a lot of respect for the Lions."
+audio-p376_139.npy|mel-p376_139.npy|embed-p376_139.npy|26880|135|"I think he's the favourite, no question."
+audio-p376_149.npy|mel-p376_149.npy|embed-p376_149.npy|41920|210|"The petition was formally presented at Downing Street yesterday."
+audio-p376_150.npy|mel-p376_150.npy|embed-p376_150.npy|32640|164|"The Dutchman was in time to see the breakthrough."
+audio-p376_152.npy|mel-p376_152.npy|embed-p376_152.npy|39360|197|"The woman is a star who has grown to love the limelight."
+audio-p376_155.npy|mel-p376_155.npy|embed-p376_155.npy|28480|143|"We also enjoyed a lot of support."
+audio-p376_157.npy|mel-p376_157.npy|embed-p376_157.npy|40640|204|"Alain Baxter did not have long to speak on Friday."
+audio-p376_159.npy|mel-p376_159.npy|embed-p376_159.npy|42560|213|"The workers do not want to read about their futures in newspapers."
+audio-p376_160.npy|mel-p376_160.npy|embed-p376_160.npy|37760|189|"This year, this month, will be special for Torrance."
+audio-p376_162.npy|mel-p376_162.npy|embed-p376_162.npy|27840|140|"It was so new, so exciting."
+audio-p376_164.npy|mel-p376_164.npy|embed-p376_164.npy|44480|223|"Councillors are expected to take a decision within the next few weeks."
+audio-p376_165.npy|mel-p376_165.npy|embed-p376_165.npy|41600|209|"Military action is the only option we have on the table today."
+audio-p376_167.npy|mel-p376_167.npy|embed-p376_167.npy|37760|189|"By then, however, both men were already in the US."
+audio-p376_170.npy|mel-p376_170.npy|embed-p376_170.npy|28480|143|"The release attracted little attention."
+audio-p376_171.npy|mel-p376_171.npy|embed-p376_171.npy|34560|173|"Waiting times for these services are too long."
+audio-p376_172.npy|mel-p376_172.npy|embed-p376_172.npy|40960|205|"A helpline number is published at the end of this article."
+audio-p376_173.npy|mel-p376_173.npy|embed-p376_173.npy|34240|172|"First and foremost, the game is entirely different."
+audio-p376_175.npy|mel-p376_175.npy|embed-p376_175.npy|33920|170|"There is no evidence of a Little Scotland emerging."
+audio-p376_176.npy|mel-p376_176.npy|embed-p376_176.npy|32960|165|"We are very concerned about controller fatigue."
+audio-p376_179.npy|mel-p376_179.npy|embed-p376_179.npy|40640|204|"Sir Jeremy, from Glasgow, said they had been delighted."
+audio-p376_180.npy|mel-p376_180.npy|embed-p376_180.npy|27200|137|"I have no sympathy with her at all."
+audio-p376_181.npy|mel-p376_181.npy|embed-p376_181.npy|37760|189|"Mr Marshall is expected to join the council of Europe."
+audio-p376_182.npy|mel-p376_182.npy|embed-p376_182.npy|28160|141|"Miller was every bit as happy."
+audio-p376_183.npy|mel-p376_183.npy|embed-p376_183.npy|26240|132|"I saw military vehicles in the distance."
+audio-p376_184.npy|mel-p376_184.npy|embed-p376_184.npy|32000|161|"The judges will give a ruling next Wednesday."
+audio-p376_185.npy|mel-p376_185.npy|embed-p376_185.npy|29440|148|"What has caused the demise of singing?"
+audio-p376_188.npy|mel-p376_188.npy|embed-p376_188.npy|27520|138|"Suddenly, the rugby world had changed."
+audio-p376_193.npy|mel-p376_193.npy|embed-p376_193.npy|41600|209|"The modern approach will also be reflected in the terms of address."
+audio-p376_194.npy|mel-p376_194.npy|embed-p376_194.npy|28800|145|"We've had an enjoyable adventure."
+audio-p376_195.npy|mel-p376_195.npy|embed-p376_195.npy|32960|165|"The group is separate from the Real IRA."
+audio-p376_197.npy|mel-p376_197.npy|embed-p376_197.npy|32320|162|"The service from the other players was super."
+audio-p376_199.npy|mel-p376_199.npy|embed-p376_199.npy|39040|196|"The sisters also became the top two players in the world."
+audio-p376_200.npy|mel-p376_200.npy|embed-p376_200.npy|46080|231|"The guidelines are expected to be finalised before next spring."
+audio-p376_201.npy|mel-p376_201.npy|embed-p376_201.npy|38080|191|"I, in the meantime, had been far from chilling."
+audio-p376_204.npy|mel-p376_204.npy|embed-p376_204.npy|30720|154|"HARRY Potter has lost his magic."
+audio-p376_205.npy|mel-p376_205.npy|embed-p376_205.npy|28800|145|"That is an important part of our role."
+audio-p376_209.npy|mel-p376_209.npy|embed-p376_209.npy|37440|188|"He would discuss the peace process in Northern Ireland."
+audio-p376_211.npy|mel-p376_211.npy|embed-p376_211.npy|49280|247|"A final decision will be taken by First Minister Donald Dewar."
+audio-p376_213.npy|mel-p376_213.npy|embed-p376_213.npy|45120|226|"On a technical level, they were not afraid to play good football."
+audio-p376_216.npy|mel-p376_216.npy|embed-p376_216.npy|30720|154|"We could be here for a number of weeks."
+audio-p376_218.npy|mel-p376_218.npy|embed-p376_218.npy|32640|164|"It's a question of creating a future awareness."
+audio-p376_220.npy|mel-p376_220.npy|embed-p376_220.npy|27200|137|"At the time, he was a living legend."
+audio-p376_221.npy|mel-p376_221.npy|embed-p376_221.npy|31680|159|"My wife and family are the support system."
+audio-p376_222.npy|mel-p376_222.npy|embed-p376_222.npy|43200|217|"Her condition was yesterday described as critical, but stable."
+audio-p376_223.npy|mel-p376_223.npy|embed-p376_223.npy|41600|209|"Dewar is certainly under attack from within his own party."
+audio-p376_225.npy|mel-p376_225.npy|embed-p376_225.npy|37120|186|"However, no further action was taken by police."
+audio-p376_227.npy|mel-p376_227.npy|embed-p376_227.npy|28160|141|"And thought we would get away with it."
+audio-p376_228.npy|mel-p376_228.npy|embed-p376_228.npy|44480|223|"Half of young people had had contact with the police."
+audio-p376_231.npy|mel-p376_231.npy|embed-p376_231.npy|31680|159|"Sadly, it sounds as if it is."
+audio-p376_232.npy|mel-p376_232.npy|embed-p376_232.npy|26240|132|"Hospitals are for the ill."
+audio-p376_233.npy|mel-p376_233.npy|embed-p376_233.npy|37760|189|"It would still have been a good film, but very different."
+audio-p376_234.npy|mel-p376_234.npy|embed-p376_234.npy|34560|173|"We have a free vote on these things in our party."
+audio-p376_235.npy|mel-p376_235.npy|embed-p376_235.npy|35520|178|"We lost our composure towards the interval, he said."
+audio-p376_236.npy|mel-p376_236.npy|embed-p376_236.npy|45760|229|"It is linked to the row over proposed changes at Scottish Ballet."
+audio-p376_238.npy|mel-p376_238.npy|embed-p376_238.npy|44800|225|"In short, the Scottish excess is not difficult to justify."
+audio-p376_239.npy|mel-p376_239.npy|embed-p376_239.npy|49280|247|"The project has already secured the support of Sir Sean Connery."
+audio-p376_240.npy|mel-p376_240.npy|embed-p376_240.npy|41600|209|"It is a policy which has the full support of the minister."
+audio-p376_241.npy|mel-p376_241.npy|embed-p376_241.npy|43200|217|"We will need to study the report before any decision is taken."
+audio-p376_242.npy|mel-p376_242.npy|embed-p376_242.npy|33280|167|"I have a lot of relatives in this part of the country."
+audio-p376_244.npy|mel-p376_244.npy|embed-p376_244.npy|41280|207|"He said he intended to push for a judicial review."
+audio-p376_245.npy|mel-p376_245.npy|embed-p376_245.npy|36480|183|"We have got no money to go anywhere."
+audio-p376_252.npy|mel-p376_252.npy|embed-p376_252.npy|45120|226|"This court has made an order which has not been observed."
+audio-p376_254.npy|mel-p376_254.npy|embed-p376_254.npy|46720|234|"It's all change on the music scene in Manchester."
+audio-p376_255.npy|mel-p376_255.npy|embed-p376_255.npy|42240|212|"It is a crisis of human rights, a crisis of leadership."
+audio-p376_258.npy|mel-p376_258.npy|embed-p376_258.npy|48960|245|"That review will look at management across the sector as a whole."
+audio-p376_259.npy|mel-p376_259.npy|embed-p376_259.npy|43200|217|"It is not satisfied with the standard of fire safety provisions."
+audio-p376_261.npy|mel-p376_261.npy|embed-p376_261.npy|26240|132|"Immediate action must be taken."
+audio-p376_262.npy|mel-p376_262.npy|embed-p376_262.npy|38080|191|"Frankly, we should all have such problems."
+audio-p376_263.npy|mel-p376_263.npy|embed-p376_263.npy|45760|229|"Similar measures are expected in England and Wales."
+audio-p376_266.npy|mel-p376_266.npy|embed-p376_266.npy|46720|234|"She has every confidence in his performance of his duties."
+audio-p376_267.npy|mel-p376_267.npy|embed-p376_267.npy|55680|279|"Jim Wallace, justice minister, has refused to hold an inquiry."
+audio-p376_268.npy|mel-p376_268.npy|embed-p376_268.npy|63360|317|"The decision was announced at its annual conference in Dunfermline."
+audio-p376_271.npy|mel-p376_271.npy|embed-p376_271.npy|26240|132|"It was a privilege to work for him."
+audio-p376_274.npy|mel-p376_274.npy|embed-p376_274.npy|35200|177|"It is not a process which can be completed overnight."
+audio-p376_275.npy|mel-p376_275.npy|embed-p376_275.npy|40640|204|"There was a final revealing detail about the broadcast."
+audio-p376_276.npy|mel-p376_276.npy|embed-p376_276.npy|43520|218|"Russian officials have not determined the cause of the accident."
+audio-p376_279.npy|mel-p376_279.npy|embed-p376_279.npy|29440|148|"The death toll included five children."
+audio-p376_282.npy|mel-p376_282.npy|embed-p376_282.npy|40960|205|"Police were called to the ground and interviewed a number of people."
+audio-p376_284.npy|mel-p376_284.npy|embed-p376_284.npy|27840|140|"He was obviously very genuine."
+audio-p376_285.npy|mel-p376_285.npy|embed-p376_285.npy|37120|186|"It is a vote of confidence in the skills in Scotland."
+audio-p376_286.npy|mel-p376_286.npy|embed-p376_286.npy|50880|255|"He added that public transport improvements must also be maintained."
+audio-p376_291.npy|mel-p376_291.npy|embed-p376_291.npy|37760|189|"I have tonight resigned as a member of the European Commission."
+audio-p376_292.npy|mel-p376_292.npy|embed-p376_292.npy|44160|221|"The move was welcomed by the Roman Catholic Church in Scotland."
+audio-p376_293.npy|mel-p376_293.npy|embed-p376_293.npy|40960|205|"That might be a punishment but it would also punish the patients."
+audio-p225_001.npy|mel-p225_001.npy|embed-p225_001.npy|26560|133|Please call Stella.
+audio-p225_002.npy|mel-p225_002.npy|embed-p225_002.npy|42240|212|Ask her to bring these things with her from the store.
+audio-p225_003.npy|mel-p225_003.npy|embed-p225_003.npy|97280|487|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p225_004.npy|mel-p225_004.npy|embed-p225_004.npy|52160|261|We also need a small plastic snake and a big toy frog for the kids.
+audio-p225_005.npy|mel-p225_005.npy|embed-p225_005.npy|82560|413|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p225_006.npy|mel-p225_006.npy|embed-p225_006.npy|83840|420|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p225_007.npy|mel-p225_007.npy|embed-p225_007.npy|62080|311|The rainbow is a division of white light into many beautiful colors.
+audio-p225_008.npy|mel-p225_008.npy|embed-p225_008.npy|106560|533|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p225_009.npy|mel-p225_009.npy|embed-p225_009.npy|68800|345|There is , according to legend, a boiling pot of gold at one end.
+audio-p225_010.npy|mel-p225_010.npy|embed-p225_010.npy|36480|183|People look, but no one ever finds it.
+audio-p225_011.npy|mel-p225_011.npy|embed-p225_011.npy|93760|469|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow.
+audio-p225_012.npy|mel-p225_012.npy|embed-p225_012.npy|56000|281|Throughout the centuries people have explained the rainbow in various ways.
+audio-p225_013.npy|mel-p225_013.npy|embed-p225_013.npy|59200|297|Some have accepted it as a miracle without physical explanation.
+audio-p225_014.npy|mel-p225_014.npy|embed-p225_014.npy|60480|303|To the Hebrews it was a token that there would be no more universal floods.
+audio-p225_016.npy|mel-p225_016.npy|embed-p225_016.npy|93120|466|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
+audio-p225_017.npy|mel-p225_017.npy|embed-p225_017.npy|47680|239|Others have tried to explain the phenomenon physically.
+audio-p225_018.npy|mel-p225_018.npy|embed-p225_018.npy|71360|357|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain.
+audio-p225_019.npy|mel-p225_019.npy|embed-p225_019.npy|105600|529|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows.
+audio-p225_020.npy|mel-p225_020.npy|embed-p225_020.npy|56640|284|Many complicated ideas about the rainbow have been formed.
+audio-p225_021.npy|mel-p225_021.npy|embed-p225_021.npy|130560|653|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.
+audio-p225_022.npy|mel-p225_022.npy|embed-p225_022.npy|83200|417|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.
+audio-p225_023.npy|mel-p225_023.npy|embed-p225_023.npy|154560|773|If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.
+audio-p225_024.npy|mel-p225_024.npy|embed-p225_024.npy|99200|497|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+audio-p225_025.npy|mel-p225_025.npy|embed-p225_025.npy|29440|148|Why do you want to come to Edinburgh ?
+audio-p225_027.npy|mel-p225_027.npy|embed-p225_027.npy|26240|132|So is that it, then ?
+audio-p225_030.npy|mel-p225_030.npy|embed-p225_030.npy|51520|258|People come into the Borders for the beauty of the background.
+audio-p225_033.npy|mel-p225_033.npy|embed-p225_033.npy|60160|301|It's really no great surprise, because the price difference is so much.
+audio-p225_035.npy|mel-p225_035.npy|embed-p225_035.npy|49280|247|A hostile bid is prevented for another nine months.
+audio-p225_037.npy|mel-p225_037.npy|embed-p225_037.npy|44801|225|In fact, they are the future of investment.
+audio-p225_038.npy|mel-p225_038.npy|embed-p225_038.npy|35200|177|Diving is no part of football.
+audio-p225_039.npy|mel-p225_039.npy|embed-p225_039.npy|63040|316|However, the decision has been welcomed by Scottish Enterprise officials.
+audio-p225_044.npy|mel-p225_044.npy|embed-p225_044.npy|60480|303|It was served by sheriff officers, not by the council.
+audio-p225_045.npy|mel-p225_045.npy|embed-p225_045.npy|56960|285|People were determined to change the Government in the last election.
+audio-p225_046.npy|mel-p225_046.npy|embed-p225_046.npy|34880|175|No details of the talks were given.
+audio-p225_052.npy|mel-p225_052.npy|embed-p225_052.npy|51200|257|Already, he has been a tremendous influence in the dressing room.
+audio-p225_054.npy|mel-p225_054.npy|embed-p225_054.npy|28800|145|Four other charges were dropped.
+audio-p225_056.npy|mel-p225_056.npy|embed-p225_056.npy|35520|178|Clearly, it can go either way.
+audio-p225_057.npy|mel-p225_057.npy|embed-p225_057.npy|65600|329|However, the City was in no doubt about the ultimate result.
+audio-p225_058.npy|mel-p225_058.npy|embed-p225_058.npy|31680|159|However, the problem is the timing.
+audio-p225_059.npy|mel-p225_059.npy|embed-p225_059.npy|33280|167|But retail banking would be run from Halifax.
+audio-p225_060.npy|mel-p225_060.npy|embed-p225_060.npy|40960|205|Strathclyde police have appealed for witnesses.
+audio-p225_061.npy|mel-p225_061.npy|embed-p225_061.npy|43520|218|Saddam is not the only example of evil in our world.
+audio-p225_062.npy|mel-p225_062.npy|embed-p225_062.npy|32320|162|I was very pleased with them today, though.
+audio-p225_063.npy|mel-p225_063.npy|embed-p225_063.npy|28480|143|Both sides have been hit by injury.
+audio-p225_066.npy|mel-p225_066.npy|embed-p225_066.npy|30080|151|It is a job creation scheme.
+audio-p225_067.npy|mel-p225_067.npy|embed-p225_067.npy|43520|218|Thankfully, Mr Campbell was able to help.
+audio-p225_072.npy|mel-p225_072.npy|embed-p225_072.npy|30720|154|What kind of man does that, Mr Dick ?
+audio-p225_081.npy|mel-p225_081.npy|embed-p225_081.npy|28800|145|I had no intention of misleading anyone.
+audio-p225_082.npy|mel-p225_082.npy|embed-p225_082.npy|48320|242|That view is held by many others within the industry.
+audio-p225_083.npy|mel-p225_083.npy|embed-p225_083.npy|46400|233|Western countries condemned the conduct of the poll.
+audio-p225_084.npy|mel-p225_084.npy|embed-p225_084.npy|44480|223|He is delighted, and he has every right to be.
+audio-p225_086.npy|mel-p225_086.npy|embed-p225_086.npy|42560|213|In fact, he should never have been in the field.
+audio-p225_089.npy|mel-p225_089.npy|embed-p225_089.npy|40320|202|Officers recovered a second body in the area.
+audio-p225_090.npy|mel-p225_090.npy|embed-p225_090.npy|28480|143|I did not have a bet on myself.
+audio-p225_092.npy|mel-p225_092.npy|embed-p225_092.npy|40320|202|There is a contract in existence for Allan.
+audio-p225_103.npy|mel-p225_103.npy|embed-p225_103.npy|36160|181|Everyone deserves to share in this success.
+audio-p225_104.npy|mel-p225_104.npy|embed-p225_104.npy|39040|196|His is a success story by any standard.
+audio-p225_108.npy|mel-p225_108.npy|embed-p225_108.npy|57600|289|Mr Chisholm said the move was made on the advice of consultants.
+audio-p225_110.npy|mel-p225_110.npy|embed-p225_110.npy|46720|234|Thereafter, he set his mind on becoming a doctor.
+audio-p225_113.npy|mel-p225_113.npy|embed-p225_113.npy|34560|173|The big issue for us is the review.
+audio-p225_114.npy|mel-p225_114.npy|embed-p225_114.npy|30720|154|I told him I was a long time ago.
+audio-p225_115.npy|mel-p225_115.npy|embed-p225_115.npy|45120|226|Overall, it was a promising day for the Scots.
+audio-p225_116.npy|mel-p225_116.npy|embed-p225_116.npy|56320|282|Yesterday the company reported a further downturn in profits.
+audio-p225_117.npy|mel-p225_117.npy|embed-p225_117.npy|47360|237|We have no influence on the Government's policy on the euro.
+audio-p225_118.npy|mel-p225_118.npy|embed-p225_118.npy|30080|151|We suffered a lot for seven years.
+audio-p225_120.npy|mel-p225_120.npy|embed-p225_120.npy|33920|170|The industry is not well organised.
+audio-p225_123.npy|mel-p225_123.npy|embed-p225_123.npy|32640|164|It is the latter which has prompted the warning.
+audio-p225_124.npy|mel-p225_124.npy|embed-p225_124.npy|33600|169|As for the warning, it was not needed.
+audio-p225_128.npy|mel-p225_128.npy|embed-p225_128.npy|37120|186|Mr Hall is believed to have a broken leg.
+audio-p225_131.npy|mel-p225_131.npy|embed-p225_131.npy|42240|212|Another High Street retailer was not so lucky.
+audio-p225_135.npy|mel-p225_135.npy|embed-p225_135.npy|29440|148|We have seen a copy of the report.
+audio-p225_136.npy|mel-p225_136.npy|embed-p225_136.npy|42880|215|But the Commission is on a collision course with the Government.
+audio-p225_141.npy|mel-p225_141.npy|embed-p225_141.npy|32000|161|Drugs are used a lot at the fishing.
+audio-p225_143.npy|mel-p225_143.npy|embed-p225_143.npy|37440|188|Russell did not appeal the committee's decision.
+audio-p225_149.npy|mel-p225_149.npy|embed-p225_149.npy|54720|274|Shareholders will be asked to approve a new replacement scheme.
+audio-p225_150.npy|mel-p225_150.npy|embed-p225_150.npy|56640|284|But he stressed that the partnership is not a construction company.
+audio-p225_151.npy|mel-p225_151.npy|embed-p225_151.npy|30400|153|Nothing has been put into action.
+audio-p225_152.npy|mel-p225_152.npy|embed-p225_152.npy|29440|148|The weather forecast isn't good.
+audio-p225_156.npy|mel-p225_156.npy|embed-p225_156.npy|42560|213|I would like to see the figures  for the second quarter.
+audio-p225_157.npy|mel-p225_157.npy|embed-p225_157.npy|26880|135|He was asked to quit.
+audio-p225_158.npy|mel-p225_158.npy|embed-p225_158.npy|36160|181|Inside, the atmosphere was quiet.
+audio-p225_165.npy|mel-p225_165.npy|embed-p225_165.npy|51840|260|The Internet is no substitute for customer service.
+audio-p225_166.npy|mel-p225_166.npy|embed-p225_166.npy|53120|266|Like last month, it is simply too early to make a call.
+audio-p225_169.npy|mel-p225_169.npy|embed-p225_169.npy|66880|335|Irvine said his company was intent on supporting the Scottish dairy industry.
+audio-p225_171.npy|mel-p225_171.npy|embed-p225_171.npy|58240|292|The report was criticised by the Scottish Consumer Council.
+audio-p225_172.npy|mel-p225_172.npy|embed-p225_172.npy|26240|132|Nobody did in those days.
+audio-p225_173.npy|mel-p225_173.npy|embed-p225_173.npy|49920|250|But the story of the play is worth a play in itself.
+audio-p225_174.npy|mel-p225_174.npy|embed-p225_174.npy|42560|213|He was a big influence on our decision to make this show.
+audio-p225_175.npy|mel-p225_175.npy|embed-p225_175.npy|46720|234|At that point, the structure of the board was changed.
+audio-p225_176.npy|mel-p225_176.npy|embed-p225_176.npy|34560|173|Treatment is not an issue with these people.
+audio-p225_177.npy|mel-p225_177.npy|embed-p225_177.npy|44800|225|The event was held in the council's headquarters in Hamilton.
+audio-p225_182.npy|mel-p225_182.npy|embed-p225_182.npy|25920|130|We are just glad to be alive.
+audio-p225_192.npy|mel-p225_192.npy|embed-p225_192.npy|42881|215|However, this idea is never developed.
+audio-p225_193.npy|mel-p225_193.npy|embed-p225_193.npy|27520|138|It's very difficult to find a buyer.
+audio-p225_196.npy|mel-p225_196.npy|embed-p225_196.npy|34240|172|I think, therefore I am ?
+audio-p225_201.npy|mel-p225_201.npy|embed-p225_201.npy|48320|242|The early goal was a shock to the system for Hearts.
+audio-p225_202.npy|mel-p225_202.npy|embed-p225_202.npy|61760|309|The occasion was the New Labour conference in Brighton last year.
+audio-p225_203.npy|mel-p225_203.npy|embed-p225_203.npy|39040|196|They have the cash and the fire power.
+audio-p225_210.npy|mel-p225_210.npy|embed-p225_210.npy|28800|145|Scotland will play its part.
+audio-p225_211.npy|mel-p225_211.npy|embed-p225_211.npy|40640|204|He added that he was very sad about O Neill.
+audio-p225_212.npy|mel-p225_212.npy|embed-p225_212.npy|37760|189|After that nothing could save him.
+audio-p225_218.npy|mel-p225_218.npy|embed-p225_218.npy|35200|177|We used to live with dignity in our country.
+audio-p225_219.npy|mel-p225_219.npy|embed-p225_219.npy|38720|194|They did not attack the themes of the book.
+audio-p225_220.npy|mel-p225_220.npy|embed-p225_220.npy|51200|257|He would discuss the peace process in Northern Ireland.
+audio-p225_221.npy|mel-p225_221.npy|embed-p225_221.npy|28160|141|It's all change at Kilmarnock.
+audio-p225_222.npy|mel-p225_222.npy|embed-p225_222.npy|37440|188|In each case they were a goal down.
+audio-p225_223.npy|mel-p225_223.npy|embed-p225_223.npy|31040|156|The police have an awful lot to explain.
+audio-p225_224.npy|mel-p225_224.npy|embed-p225_224.npy|55040|276|He said that healthy eating was high on the council agenda.
+audio-p225_235.npy|mel-p225_235.npy|embed-p225_235.npy|41600|209|I always felt that I was in control of the match.
+audio-p225_236.npy|mel-p225_236.npy|embed-p225_236.npy|37120|186|That will be the criteria for the future.
+audio-p225_237.npy|mel-p225_237.npy|embed-p225_237.npy|43520|218|Frankly, we were lucky to get second.
+audio-p225_238.npy|mel-p225_238.npy|embed-p225_238.npy|30720|154|Paterson can afford to be generous.
+audio-p225_239.npy|mel-p225_239.npy|embed-p225_239.npy|47360|237|In fact, he is not even in the squad for the game.
+audio-p225_241.npy|mel-p225_241.npy|embed-p225_241.npy|38080|191|Well, they were the unlucky ones.
+audio-p225_242.npy|mel-p225_242.npy|embed-p225_242.npy|51200|257|The singer is expected to be in hospital for several days.
+audio-p225_253.npy|mel-p225_253.npy|embed-p225_253.npy|53760|269|Clearly, the need for a personal loan is written in the stars.
+audio-p225_258.npy|mel-p225_258.npy|embed-p225_258.npy|27200|137|We were not allowed to go to help them.
+audio-p225_264.npy|mel-p225_264.npy|embed-p225_264.npy|41600|209|That should be the subject matter of a public debate.
+audio-p225_265.npy|mel-p225_265.npy|embed-p225_265.npy|33920|170|It was a Budget for jobs for Scotland.
+audio-p225_266.npy|mel-p225_266.npy|embed-p225_266.npy|37760|189|No other vehicle was involved in the crash.
+audio-p225_268.npy|mel-p225_268.npy|embed-p225_268.npy|35200|177|I realised I was lucky to have it.
+audio-p225_273.npy|mel-p225_273.npy|embed-p225_273.npy|42560|213|He has not created a Festival resource.
+audio-p225_274.npy|mel-p225_274.npy|embed-p225_274.npy|45120|226|We have not reached the point of no return.
+audio-p225_275.npy|mel-p225_275.npy|embed-p225_275.npy|50240|252|Similar measures are expected in England and Wales.
+audio-p225_276.npy|mel-p225_276.npy|embed-p225_276.npy|36160|181|He will make an excellent chief inspector.
+audio-p225_277.npy|mel-p225_277.npy|embed-p225_277.npy|55680|279|It depends on the internal discussions in the Ministry of Defence.
+audio-p225_279.npy|mel-p225_279.npy|embed-p225_279.npy|56640|284|Everything happened so quickly, that we were taken by surprise.
+audio-p225_280.npy|mel-p225_280.npy|embed-p225_280.npy|46400|233|Sadly, the revival could not be sustained.
+audio-p225_281.npy|mel-p225_281.npy|embed-p225_281.npy|29760|149|They were not at the property yesterday.
+audio-p225_282.npy|mel-p225_282.npy|embed-p225_282.npy|38080|191|It was at the Royal Concert Hall in Glasgow.
+audio-p225_285.npy|mel-p225_285.npy|embed-p225_285.npy|26240|132|We have to break that cycle.
+audio-p225_286.npy|mel-p225_286.npy|embed-p225_286.npy|28480|143|I wanted to change the formula.
+audio-p225_287.npy|mel-p225_287.npy|embed-p225_287.npy|45440|228|She said the charity would continue to monitor the case.
+audio-p225_289.npy|mel-p225_289.npy|embed-p225_289.npy|42240|212|Motherwell have no such good fortune.
+audio-p225_290.npy|mel-p225_290.npy|embed-p225_290.npy|33600|169|Scotch beef is badly missed.
+audio-p225_291.npy|mel-p225_291.npy|embed-p225_291.npy|38400|193|We would hope to make progress on that next year.
+audio-p225_293.npy|mel-p225_293.npy|embed-p225_293.npy|51200|257|It's great, because it takes a lot of pressure off the players.
+audio-p225_294.npy|mel-p225_294.npy|embed-p225_294.npy|48001|241|However, we had no failures in our side.
+audio-p225_295.npy|mel-p225_295.npy|embed-p225_295.npy|34240|172|Clydesdale Bank declined to comment.
+audio-p225_296.npy|mel-p225_296.npy|embed-p225_296.npy|27520|138|It goes back a long way.
+audio-p225_297.npy|mel-p225_297.npy|embed-p225_297.npy|48000|241|Innocent people have a right to live in safety.
+audio-p225_298.npy|mel-p225_298.npy|embed-p225_298.npy|32640|164|It was deployed in the Gulf War.
+audio-p225_299.npy|mel-p225_299.npy|embed-p225_299.npy|42560|213|They had to learn to work from the consumer back.
+audio-p225_301.npy|mel-p225_301.npy|embed-p225_301.npy|27840|140|I must do something about it.
+audio-p225_302.npy|mel-p225_302.npy|embed-p225_302.npy|39360|197|Three hours later, the man was free.
+audio-p225_303.npy|mel-p225_303.npy|embed-p225_303.npy|32960|165|And it had been a marvellous occasion.
+audio-p225_305.npy|mel-p225_305.npy|embed-p225_305.npy|32320|162|Cast Away now on general release.
+audio-p225_308.npy|mel-p225_308.npy|embed-p225_308.npy|28800|145|I thought his speech was a disgrace.
+audio-p225_312.npy|mel-p225_312.npy|embed-p225_312.npy|27200|137|Do they think anyone else wants them ?
+audio-p225_314.npy|mel-p225_314.npy|embed-p225_314.npy|46080|231|We believe the world has too many refugees already.
+audio-p225_315.npy|mel-p225_315.npy|embed-p225_315.npy|64000|321|The confidence is low, but it is a difficult thing to understand.
+audio-p225_316.npy|mel-p225_316.npy|embed-p225_316.npy|40320|202|It is beyond the government to deal with this tragedy.
+audio-p225_317.npy|mel-p225_317.npy|embed-p225_317.npy|50560|253|At the moment, it is very difficult to know.
+audio-p225_318.npy|mel-p225_318.npy|embed-p225_318.npy|40320|202|The problem was he thought you were a big man.
+audio-p225_320.npy|mel-p225_320.npy|embed-p225_320.npy|32640|164|We have a good healthy debate.
+audio-p225_322.npy|mel-p225_322.npy|embed-p225_322.npy|53760|269|Funding for the science centre has come from a number of sources.
+audio-p225_325.npy|mel-p225_325.npy|embed-p225_325.npy|51520|258|The court was shown a video of the house on that day.
+audio-p225_328.npy|mel-p225_328.npy|embed-p225_328.npy|30080|151|It is just a tax on employment.
+audio-p225_329.npy|mel-p225_329.npy|embed-p225_329.npy|48960|245|There is no other solution to congestion in Edinburgh.
+audio-p225_330.npy|mel-p225_330.npy|embed-p225_330.npy|26240|132|We are a peaceful people.
+audio-p225_331.npy|mel-p225_331.npy|embed-p225_331.npy|66240|332|Ms Anderson yesterday put a brave face on the departure.
+audio-p225_332.npy|mel-p225_332.npy|embed-p225_332.npy|31040|156|It's difficult to predict the future.
+audio-p225_334.npy|mel-p225_334.npy|embed-p225_334.npy|55360|277|Plans to celebrate the Queen's Golden Jubilee will proceed.
+audio-p225_336.npy|mel-p225_336.npy|embed-p225_336.npy|29760|149|I came into this world with nothing.
+audio-p225_346.npy|mel-p225_346.npy|embed-p225_346.npy|27200|137|It wasn't a flight of fancy.
+audio-p225_350.npy|mel-p225_350.npy|embed-p225_350.npy|41920|210|However, there is an issue, isn't there ?
+audio-p225_351.npy|mel-p225_351.npy|embed-p225_351.npy|26560|133|After the match, do you ?
+audio-p225_352.npy|mel-p225_352.npy|embed-p225_352.npy|28480|143|He was then replaced by Ross.
+audio-p225_353.npy|mel-p225_353.npy|embed-p225_353.npy|30400|153|THE pain was almost too much to bear.
+audio-p225_354.npy|mel-p225_354.npy|embed-p225_354.npy|39040|196|This action reflects a slump in bookings.
+audio-p225_355.npy|mel-p225_355.npy|embed-p225_355.npy|55360|277|Her husband was very concerned that it might be fatal.
+audio-p225_356.npy|mel-p225_356.npy|embed-p225_356.npy|31360|157|I said he was set to retire.
+audio-p225_358.npy|mel-p225_358.npy|embed-p225_358.npy|47680|239|The commitment was not long, and it was worth the risk.
+audio-p225_366.npy|mel-p225_366.npy|embed-p225_366.npy|61760|309|It is linked to the row over proposed changes at Scottish Ballet.
+audio-p361_002.npy|mel-p361_002.npy|embed-p361_002.npy|39040|196|Ask her to bring these things with her from the store.
+audio-p361_003.npy|mel-p361_003.npy|embed-p361_003.npy|88960|445|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p361_004.npy|mel-p361_004.npy|embed-p361_004.npy|57600|289|We also need a small plastic snake and a big toy frog for the kids.
+audio-p361_005.npy|mel-p361_005.npy|embed-p361_005.npy|81280|407|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p361_006.npy|mel-p361_006.npy|embed-p361_006.npy|69440|348|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p361_007.npy|mel-p361_007.npy|embed-p361_007.npy|55040|276|The rainbow is a division of white light into many beautiful colors.
+audio-p361_008.npy|mel-p361_008.npy|embed-p361_008.npy|98240|492|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p361_009.npy|mel-p361_009.npy|embed-p361_009.npy|54720|274|There is , according to legend, a boiling pot of gold at one end.
+audio-p361_010.npy|mel-p361_010.npy|embed-p361_010.npy|29760|149|People look, but no one ever finds it.
+audio-p361_011.npy|mel-p361_011.npy|embed-p361_011.npy|85120|426|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow.
+audio-p361_012.npy|mel-p361_012.npy|embed-p361_012.npy|53120|266|Throughout the centuries people have explained the rainbow in various ways.
+audio-p361_013.npy|mel-p361_013.npy|embed-p361_013.npy|52800|265|Some have accepted it as a miracle without physical explanation.
+audio-p361_014.npy|mel-p361_014.npy|embed-p361_014.npy|58880|295|To the Hebrews it was a token that there would be no more universal floods.
+audio-p361_015.npy|mel-p361_015.npy|embed-p361_015.npy|75520|378|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain.
+audio-p361_016.npy|mel-p361_016.npy|embed-p361_016.npy|94400|473|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
+audio-p361_017.npy|mel-p361_017.npy|embed-p361_017.npy|40960|205|Others have tried to explain the phenomenon physically.
+audio-p361_018.npy|mel-p361_018.npy|embed-p361_018.npy|64000|321|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain.
+audio-p361_019.npy|mel-p361_019.npy|embed-p361_019.npy|105601|529|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows.
+audio-p361_020.npy|mel-p361_020.npy|embed-p361_020.npy|47040|236|Many complicated ideas about the rainbow have been formed.
+audio-p361_021.npy|mel-p361_021.npy|embed-p361_021.npy|125760|629|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.
+audio-p361_022.npy|mel-p361_022.npy|embed-p361_022.npy|87040|436|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.
+audio-p361_023.npy|mel-p361_023.npy|embed-p361_023.npy|146560|733|If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.
+audio-p361_024.npy|mel-p361_024.npy|embed-p361_024.npy|82560|413|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+audio-p361_026.npy|mel-p361_026.npy|embed-p361_026.npy|30080|151|That is where the damage has been done.
+audio-p361_027.npy|mel-p361_027.npy|embed-p361_027.npy|31680|159|He may not need to force that message.
+audio-p361_028.npy|mel-p361_028.npy|embed-p361_028.npy|28800|145|These decisions are not simple.
+audio-p361_030.npy|mel-p361_030.npy|embed-p361_030.npy|27200|137|We must convince the citizens.
+audio-p361_031.npy|mel-p361_031.npy|embed-p361_031.npy|33280|167|I decided it is going to be William.
+audio-p361_033.npy|mel-p361_033.npy|embed-p361_033.npy|28480|143|It is a case of taking a risk.
+audio-p361_034.npy|mel-p361_034.npy|embed-p361_034.npy|30400|153|I am really ready for it now.
+audio-p361_035.npy|mel-p361_035.npy|embed-p361_035.npy|26240|132|He was jailed for four years.
+audio-p361_039.npy|mel-p361_039.npy|embed-p361_039.npy|27840|140|It took two minutes to respond.
+audio-p361_040.npy|mel-p361_040.npy|embed-p361_040.npy|30400|153|Why you did it will never be known.
+audio-p361_045.npy|mel-p361_045.npy|embed-p361_045.npy|33600|169|He was found again almost a year later.
+audio-p361_048.npy|mel-p361_048.npy|embed-p361_048.npy|29440|148|It is all starting to come together.
+audio-p361_049.npy|mel-p361_049.npy|embed-p361_049.npy|31360|157|I am the fastest player on the course.
+audio-p361_050.npy|mel-p361_050.npy|embed-p361_050.npy|26880|135|It is the tip of the iceberg.
+audio-p361_051.npy|mel-p361_051.npy|embed-p361_051.npy|25600|129|They were taken to prove a point.
+audio-p361_052.npy|mel-p361_052.npy|embed-p361_052.npy|34560|173|It doesn't have to be in Inverness.
+audio-p361_053.npy|mel-p361_053.npy|embed-p361_053.npy|26560|133|It is an important step forward.
+audio-p361_054.npy|mel-p361_054.npy|embed-p361_054.npy|38080|191|A final agreement has not yet been completed.
+audio-p361_058.npy|mel-p361_058.npy|embed-p361_058.npy|27200|137|This resulted in the following.
+audio-p361_060.npy|mel-p361_060.npy|embed-p361_060.npy|32000|161|We will be patient but we will win.
+audio-p361_064.npy|mel-p361_064.npy|embed-p361_064.npy|25600|129|But the law is very clear on this.
+audio-p361_065.npy|mel-p361_065.npy|embed-p361_065.npy|32320|162|I thought it was quite a positive result.
+audio-p361_070.npy|mel-p361_070.npy|embed-p361_070.npy|27840|140|We have a strong team at the moment.
+audio-p361_072.npy|mel-p361_072.npy|embed-p361_072.npy|33920|170|The problem is not confined to the UK.
+audio-p361_076.npy|mel-p361_076.npy|embed-p361_076.npy|50560|253|I've got to be better than that   Quite.
+audio-p361_077.npy|mel-p361_077.npy|embed-p361_077.npy|27520|138|I wouldn't give them a grade.
+audio-p361_079.npy|mel-p361_079.npy|embed-p361_079.npy|32000|161|We have never been short of volunteers.
+audio-p361_081.npy|mel-p361_081.npy|embed-p361_081.npy|25920|130|Kenny Miller might come through.
+audio-p361_082.npy|mel-p361_082.npy|embed-p361_082.npy|36800|185|Workers will now be balloted on the offer.
+audio-p361_086.npy|mel-p361_086.npy|embed-p361_086.npy|27840|140|It was exactly four months away.
+audio-p361_087.npy|mel-p361_087.npy|embed-p361_087.npy|26240|132|This is a personal decision for me.
+audio-p361_089.npy|mel-p361_089.npy|embed-p361_089.npy|26240|132|We all want to be left alone.
+audio-p361_092.npy|mel-p361_092.npy|embed-p361_092.npy|27840|140|I am delighted to hear this news.
+audio-p361_095.npy|mel-p361_095.npy|embed-p361_095.npy|28480|143|If it's going in, it goes in.
+audio-p361_096.npy|mel-p361_096.npy|embed-p361_096.npy|27520|138|Nobody called me to explain.
+audio-p361_097.npy|mel-p361_097.npy|embed-p361_097.npy|28480|143|You didn't get a modified.
+audio-p361_099.npy|mel-p361_099.npy|embed-p361_099.npy|38400|193|Seriously, we are not concerned at all.
+audio-p361_104.npy|mel-p361_104.npy|embed-p361_104.npy|28160|141|The girls are so lucky to be alive.
+audio-p361_105.npy|mel-p361_105.npy|embed-p361_105.npy|37120|186|It may be tomorrow - but it may be later.
+audio-p361_106.npy|mel-p361_106.npy|embed-p361_106.npy|26240|132|I've done a lot in that building.
+audio-p361_108.npy|mel-p361_108.npy|embed-p361_108.npy|26240|132|The results are very positive.
+audio-p361_109.npy|mel-p361_109.npy|embed-p361_109.npy|27520|138|Talk of a crisis is absurd.
+audio-p361_112.npy|mel-p361_112.npy|embed-p361_112.npy|40960|205|Next league matches, Aberdeen - Dundee United.
+audio-p361_115.npy|mel-p361_115.npy|embed-p361_115.npy|34240|172|This could easily have been another tragedy.
+audio-p361_117.npy|mel-p361_117.npy|embed-p361_117.npy|26560|133|He was taken ill in his office.
+audio-p361_119.npy|mel-p361_119.npy|embed-p361_119.npy|34240|172|Cost is a factor, but not the only one.
+audio-p361_121.npy|mel-p361_121.npy|embed-p361_121.npy|26240|132|It is just a statement of fact.
+audio-p361_123.npy|mel-p361_123.npy|embed-p361_123.npy|25920|130|I will just have to be patient.
+audio-p361_126.npy|mel-p361_126.npy|embed-p361_126.npy|28800|145|He has gone through the process before.
+audio-p361_127.npy|mel-p361_127.npy|embed-p361_127.npy|34240|172|Social workers are on stand-by to help.
+audio-p361_128.npy|mel-p361_128.npy|embed-p361_128.npy|27840|140|We've always had something to do.
+audio-p361_130.npy|mel-p361_130.npy|embed-p361_130.npy|26880|135|It will be released in October.
+audio-p361_133.npy|mel-p361_133.npy|embed-p361_133.npy|28480|143|IT is called a killing in the trade.
+audio-p361_135.npy|mel-p361_135.npy|embed-p361_135.npy|27840|140|It will have to ratify the deal.
+audio-p361_136.npy|mel-p361_136.npy|embed-p361_136.npy|25920|130|I've never seen anything like it.
+audio-p361_138.npy|mel-p361_138.npy|embed-p361_138.npy|30400|153|We needed someone and we now have him.
+audio-p361_139.npy|mel-p361_139.npy|embed-p361_139.npy|30400|153|It has to find out what went wrong.
+audio-p361_141.npy|mel-p361_141.npy|embed-p361_141.npy|25920|130|I'm sure he will be aware of it.
+audio-p361_143.npy|mel-p361_143.npy|embed-p361_143.npy|32000|161|They received no money under the merger.
+audio-p361_147.npy|mel-p361_147.npy|embed-p361_147.npy|34560|173|It seems to have been an own goal.
+audio-p361_148.npy|mel-p361_148.npy|embed-p361_148.npy|29120|146|Or someone wants to say something different.
+audio-p361_154.npy|mel-p361_154.npy|embed-p361_154.npy|25600|129|The conclusion is the same.
+audio-p361_161.npy|mel-p361_161.npy|embed-p361_161.npy|30400|153|You can see the appeal of running away.
+audio-p361_162.npy|mel-p361_162.npy|embed-p361_162.npy|27840|140|This means a lot of hard decisions.
+audio-p361_165.npy|mel-p361_165.npy|embed-p361_165.npy|29760|149|He tells the truth and that's important.
+audio-p361_172.npy|mel-p361_172.npy|embed-p361_172.npy|27200|137|It is a very demanding course.
+audio-p361_174.npy|mel-p361_174.npy|embed-p361_174.npy|31680|159|The quality of life is difficult for them.
+audio-p361_176.npy|mel-p361_176.npy|embed-p361_176.npy|28800|145|If they wish to go, they can go.
+audio-p361_177.npy|mel-p361_177.npy|embed-p361_177.npy|36480|183|However, it was a different story in the final.
+audio-p361_183.npy|mel-p361_183.npy|embed-p361_183.npy|29760|149|Then everyone must consider their future.
+audio-p361_188.npy|mel-p361_188.npy|embed-p361_188.npy|26880|135|This is positive and welcome.
+audio-p361_189.npy|mel-p361_189.npy|embed-p361_189.npy|28800|145|Now he is back on top again.
+audio-p361_193.npy|mel-p361_193.npy|embed-p361_193.npy|32000|161|That is clearly not happening fast enough.
+audio-p361_194.npy|mel-p361_194.npy|embed-p361_194.npy|36160|181|We were not consulted regarding this appointment.
+audio-p361_200.npy|mel-p361_200.npy|embed-p361_200.npy|35520|178|On the face of it, this is excellent news.
+audio-p361_205.npy|mel-p361_205.npy|embed-p361_205.npy|32000|161|Translation - we got it wrong.
+audio-p361_206.npy|mel-p361_206.npy|embed-p361_206.npy|32000|161|We will be working on that this week, all right.
+audio-p361_209.npy|mel-p361_209.npy|embed-p361_209.npy|27840|140|She has always been very friendly.
+audio-p361_216.npy|mel-p361_216.npy|embed-p361_216.npy|29120|146|Usually the enjoyment is two ways.
+audio-p361_224.npy|mel-p361_224.npy|embed-p361_224.npy|32320|162|There were other problems for Brown yesterday.
+audio-p361_226.npy|mel-p361_226.npy|embed-p361_226.npy|28800|145|Part-time staff are being laid off.
+audio-p361_227.npy|mel-p361_227.npy|embed-p361_227.npy|31040|156|Mind you, it wouldn't be a bad idea.
+audio-p361_228.npy|mel-p361_228.npy|embed-p361_228.npy|30400|153|But they have taken the lesson to heart.
+audio-p361_229.npy|mel-p361_229.npy|embed-p361_229.npy|26560|133|I just want him to win a tournament.
+audio-p361_230.npy|mel-p361_230.npy|embed-p361_230.npy|32960|165|Eight others are also believed to have died.
+audio-p361_231.npy|mel-p361_231.npy|embed-p361_231.npy|32960|165|This time, he will be more on the defensive.
+audio-p361_232.npy|mel-p361_232.npy|embed-p361_232.npy|27200|137|I will never see my son again.
+audio-p361_233.npy|mel-p361_233.npy|embed-p361_233.npy|26880|135|But it is being pursued.
+audio-p361_236.npy|mel-p361_236.npy|embed-p361_236.npy|31040|156|We didn't and it cost us the game.
+audio-p361_238.npy|mel-p361_238.npy|embed-p361_238.npy|33600|169|Neil is never going to come back.
+audio-p361_239.npy|mel-p361_239.npy|embed-p361_239.npy|33280|167|The years of campaigning have been very difficult.
+audio-p361_241.npy|mel-p361_241.npy|embed-p361_241.npy|29760|149|He was also very happy to listen.
+audio-p361_246.npy|mel-p361_246.npy|embed-p361_246.npy|31360|157|We want to see the maximum of change.
+audio-p361_247.npy|mel-p361_247.npy|embed-p361_247.npy|26560|133|But those days are dead and gone.
+audio-p361_248.npy|mel-p361_248.npy|embed-p361_248.npy|30400|153|However we must not be complacent.
+audio-p361_253.npy|mel-p361_253.npy|embed-p361_253.npy|25920|130|It is not just the agencies.
+audio-p361_260.npy|mel-p361_260.npy|embed-p361_260.npy|28480|143|Was he confident about his prospects?
+audio-p361_264.npy|mel-p361_264.npy|embed-p361_264.npy|30080|151|There is no other offer on the table.
+audio-p361_265.npy|mel-p361_265.npy|embed-p361_265.npy|29760|149|When she returned, it was a wreck.
+audio-p361_266.npy|mel-p361_266.npy|embed-p361_266.npy|27840|140|Nobody is pushing out to the right.
+audio-p361_270.npy|mel-p361_270.npy|embed-p361_270.npy|32000|161|Full back was a bit of the unknown.
+audio-p361_272.npy|mel-p361_272.npy|embed-p361_272.npy|27520|138|So what is the secret of the success?
+audio-p361_273.npy|mel-p361_273.npy|embed-p361_273.npy|26560|133|My husband was fighting for his life.
+audio-p361_275.npy|mel-p361_275.npy|embed-p361_275.npy|30400|153|It is still under discussion with the board.
+audio-p361_281.npy|mel-p361_281.npy|embed-p361_281.npy|28480|143|I am really sorry that he is going.
+audio-p361_282.npy|mel-p361_282.npy|embed-p361_282.npy|28800|145|Indeed, that has already begun.
+audio-p361_288.npy|mel-p361_288.npy|embed-p361_288.npy|27200|137|I did not think it was very proper.
+audio-p361_292.npy|mel-p361_292.npy|embed-p361_292.npy|26240|132|It was considered to be topical.
+audio-p361_298.npy|mel-p361_298.npy|embed-p361_298.npy|32000|161|If we don't do it, someone else will.
+audio-p361_311.npy|mel-p361_311.npy|embed-p361_311.npy|26880|135|A winter of discontent awaits.
+audio-p361_314.npy|mel-p361_314.npy|embed-p361_314.npy|37440|188|Many referees are on a hiding to nothing.
+audio-p361_315.npy|mel-p361_315.npy|embed-p361_315.npy|26240|132|They are already there.
+audio-p361_316.npy|mel-p361_316.npy|embed-p361_316.npy|28160|141|I'd never given up on myself.
+audio-p361_319.npy|mel-p361_319.npy|embed-p361_319.npy|30720|154|It was a management problem in the hospital.
+audio-p361_325.npy|mel-p361_325.npy|embed-p361_325.npy|34240|172|There they were, making excuses for him.
+audio-p361_327.npy|mel-p361_327.npy|embed-p361_327.npy|25600|129|Every case is completely different.
+audio-p361_328.npy|mel-p361_328.npy|embed-p361_328.npy|26880|135|It's all about unfinished business.
+audio-p361_329.npy|mel-p361_329.npy|embed-p361_329.npy|32000|161|Our own people are coming over on Friday.
+audio-p361_330.npy|mel-p361_330.npy|embed-p361_330.npy|27520|138|In Scotland, there should be vigilance.
+audio-p361_336.npy|mel-p361_336.npy|embed-p361_336.npy|32960|165|When you think you cannot go on, you can.
+audio-p361_339.npy|mel-p361_339.npy|embed-p361_339.npy|36160|181|They are a very good side, without a doubt.
+audio-p361_345.npy|mel-p361_345.npy|embed-p361_345.npy|38720|194|Next League matches, Aberdeen - Dundee.
+audio-p361_347.npy|mel-p361_347.npy|embed-p361_347.npy|25920|130|This is still happening in the US.
+audio-p361_350.npy|mel-p361_350.npy|embed-p361_350.npy|27840|140|It wasn't about her singing, though.
+audio-p361_351.npy|mel-p361_351.npy|embed-p361_351.npy|27840|140|From the opening Could It Be Magic?
+audio-p361_352.npy|mel-p361_352.npy|embed-p361_352.npy|29760|149|The duties are still to be drawn up.
+audio-p361_356.npy|mel-p361_356.npy|embed-p361_356.npy|28800|145|I did not go looking anywhere else.
+audio-p361_357.npy|mel-p361_357.npy|embed-p361_357.npy|29120|146|We had no idea what was going on.
+audio-p361_360.npy|mel-p361_360.npy|embed-p361_360.npy|25600|129|Seven people were critically injured.
+audio-p361_373.npy|mel-p361_373.npy|embed-p361_373.npy|31680|159|I just hope it's not tonight against us.
+audio-p361_374.npy|mel-p361_374.npy|embed-p361_374.npy|26560|133|This is good news for the industry.
+audio-p361_378.npy|mel-p361_378.npy|embed-p361_378.npy|26560|133|I have never seen anything like it.
+audio-p361_388.npy|mel-p361_388.npy|embed-p361_388.npy|32640|164|Firstly, we don't know we can do this.
+audio-p361_389.npy|mel-p361_389.npy|embed-p361_389.npy|29120|146|I think it was entirely the right decision.
+audio-p361_390.npy|mel-p361_390.npy|embed-p361_390.npy|28160|141|It is planned for London in the spring.
+audio-p361_391.npy|mel-p361_391.npy|embed-p361_391.npy|25600|129|Everything is coming together well.
+audio-p361_392.npy|mel-p361_392.npy|embed-p361_392.npy|26880|135|They would have to go to the Royal.
+audio-p361_394.npy|mel-p361_394.npy|embed-p361_394.npy|27840|140|It didn't matter who was in their way.
+audio-p361_395.npy|mel-p361_395.npy|embed-p361_395.npy|31040|156|That will be the criteria for the future.
+audio-p361_397.npy|mel-p361_397.npy|embed-p361_397.npy|34560|173|He was too good for me - too consistent.
+audio-p361_398.npy|mel-p361_398.npy|embed-p361_398.npy|30720|154|I am delighted to have her back home.
+audio-p361_399.npy|mel-p361_399.npy|embed-p361_399.npy|28480|143|This idea is a good starting point.
+audio-p361_406.npy|mel-p361_406.npy|embed-p361_406.npy|32960|165|It is truly masterly performance.
+audio-p361_407.npy|mel-p361_407.npy|embed-p361_407.npy|26880|135|She failed to win any of them.
+audio-p361_408.npy|mel-p361_408.npy|embed-p361_408.npy|27520|138|It is believed he had been stabbed.
+audio-p361_409.npy|mel-p361_409.npy|embed-p361_409.npy|34240|172|Wednesday night was a difficult time for Britton.
+audio-p361_410.npy|mel-p361_410.npy|embed-p361_410.npy|33920|170|It has a rally instead of a conference.
+audio-p361_413.npy|mel-p361_413.npy|embed-p361_413.npy|30080|151|That can benefit the larger companies.
+audio-p361_414.npy|mel-p361_414.npy|embed-p361_414.npy|28800|145|I am still waiting for a reply.
+audio-p361_416.npy|mel-p361_416.npy|embed-p361_416.npy|27200|137|This was a very tragic accident.
+audio-p361_417.npy|mel-p361_417.npy|embed-p361_417.npy|26240|132|We are very, very confident.
+audio-p361_419.npy|mel-p361_419.npy|embed-p361_419.npy|27200|137|Everyone in Britain is proud of this team.
+audio-p361_420.npy|mel-p361_420.npy|embed-p361_420.npy|29120|146|We certainly do not intend to disband.
+audio-p231_002.npy|mel-p231_002.npy|embed-p231_002.npy|35200|177|Ask her to bring these things with her from the store.
+audio-p231_003.npy|mel-p231_003.npy|embed-p231_003.npy|79680|399|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p231_004.npy|mel-p231_004.npy|embed-p231_004.npy|50880|255|We also need a small plastic snake and a big toy frog for the kids.
+audio-p231_005.npy|mel-p231_005.npy|embed-p231_005.npy|69760|349|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p231_006.npy|mel-p231_006.npy|embed-p231_006.npy|63360|317|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p231_007.npy|mel-p231_007.npy|embed-p231_007.npy|45120|226|The rainbow is a division of white light into many beautiful colors.
+audio-p231_008.npy|mel-p231_008.npy|embed-p231_008.npy|88320|442|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p231_009.npy|mel-p231_009.npy|embed-p231_009.npy|50560|253|There is , according to legend, a boiling pot of gold at one end.
+audio-p231_010.npy|mel-p231_010.npy|embed-p231_010.npy|30080|151|People look, but no one ever finds it.
+audio-p231_011.npy|mel-p231_011.npy|embed-p231_011.npy|82880|415|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow.
+audio-p231_012.npy|mel-p231_012.npy|embed-p231_012.npy|48320|242|Throughout the centuries people have explained the rainbow in various ways.
+audio-p231_013.npy|mel-p231_013.npy|embed-p231_013.npy|43200|217|Some have accepted it as a miracle without physical explanation.
+audio-p231_014.npy|mel-p231_014.npy|embed-p231_014.npy|51520|258|To the Hebrews it was a token that there would be no more universal floods.
+audio-p231_015.npy|mel-p231_015.npy|embed-p231_015.npy|61440|308|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain.
+audio-p231_016.npy|mel-p231_016.npy|embed-p231_016.npy|74240|372|The Norsemen considered the rainbow as a bridge over which the gods passed from the earth to their home in the sky.
+audio-p231_017.npy|mel-p231_017.npy|embed-p231_017.npy|36160|181|Others have tried to explain the phenomenon physically.
+audio-p231_018.npy|mel-p231_018.npy|embed-p231_018.npy|63680|319|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain.
+audio-p231_019.npy|mel-p231_019.npy|embed-p231_019.npy|85760|429|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows.
+audio-p231_020.npy|mel-p231_020.npy|embed-p231_020.npy|43200|217|Many complicated ideas about the rainbow have been formed.
+audio-p231_021.npy|mel-p231_021.npy|embed-p231_021.npy|102080|511|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.
+audio-p231_023.npy|mel-p231_023.npy|embed-p231_023.npy|134080|671|If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.
+audio-p231_024.npy|mel-p231_024.npy|embed-p231_024.npy|72640|364|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+audio-p231_025.npy|mel-p231_025.npy|embed-p231_025.npy|42240|212|On our numbers, the price is in line with the asset value.
+audio-p231_029.npy|mel-p231_029.npy|embed-p231_029.npy|38400|193|Last night, Mr Robertson said he was delighted.
+audio-p231_031.npy|mel-p231_031.npy|embed-p231_031.npy|29440|148|The Premier League has been a huge success.
+audio-p231_032.npy|mel-p231_032.npy|embed-p231_032.npy|40640|204|If we cannot succeed in this endeavour, then so be it.
+audio-p231_037.npy|mel-p231_037.npy|embed-p231_037.npy|27840|140|You must always attempt to raise the bar.
+audio-p231_039.npy|mel-p231_039.npy|embed-p231_039.npy|46080|231|Mr Blair last night attended his weekly audience with the Queen.
+audio-p231_041.npy|mel-p231_041.npy|embed-p231_041.npy|29120|146|Iain Duncan Smith is a decent man.
+audio-p231_044.npy|mel-p231_044.npy|embed-p231_044.npy|38720|194|He declined to reveal the offer price which was accepted.
+audio-p231_053.npy|mel-p231_053.npy|embed-p231_053.npy|30080|151|The cuts were made within an hour of each other.
+audio-p231_055.npy|mel-p231_055.npy|embed-p231_055.npy|33600|169|In time, the First Minister will grow in stature.
+audio-p231_065.npy|mel-p231_065.npy|embed-p231_065.npy|43520|218|The rate of growth in road traffic is already beginning to slow.
+audio-p231_068.npy|mel-p231_068.npy|embed-p231_068.npy|35200|177|He becomes the new Minister for Sport and Culture.
+audio-p231_070.npy|mel-p231_070.npy|embed-p231_070.npy|27200|137|This is an exciting new venture.
+audio-p231_074.npy|mel-p231_074.npy|embed-p231_074.npy|29440|148|Both men were on one-year contracts.
+audio-p231_078.npy|mel-p231_078.npy|embed-p231_078.npy|38080|191|After five weeks the vehicle will be sold at auction.
+audio-p231_079.npy|mel-p231_079.npy|embed-p231_079.npy|28800|145|Both agreed on the success of the event.
+audio-p231_080.npy|mel-p231_080.npy|embed-p231_080.npy|33280|167|Here, too, the Post Office has missed the boat.
+audio-p231_081.npy|mel-p231_081.npy|embed-p231_081.npy|28160|141|On Saturday, it was much the same.
+audio-p231_086.npy|mel-p231_086.npy|embed-p231_086.npy|29760|149|Strathclyde Police declined to comment.
+audio-p231_089.npy|mel-p231_089.npy|embed-p231_089.npy|39360|197|However, a decision should be made before the end of August.
+audio-p231_095.npy|mel-p231_095.npy|embed-p231_095.npy|27520|138|This is the logic of punishment assaults.
+audio-p231_097.npy|mel-p231_097.npy|embed-p231_097.npy|31360|157|We should recognise others have done a good job.
+audio-p231_101.npy|mel-p231_101.npy|embed-p231_101.npy|25600|129|That time is not now, however.
+audio-p231_104.npy|mel-p231_104.npy|embed-p231_104.npy|26560|133|What kind of man does that, Mr Dick ?
+audio-p231_108.npy|mel-p231_108.npy|embed-p231_108.npy|25600|129|Before the game we went for a pint.
+audio-p231_109.npy|mel-p231_109.npy|embed-p231_109.npy|36160|181|We needed financial backing to get it off the ground.
+audio-p231_116.npy|mel-p231_116.npy|embed-p231_116.npy|34560|173|I was deeply saddened by the death of Donald Dewar.
+audio-p231_117.npy|mel-p231_117.npy|embed-p231_117.npy|27200|137|It is much as it has been described.
+audio-p231_123.npy|mel-p231_123.npy|embed-p231_123.npy|35200|177|It was not a finale he would want to remember.
+audio-p231_124.npy|mel-p231_124.npy|embed-p231_124.npy|33280|167|Despite the result, it was still a great moment.
+audio-p231_126.npy|mel-p231_126.npy|embed-p231_126.npy|28800|145|It is too pretty, it is too small.
+audio-p231_129.npy|mel-p231_129.npy|embed-p231_129.npy|29760|149|If not, a deal could take many months.
+audio-p231_130.npy|mel-p231_130.npy|embed-p231_130.npy|26560|133|It plans to return to this field.
+audio-p231_131.npy|mel-p231_131.npy|embed-p231_131.npy|26240|132|They made such decisions in London.
+audio-p231_132.npy|mel-p231_132.npy|embed-p231_132.npy|30400|153|Yesterday Mr Hague dismissed the poll.
+audio-p231_135.npy|mel-p231_135.npy|embed-p231_135.npy|32640|164|We must recognise that this outfit is unique.
+audio-p231_136.npy|mel-p231_136.npy|embed-p231_136.npy|26880|135|He is a great addition to our team.
+audio-p231_137.npy|mel-p231_137.npy|embed-p231_137.npy|27520|138|This is a successful outcome.
+audio-p231_138.npy|mel-p231_138.npy|embed-p231_138.npy|37120|186|In this case, the farmer had actually given permission.
+audio-p231_139.npy|mel-p231_139.npy|embed-p231_139.npy|33280|167|Put yourself in the position of being a referee.
+audio-p231_140.npy|mel-p231_140.npy|embed-p231_140.npy|28800|145|I think he's the favourite, no question.
+audio-p231_142.npy|mel-p231_142.npy|embed-p231_142.npy|27520|138|It only increased the support for him.
+audio-p231_144.npy|mel-p231_144.npy|embed-p231_144.npy|37760|189|Five minutes later, the home team were back in front.
+audio-p231_145.npy|mel-p231_145.npy|embed-p231_145.npy|28800|145|It opens the door to the Champions League.
+audio-p231_147.npy|mel-p231_147.npy|embed-p231_147.npy|26240|132|The whole industry is a shambles.
+audio-p231_152.npy|mel-p231_152.npy|embed-p231_152.npy|39040|196|The point is raised again that evening at the Assembly Rooms.
+audio-p231_155.npy|mel-p231_155.npy|embed-p231_155.npy|29760|149|The strong pound also took its toll.
+audio-p231_157.npy|mel-p231_157.npy|embed-p231_157.npy|35200|177|He was right into football from an early age.
+audio-p231_168.npy|mel-p231_168.npy|embed-p231_168.npy|27840|140|Well, this article is a bit like that.
+audio-p231_171.npy|mel-p231_171.npy|embed-p231_171.npy|38080|191|To get good people, you need to offer them enough money.
+audio-p231_175.npy|mel-p231_175.npy|embed-p231_175.npy|35200|177|First and foremost, the game is entirely different.
+audio-p231_177.npy|mel-p231_177.npy|embed-p231_177.npy|25920|130|The Hibs manager is no fool.
+audio-p231_183.npy|mel-p231_183.npy|embed-p231_183.npy|29760|149|The shooting created panic in the street.
+audio-p231_184.npy|mel-p231_184.npy|embed-p231_184.npy|28800|145|So many people will be affected by this.
+audio-p231_185.npy|mel-p231_185.npy|embed-p231_185.npy|28160|141|As many as the market will support.
+audio-p231_190.npy|mel-p231_190.npy|embed-p231_190.npy|28480|143|I'm interested in interesting work.
+audio-p231_191.npy|mel-p231_191.npy|embed-p231_191.npy|32960|165|We represent a wide range of society.
+audio-p231_193.npy|mel-p231_193.npy|embed-p231_193.npy|34240|172|Neither side would reveal the details of the offer.
+audio-p231_194.npy|mel-p231_194.npy|embed-p231_194.npy|29760|149|This should put downward pressure on inflation.
+audio-p231_195.npy|mel-p231_195.npy|embed-p231_195.npy|50560|253|On Friday, the headteacher and deputy headteacher appeared at the door.
+audio-p231_199.npy|mel-p231_199.npy|embed-p231_199.npy|44480|223|Indeed, he sees a shortage of skilled workers on the horizon.
+audio-p231_218.npy|mel-p231_218.npy|embed-p231_218.npy|32000|161|I've wanted to buy one for the National Gallery.
+audio-p231_219.npy|mel-p231_219.npy|embed-p231_219.npy|33920|170|However, Dundee deserved to win this game.
+audio-p231_220.npy|mel-p231_220.npy|embed-p231_220.npy|25600|129|And the World Cup has not even begun.
+audio-p231_221.npy|mel-p231_221.npy|embed-p231_221.npy|33600|169|The Prime Minister has a huge regard for Mo.
+audio-p231_223.npy|mel-p231_223.npy|embed-p231_223.npy|31040|156|It was a miserable afternoon in Fife.
+audio-p231_224.npy|mel-p231_224.npy|embed-p231_224.npy|31040|156|They all made the European Ryder Cup team.
+audio-p231_225.npy|mel-p231_225.npy|embed-p231_225.npy|32000|161|Crucially, though, United were still alive.
+audio-p231_226.npy|mel-p231_226.npy|embed-p231_226.npy|39680|199|This would indicate a surge in inflation was unlikely.
+audio-p231_229.npy|mel-p231_229.npy|embed-p231_229.npy|32960|165|So far, the problems have occurred in the US.
+audio-p231_231.npy|mel-p231_231.npy|embed-p231_231.npy|27840|140|Paterson can afford to be generous.
+audio-p231_233.npy|mel-p231_233.npy|embed-p231_233.npy|27200|137|I'm so proud to be Scottish tonight.
+audio-p231_247.npy|mel-p231_247.npy|embed-p231_247.npy|26240|132|Persuaded to change his mind.
+audio-p231_248.npy|mel-p231_248.npy|embed-p231_248.npy|35200|177|Either way, the investor retains the premium.
+audio-p231_251.npy|mel-p231_251.npy|embed-p231_251.npy|27840|140|Washington is consumed by the crisis.
+audio-p231_252.npy|mel-p231_252.npy|embed-p231_252.npy|25600|129|But they were never expected to last.
+audio-p231_254.npy|mel-p231_254.npy|embed-p231_254.npy|33600|169|No production contract is yet in sight.
+audio-p231_255.npy|mel-p231_255.npy|embed-p231_255.npy|37120|186|Tourism is a vital industry for Scotland.
+audio-p231_256.npy|mel-p231_256.npy|embed-p231_256.npy|44480|223|A thousand years ago the church was a powerful force in Europe.
+audio-p231_257.npy|mel-p231_257.npy|embed-p231_257.npy|30720|154|He admitted that he knew nothing about it.
+audio-p231_259.npy|mel-p231_259.npy|embed-p231_259.npy|26240|132|It was the climax of the thing.
+audio-p231_263.npy|mel-p231_263.npy|embed-p231_263.npy|26560|133|was everything done to save people ?
+audio-p231_269.npy|mel-p231_269.npy|embed-p231_269.npy|33920|170|The property is owned by Glasgow City Council.
+audio-p231_270.npy|mel-p231_270.npy|embed-p231_270.npy|26240|132|On the contrary they stand to gain.
+audio-p231_272.npy|mel-p231_272.npy|embed-p231_272.npy|38400|193|This news came after the stock market closed on Monday.
+audio-p231_274.npy|mel-p231_274.npy|embed-p231_274.npy|30720|154|It is a mark of respect from the inmates.
+audio-p231_275.npy|mel-p231_275.npy|embed-p231_275.npy|32640|164|It does not work that way in Scottish football.
+audio-p231_277.npy|mel-p231_277.npy|embed-p231_277.npy|35840|180|Share prices have fallen for three years in a row.
+audio-p231_280.npy|mel-p231_280.npy|embed-p231_280.npy|39040|196|The morale of the Yugoslav army is beginning to crack.
+audio-p231_285.npy|mel-p231_285.npy|embed-p231_285.npy|36480|183|It would create a Scottish secretary with a lot of weight.
+audio-p231_288.npy|mel-p231_288.npy|embed-p231_288.npy|44800|225|The decision was announced at its annual conference in Dunfermline.
+audio-p231_289.npy|mel-p231_289.npy|embed-p231_289.npy|30400|153|She has fallen in love with Scotland, however.
+audio-p231_291.npy|mel-p231_291.npy|embed-p231_291.npy|43200|217|It was not hard to feel some sympathy for Baxter yesterday.
+audio-p231_294.npy|mel-p231_294.npy|embed-p231_294.npy|25600|129|Once again, they would be wrong.
+audio-p231_295.npy|mel-p231_295.npy|embed-p231_295.npy|42240|212|There was a final revealing detail about the broadcast.
+audio-p231_296.npy|mel-p231_296.npy|embed-p231_296.npy|31040|156|It's all designed to speed up the service.
+audio-p231_297.npy|mel-p231_297.npy|embed-p231_297.npy|26880|135|He will address the nation this evening.
+audio-p231_298.npy|mel-p231_298.npy|embed-p231_298.npy|31360|157|They have shown a great desire and attitude.
+audio-p231_299.npy|mel-p231_299.npy|embed-p231_299.npy|27200|137|I couldn't really work outside Edinburgh.
+audio-p231_301.npy|mel-p231_301.npy|embed-p231_301.npy|39360|197|Police were on the scene within minutes, but the killer had fled.
+audio-p231_308.npy|mel-p231_308.npy|embed-p231_308.npy|26560|133|Disruption will be kept to a minimum.
+audio-p231_314.npy|mel-p231_314.npy|embed-p231_314.npy|25600|129|I'm not making any comment at all.
+audio-p231_315.npy|mel-p231_315.npy|embed-p231_315.npy|40960|205|Employees are entitled to follow their contract to the letter.
+audio-p231_317.npy|mel-p231_317.npy|embed-p231_317.npy|37760|189|They come to enjoy themselves.
+audio-p231_319.npy|mel-p231_319.npy|embed-p231_319.npy|48320|242|They included certain insurance policies, and his share of the house.
+audio-p231_320.npy|mel-p231_320.npy|embed-p231_320.npy|41600|209|However, he is a coach, and he remains a coach at heart.
+audio-p231_323.npy|mel-p231_323.npy|embed-p231_323.npy|44480|223|However, Walker remains determined to fight the proposals.
+audio-p231_324.npy|mel-p231_324.npy|embed-p231_324.npy|26240|132|We have got no money to go anywhere.
+audio-p231_326.npy|mel-p231_326.npy|embed-p231_326.npy|37440|188|That decision will be made over the next couple of days.
+audio-p231_328.npy|mel-p231_328.npy|embed-p231_328.npy|38400|193|It will decide today whether he should be struck off the register.
+audio-p231_329.npy|mel-p231_329.npy|embed-p231_329.npy|27840|140|The problems began a long time ago.
+audio-p231_330.npy|mel-p231_330.npy|embed-p231_330.npy|30080|151|I am not sure about the rate of progress.
+audio-p231_331.npy|mel-p231_331.npy|embed-p231_331.npy|33920|170|To beat the European champion is quite nice.
+audio-p231_333.npy|mel-p231_333.npy|embed-p231_333.npy|26880|135|However, the groups denied the claims.
+audio-p231_339.npy|mel-p231_339.npy|embed-p231_339.npy|35520|178|In his absence, the council adopted the change.
+audio-p231_340.npy|mel-p231_340.npy|embed-p231_340.npy|25600|129|At first, the youngster was not keen.
+audio-p231_341.npy|mel-p231_341.npy|embed-p231_341.npy|28800|145|The figures are bad, but not that bad.
+audio-p231_342.npy|mel-p231_342.npy|embed-p231_342.npy|30720|154|Last night, he pledged to clear his name.
+audio-p231_343.npy|mel-p231_343.npy|embed-p231_343.npy|48000|241|Shoppers were attracted by the heavy discounting on selected items.
+audio-p231_355.npy|mel-p231_355.npy|embed-p231_355.npy|31360|157|Hopefully, it will come from someone on our side.
+audio-p231_359.npy|mel-p231_359.npy|embed-p231_359.npy|26560|133|But they have taken the lesson to heart.
+audio-p231_368.npy|mel-p231_368.npy|embed-p231_368.npy|31040|156|We regret that they're brought in the first place.
+audio-p231_369.npy|mel-p231_369.npy|embed-p231_369.npy|36160|181|Lord Macdonald has worked on this deal for three months.
+audio-p231_373.npy|mel-p231_373.npy|embed-p231_373.npy|29760|149|They were to blame for the first two goals.
+audio-p231_375.npy|mel-p231_375.npy|embed-p231_375.npy|26240|132|Here is a weather forecast for the weekend.
+audio-p231_386.npy|mel-p231_386.npy|embed-p231_386.npy|38080|191|The Internet is no substitute for customer service.
+audio-p231_388.npy|mel-p231_388.npy|embed-p231_388.npy|42880|215|Instead, he was informed to join the line of creditors.
+audio-p231_392.npy|mel-p231_392.npy|embed-p231_392.npy|28800|145|There was a substantial explosion.
+audio-p231_396.npy|mel-p231_396.npy|embed-p231_396.npy|32000|161|He put some colour into Scottish history.
+audio-p231_397.npy|mel-p231_397.npy|embed-p231_397.npy|31680|159|This big issue is whether it can be enforced.
+audio-p231_403.npy|mel-p231_403.npy|embed-p231_403.npy|30080|151|It does not even have a staff shortage.
+audio-p231_406.npy|mel-p231_406.npy|embed-p231_406.npy|27840|140|Ms McNeill was killed on impact.
+audio-p231_407.npy|mel-p231_407.npy|embed-p231_407.npy|25600|129|There was an element of frustration.
+audio-p231_412.npy|mel-p231_412.npy|embed-p231_412.npy|26560|133|I will always remember the horrible images.
+audio-p231_417.npy|mel-p231_417.npy|embed-p231_417.npy|29120|146|He liked the weather, the courses, the food.
+audio-p231_418.npy|mel-p231_418.npy|embed-p231_418.npy|32960|165|There will be widespread support on all sides.
+audio-p231_420.npy|mel-p231_420.npy|embed-p231_420.npy|41280|207|Even if they come out playing a physical game, we can cope.
+audio-p231_421.npy|mel-p231_421.npy|embed-p231_421.npy|26560|133|There is a solution, she believes.
+audio-p231_423.npy|mel-p231_423.npy|embed-p231_423.npy|27520|138|It was important to win the singles.
+audio-p231_424.npy|mel-p231_424.npy|embed-p231_424.npy|26880|135|The road was closed for several hours.
+audio-p231_427.npy|mel-p231_427.npy|embed-p231_427.npy|26880|135|I would love to think that she could win.
+audio-p231_435.npy|mel-p231_435.npy|embed-p231_435.npy|28800|145|I never won a penny throughout my career.
+audio-p231_436.npy|mel-p231_436.npy|embed-p231_436.npy|27520|138|There will be no excuses on Wednesday.
+audio-p231_439.npy|mel-p231_439.npy|embed-p231_439.npy|28480|143|The British government does not want to know.
+audio-p231_444.npy|mel-p231_444.npy|embed-p231_444.npy|34560|173|It's never easy to win an Olympic gold medal.
+audio-p231_446.npy|mel-p231_446.npy|embed-p231_446.npy|33920|170|Edinburgh, in fact, was not included in the survey.
+audio-p231_448.npy|mel-p231_448.npy|embed-p231_448.npy|35200|177|Sentiment was helped by the sharp fall in debt.
+audio-p231_450.npy|mel-p231_450.npy|embed-p231_450.npy|31040|156|We have just got to keep his feet on the ground.
+audio-p231_452.npy|mel-p231_452.npy|embed-p231_452.npy|28160|141|Its future is no longer in question.
+audio-p231_454.npy|mel-p231_454.npy|embed-p231_454.npy|38080|191|Today, he is in the same position as four years ago.
+audio-p231_458.npy|mel-p231_458.npy|embed-p231_458.npy|28160|141|She has reached the top of her profession.
+audio-p231_460.npy|mel-p231_460.npy|embed-p231_460.npy|30080|151|A fatal accident inquiry is ongoing.
+audio-p231_463.npy|mel-p231_463.npy|embed-p231_463.npy|34560|173|Nine days later, he suffered another attack.
+audio-p231_465.npy|mel-p231_465.npy|embed-p231_465.npy|30080|151|She has now been registered as disabled.
+audio-p231_466.npy|mel-p231_466.npy|embed-p231_466.npy|28800|145|He is well respected by his colleagues.
+audio-p231_467.npy|mel-p231_467.npy|embed-p231_467.npy|30400|153|Classes must be reduced by half.
+audio-p231_469.npy|mel-p231_469.npy|embed-p231_469.npy|52480|263|However, he held out little hope that the Government would take action.
+audio-p231_474.npy|mel-p231_474.npy|embed-p231_474.npy|29120|146|The casting of her husband was an accident.
+audio-p231_475.npy|mel-p231_475.npy|embed-p231_475.npy|27520|138|It was all in a short period of time.
+audio-p231_476.npy|mel-p231_476.npy|embed-p231_476.npy|29760|149|That was the first time I worked with Richard.
+audio-p363_002.npy|mel-p363_002.npy|embed-p363_002.npy|34560|173|Ask her to bring these things with her from the store.
+audio-p363_003.npy|mel-p363_003.npy|embed-p363_003.npy|85760|429|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p363_004.npy|mel-p363_004.npy|embed-p363_004.npy|58880|295|We also need a small plastic snake and a big toy frog for the kids.
+audio-p363_005.npy|mel-p363_005.npy|embed-p363_005.npy|72320|362|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p363_006.npy|mel-p363_006.npy|embed-p363_006.npy|66560|333|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p363_007.npy|mel-p363_007.npy|embed-p363_007.npy|51520|258|The rainbow is a division of white light into many beautiful colors.
+audio-p363_008.npy|mel-p363_008.npy|embed-p363_008.npy|99520|498|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p363_009.npy|mel-p363_009.npy|embed-p363_009.npy|54400|273|There is , according to legend, a boiling pot of gold at one end.
+audio-p363_010.npy|mel-p363_010.npy|embed-p363_010.npy|33280|167|People look, but no one ever finds it.
+audio-p363_011.npy|mel-p363_011.npy|embed-p363_011.npy|82560|413|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow.
+audio-p363_012.npy|mel-p363_012.npy|embed-p363_012.npy|54720|274|Throughout the centuries people have explained the rainbow in various ways.
+audio-p363_013.npy|mel-p363_013.npy|embed-p363_013.npy|53760|269|Some have accepted it as a miracle without physical explanation.
+audio-p363_014.npy|mel-p363_014.npy|embed-p363_014.npy|56000|281|To the Hebrews it was a token that there would be no more universal floods.
+audio-p363_015.npy|mel-p363_015.npy|embed-p363_015.npy|72640|364|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain.
+audio-p363_016.npy|mel-p363_016.npy|embed-p363_016.npy|81280|407|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
+audio-p363_017.npy|mel-p363_017.npy|embed-p363_017.npy|42560|213|Others have tried to explain the phenomenon physically.
+audio-p363_018.npy|mel-p363_018.npy|embed-p363_018.npy|68480|343|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain.
+audio-p363_019.npy|mel-p363_019.npy|embed-p363_019.npy|88320|442|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows.
+audio-p363_020.npy|mel-p363_020.npy|embed-p363_020.npy|47360|237|Many complicated ideas about the rainbow have been formed.
+audio-p363_021.npy|mel-p363_021.npy|embed-p363_021.npy|112320|562|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.
+audio-p363_022.npy|mel-p363_022.npy|embed-p363_022.npy|85120|426|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.
+audio-p363_023.npy|mel-p363_023.npy|embed-p363_023.npy|142080|711|If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.
+audio-p363_024.npy|mel-p363_024.npy|embed-p363_024.npy|81920|410|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+audio-p363_026.npy|mel-p363_026.npy|embed-p363_026.npy|32960|165|Everyone is taking a breath and waiting.
+audio-p363_027.npy|mel-p363_027.npy|embed-p363_027.npy|32320|162|It was actually very, very difficult.
+audio-p363_029.npy|mel-p363_029.npy|embed-p363_029.npy|35200|177|He scored one goal and was on fire.
+audio-p363_031.npy|mel-p363_031.npy|embed-p363_031.npy|35840|180|Visitors are directed instantly to the shop.
+audio-p363_032.npy|mel-p363_032.npy|embed-p363_032.npy|32960|165|If that is the case, it is a breakthrough.
+audio-p363_033.npy|mel-p363_033.npy|embed-p363_033.npy|26560|133|He gave no other details.
+audio-p363_034.npy|mel-p363_034.npy|embed-p363_034.npy|25600|129|It's not an improvement for him.
+audio-p363_036.npy|mel-p363_036.npy|embed-p363_036.npy|29760|149|It certainly is cause for concern.
+audio-p363_038.npy|mel-p363_038.npy|embed-p363_038.npy|29120|146|The captaincy will help that, too.
+audio-p363_039.npy|mel-p363_039.npy|embed-p363_039.npy|36800|185|That's probably the hard bit about being dropped.
+audio-p363_042.npy|mel-p363_042.npy|embed-p363_042.npy|29760|149|There is a new confidence about the club.
+audio-p363_045.npy|mel-p363_045.npy|embed-p363_045.npy|31040|156|In my experience, he does not do that.
+audio-p363_047.npy|mel-p363_047.npy|embed-p363_047.npy|31040|156|This has come as a shock to everyone.
+audio-p363_049.npy|mel-p363_049.npy|embed-p363_049.npy|30400|153|I was not overly concerned about this.
+audio-p363_052.npy|mel-p363_052.npy|embed-p363_052.npy|25600|129|But real life is not like that.
+audio-p363_054.npy|mel-p363_054.npy|embed-p363_054.npy|31040|156|That is why this action has been taken.
+audio-p363_056.npy|mel-p363_056.npy|embed-p363_056.npy|32640|164|The defender should have won the bloody ba.
+audio-p363_057.npy|mel-p363_057.npy|embed-p363_057.npy|34560|173|There has been a reduction in cleaning standards.
+audio-p363_058.npy|mel-p363_058.npy|embed-p363_058.npy|26240|132|We were upset about the referee.
+audio-p363_064.npy|mel-p363_064.npy|embed-p363_064.npy|29120|146|The club is afflicted by injuries.
+audio-p363_065.npy|mel-p363_065.npy|embed-p363_065.npy|40640|204|Sentencing is also being considered in that review.
+audio-p363_067.npy|mel-p363_067.npy|embed-p363_067.npy|29120|146|It was far from business as usual.
+audio-p363_068.npy|mel-p363_068.npy|embed-p363_068.npy|31360|157|Thereafter they were allowed to proceed.
+audio-p363_072.npy|mel-p363_072.npy|embed-p363_072.npy|29760|149|Thirty people have applied for his job!
+audio-p363_074.npy|mel-p363_074.npy|embed-p363_074.npy|25600|129|We are not commenting at the moment.
+audio-p363_075.npy|mel-p363_075.npy|embed-p363_075.npy|32320|162|Today we must not repeat that mistake.
+audio-p363_076.npy|mel-p363_076.npy|embed-p363_076.npy|33280|167|Somebody should have noticed that something was wrong.
+audio-p363_078.npy|mel-p363_078.npy|embed-p363_078.npy|28800|145|We did not deserve to go through.
+audio-p363_080.npy|mel-p363_080.npy|embed-p363_080.npy|40960|205|All the time, that number was coming down and down.
+audio-p363_083.npy|mel-p363_083.npy|embed-p363_083.npy|27520|138|I have never seen anything like this.
+audio-p363_084.npy|mel-p363_084.npy|embed-p363_084.npy|29760|149|They are difficult awards to decide.
+audio-p363_087.npy|mel-p363_087.npy|embed-p363_087.npy|33600|169|He later told The Herald, It is true.
+audio-p363_088.npy|mel-p363_088.npy|embed-p363_088.npy|28160|141|It has come a long way since then.
+audio-p363_089.npy|mel-p363_089.npy|embed-p363_089.npy|31360|157|It was decided he should be dismissed.
+audio-p363_092.npy|mel-p363_092.npy|embed-p363_092.npy|32000|161|It was the turning point of the afternoon.
+audio-p363_093.npy|mel-p363_093.npy|embed-p363_093.npy|34240|172|I'd never be satisfied with just the relay.
+audio-p363_095.npy|mel-p363_095.npy|embed-p363_095.npy|37760|189|If they are not, the commission will take action.
+audio-p363_100.npy|mel-p363_100.npy|embed-p363_100.npy|34240|172|We talk about effective military action.
+audio-p363_102.npy|mel-p363_102.npy|embed-p363_102.npy|27520|138|It was entirely justified.
+audio-p363_103.npy|mel-p363_103.npy|embed-p363_103.npy|25920|130|He demanded to speak to the boss.
+audio-p363_108.npy|mel-p363_108.npy|embed-p363_108.npy|27520|138|He is obviously very dangerous.
+audio-p363_113.npy|mel-p363_113.npy|embed-p363_113.npy|29440|148|That was certainly the case for the parties.
+audio-p363_114.npy|mel-p363_114.npy|embed-p363_114.npy|27200|137|I hope the couples are still together.
+audio-p363_115.npy|mel-p363_115.npy|embed-p363_115.npy|26880|135|We have learned a tremendous amount.
+audio-p363_119.npy|mel-p363_119.npy|embed-p363_119.npy|32960|165|Only the details have to be sorted out.
+audio-p363_120.npy|mel-p363_120.npy|embed-p363_120.npy|27200|137|It would be really interesting if they did.
+audio-p363_130.npy|mel-p363_130.npy|embed-p363_130.npy|25920|130|Which brings us to the question of money.
+audio-p363_132.npy|mel-p363_132.npy|embed-p363_132.npy|25920|130|There was something special about that.
+audio-p363_133.npy|mel-p363_133.npy|embed-p363_133.npy|26560|133|Many other areas are coming up.
+audio-p363_134.npy|mel-p363_134.npy|embed-p363_134.npy|29760|149|Sadly, it sounds as if it is.
+audio-p363_135.npy|mel-p363_135.npy|embed-p363_135.npy|26560|133|There were no reports of casualties.
+audio-p363_137.npy|mel-p363_137.npy|embed-p363_137.npy|31360|157|She didn't tell me anything the night before.
+audio-p363_138.npy|mel-p363_138.npy|embed-p363_138.npy|30400|153|I will be having talks with the workforce.
+audio-p363_145.npy|mel-p363_145.npy|embed-p363_145.npy|26240|132|We could easily have lost that game.
+audio-p363_149.npy|mel-p363_149.npy|embed-p363_149.npy|29120|146|It would have been a very explosive issue.
+audio-p363_150.npy|mel-p363_150.npy|embed-p363_150.npy|31040|156|I didn't really expect to be called up.
+audio-p363_155.npy|mel-p363_155.npy|embed-p363_155.npy|37120|186|If true, it will be the first sign of dissent.
+audio-p363_165.npy|mel-p363_165.npy|embed-p363_165.npy|33920|170|I always savour the company of The Voice.
+audio-p363_168.npy|mel-p363_168.npy|embed-p363_168.npy|26560|133|We have been together for five years.
+audio-p363_177.npy|mel-p363_177.npy|embed-p363_177.npy|25600|129|It is all credit to them today.
+audio-p363_183.npy|mel-p363_183.npy|embed-p363_183.npy|29760|149|Public safety is paramount.
+audio-p363_184.npy|mel-p363_184.npy|embed-p363_184.npy|32960|165|I feel really confident in that department.
+audio-p363_187.npy|mel-p363_187.npy|embed-p363_187.npy|29440|148|The prime minister will make the decision.
+audio-p363_188.npy|mel-p363_188.npy|embed-p363_188.npy|27200|137|THERE's only one word for it.
+audio-p363_189.npy|mel-p363_189.npy|embed-p363_189.npy|28160|141|We're trying to get rounded performers.
+audio-p363_190.npy|mel-p363_190.npy|embed-p363_190.npy|26880|135|It was far more important than that.
+audio-p363_192.npy|mel-p363_192.npy|embed-p363_192.npy|27840|140|Gary Parker is a favourite of mine.
+audio-p363_194.npy|mel-p363_194.npy|embed-p363_194.npy|38080|191|Their own instinctive response was confirmed.
+audio-p363_195.npy|mel-p363_195.npy|embed-p363_195.npy|26560|133|Why is he not fighting for the Union?
+audio-p363_196.npy|mel-p363_196.npy|embed-p363_196.npy|27200|137|A decision is expected tomorrow.
+audio-p363_202.npy|mel-p363_202.npy|embed-p363_202.npy|36480|183|Tomorrow we begin again as New Yorkers.
+audio-p363_205.npy|mel-p363_205.npy|embed-p363_205.npy|28480|143|Frankly, they have to crack down.
+audio-p363_206.npy|mel-p363_206.npy|embed-p363_206.npy|32640|164|The training will take place in Downing Street.
+audio-p363_207.npy|mel-p363_207.npy|embed-p363_207.npy|25600|129|We have still got the fight in us.
+audio-p363_208.npy|mel-p363_208.npy|embed-p363_208.npy|29120|146|That decision is now being appealed.
+audio-p363_211.npy|mel-p363_211.npy|embed-p363_211.npy|28160|141|A senior party insider said.
+audio-p363_214.npy|mel-p363_214.npy|embed-p363_214.npy|30720|154|This is not a monument to the past.
+audio-p363_219.npy|mel-p363_219.npy|embed-p363_219.npy|28800|145|It was important in training terms.
+audio-p363_222.npy|mel-p363_222.npy|embed-p363_222.npy|27200|137|Her appeal is to be heard this week.
+audio-p363_223.npy|mel-p363_223.npy|embed-p363_223.npy|29440|148|The group will report back in the summer.
+audio-p363_224.npy|mel-p363_224.npy|embed-p363_224.npy|27200|137|Among them is his beloved teacher.
+audio-p363_232.npy|mel-p363_232.npy|embed-p363_232.npy|31040|156|The legal process could last weeks.
+audio-p363_236.npy|mel-p363_236.npy|embed-p363_236.npy|27840|140|I think it's more important to have fun.
+audio-p363_238.npy|mel-p363_238.npy|embed-p363_238.npy|26240|132|I am very sorry to hear about this.
+audio-p363_242.npy|mel-p363_242.npy|embed-p363_242.npy|26560|133|It was an excellent performance.
+audio-p363_243.npy|mel-p363_243.npy|embed-p363_243.npy|29120|146|It is also claimed that he was murdered.
+audio-p363_246.npy|mel-p363_246.npy|embed-p363_246.npy|30080|151|Sub Not Used, MacKay.
+audio-p363_247.npy|mel-p363_247.npy|embed-p363_247.npy|29440|148|We are taking no chances this time.
+audio-p363_255.npy|mel-p363_255.npy|embed-p363_255.npy|31680|159|I was brought up in a mining background.
+audio-p363_256.npy|mel-p363_256.npy|embed-p363_256.npy|25920|130|All winners should be tested.
+audio-p363_258.npy|mel-p363_258.npy|embed-p363_258.npy|28800|145|I thought his speech was a disgrace.
+audio-p363_260.npy|mel-p363_260.npy|embed-p363_260.npy|35520|178|Whatever we do, we know we can do well.
+audio-p363_261.npy|mel-p363_261.npy|embed-p363_261.npy|26560|133|They may not always be so lucky.
+audio-p363_264.npy|mel-p363_264.npy|embed-p363_264.npy|29440|148|It's an hour of the same response.
+audio-p363_265.npy|mel-p363_265.npy|embed-p363_265.npy|29120|146|This is the root of their problems.
+audio-p363_268.npy|mel-p363_268.npy|embed-p363_268.npy|31360|157|The test case is still awaiting action.
+audio-p363_270.npy|mel-p363_270.npy|embed-p363_270.npy|34240|172|However, that is not in itself enough.
+audio-p363_271.npy|mel-p363_271.npy|embed-p363_271.npy|27200|137|That should not be their conclusion.
+audio-p363_274.npy|mel-p363_274.npy|embed-p363_274.npy|34560|173|His funeral is not expected until next week.
+audio-p363_277.npy|mel-p363_277.npy|embed-p363_277.npy|29760|149|He is certainly not looking for another job.
+audio-p363_286.npy|mel-p363_286.npy|embed-p363_286.npy|32000|161|We have got no money to go anywhere.
+audio-p363_287.npy|mel-p363_287.npy|embed-p363_287.npy|28480|143|I believe he could have turned it around.
+audio-p363_288.npy|mel-p363_288.npy|embed-p363_288.npy|27520|138|The Believer isn't just a movie.
+audio-p363_291.npy|mel-p363_291.npy|embed-p363_291.npy|33600|169|It being the weekend, there was no-one there.
+audio-p363_293.npy|mel-p363_293.npy|embed-p363_293.npy|29760|149|They think that it matters but it doesn't.
+audio-p363_294.npy|mel-p363_294.npy|embed-p363_294.npy|30080|151|He was pronounced dead in hospital.
+audio-p363_298.npy|mel-p363_298.npy|embed-p363_298.npy|29120|146|What was the cause of all this outrage?
+audio-p363_299.npy|mel-p363_299.npy|embed-p363_299.npy|26880|135|He will have it within two weeks.
+audio-p363_301.npy|mel-p363_301.npy|embed-p363_301.npy|27840|140|It is a terrible state of affairs.
+audio-p363_304.npy|mel-p363_304.npy|embed-p363_304.npy|26240|132|Not all women are dismayed.
+audio-p363_309.npy|mel-p363_309.npy|embed-p363_309.npy|31360|157|Norton was delighted with his successes.
+audio-p363_310.npy|mel-p363_310.npy|embed-p363_310.npy|30400|153|The figures are bad, but not that bad.
+audio-p363_313.npy|mel-p363_313.npy|embed-p363_313.npy|32320|162|It will be very damaging for research.
+audio-p363_317.npy|mel-p363_317.npy|embed-p363_317.npy|32320|162|Her concerns were not without foundation.
+audio-p363_319.npy|mel-p363_319.npy|embed-p363_319.npy|28160|141|That would be the constructive way forward.
+audio-p363_320.npy|mel-p363_320.npy|embed-p363_320.npy|33600|169|My view has now completely changed.
+audio-p363_321.npy|mel-p363_321.npy|embed-p363_321.npy|25600|129|It was blown out of proportion.
+audio-p363_322.npy|mel-p363_322.npy|embed-p363_322.npy|32320|162|You have no chance of planning permission.
+audio-p363_323.npy|mel-p363_323.npy|embed-p363_323.npy|27840|140|That is taking place in Strathclyde.
+audio-p363_328.npy|mel-p363_328.npy|embed-p363_328.npy|30720|154|The United Nations must act.
+audio-p363_331.npy|mel-p363_331.npy|embed-p363_331.npy|26240|132|I think they are right to be impatient.
+audio-p363_334.npy|mel-p363_334.npy|embed-p363_334.npy|35840|180|The board is currently resolving its differences.
+audio-p363_336.npy|mel-p363_336.npy|embed-p363_336.npy|38720|194|He is in a lot of pain, it is very distressing.
+audio-p363_339.npy|mel-p363_339.npy|embed-p363_339.npy|25920|130|I am feeling on top of the world.
+audio-p363_343.npy|mel-p363_343.npy|embed-p363_343.npy|27520|138|Therefore there is a threat.
+audio-p363_348.npy|mel-p363_348.npy|embed-p363_348.npy|28160|141|The world is being invited to visit.
+audio-p363_349.npy|mel-p363_349.npy|embed-p363_349.npy|29120|146|Nobody was able to escape.
+audio-p363_351.npy|mel-p363_351.npy|embed-p363_351.npy|31360|157|Secondly, there is the question of money.
+audio-p363_353.npy|mel-p363_353.npy|embed-p363_353.npy|27520|138|I only found out about it this morning.
+audio-p363_355.npy|mel-p363_355.npy|embed-p363_355.npy|25920|130|One might think that it is a power.
+audio-p363_357.npy|mel-p363_357.npy|embed-p363_357.npy|28480|143|Obviously we want to stop the rot.
+audio-p363_359.npy|mel-p363_359.npy|embed-p363_359.npy|26560|133|They never seem to do anything about it.
+audio-p363_361.npy|mel-p363_361.npy|embed-p363_361.npy|29760|149|It raises a serious question mark.
+audio-p363_362.npy|mel-p363_362.npy|embed-p363_362.npy|36800|185|The work with Alison was a great experience.
+audio-p363_364.npy|mel-p363_364.npy|embed-p363_364.npy|33920|170|Experience in this work is paramount.
+audio-p363_365.npy|mel-p363_365.npy|embed-p363_365.npy|43520|218|It has certainly not been an enjoyable experience.
+audio-p363_366.npy|mel-p363_366.npy|embed-p363_366.npy|28480|143|It is not needed, it should go.
+audio-p363_367.npy|mel-p363_367.npy|embed-p363_367.npy|34240|172|She had not suffered any physical injury.
+audio-p363_369.npy|mel-p363_369.npy|embed-p363_369.npy|33600|169|We have been overwhelmed by the response.
+audio-p363_371.npy|mel-p363_371.npy|embed-p363_371.npy|29440|148|However, it was well worth the wait.
+audio-p363_373.npy|mel-p363_373.npy|embed-p363_373.npy|26880|135|Only two things are certain.
+audio-p363_380.npy|mel-p363_380.npy|embed-p363_380.npy|31360|157|We were very unhappy with the incident.
+audio-p363_381.npy|mel-p363_381.npy|embed-p363_381.npy|25920|130|The challenge is to win a cup.
+audio-p363_382.npy|mel-p363_382.npy|embed-p363_382.npy|28480|143|It is something that we would support.
+audio-p363_383.npy|mel-p363_383.npy|embed-p363_383.npy|30400|153|It was a double tragedy for the family.
+audio-p363_386.npy|mel-p363_386.npy|embed-p363_386.npy|28160|141|I loved it - and so did my friend.
+audio-p363_387.npy|mel-p363_387.npy|embed-p363_387.npy|28800|145|A decision is expected today.
+audio-p363_392.npy|mel-p363_392.npy|embed-p363_392.npy|26240|132|It has been a massive success.
+audio-p363_394.npy|mel-p363_394.npy|embed-p363_394.npy|26880|135|The whole thing has been a nightmare.
+audio-p363_395.npy|mel-p363_395.npy|embed-p363_395.npy|31040|156|Players are fighting to stay in the team.
+audio-p363_398.npy|mel-p363_398.npy|embed-p363_398.npy|26880|135|I'm really looking forward to seeing the fight.
+audio-p363_401.npy|mel-p363_401.npy|embed-p363_401.npy|30720|154|We are about to have our own Parliament.
+audio-p363_402.npy|mel-p363_402.npy|embed-p363_402.npy|27200|137|I am desperate to play for Scotland.
+audio-p363_408.npy|mel-p363_408.npy|embed-p363_408.npy|33600|169|Nicolson is no stranger to the Highlands.
+audio-p363_409.npy|mel-p363_409.npy|embed-p363_409.npy|26560|133|I'd love the chance to play for Scotland.
+audio-p363_410.npy|mel-p363_410.npy|embed-p363_410.npy|32320|162|Clearly the impact is going to be negative.
+audio-p363_417.npy|mel-p363_417.npy|embed-p363_417.npy|31040|156|With him are the symbols of his faith.
+audio-p363_418.npy|mel-p363_418.npy|embed-p363_418.npy|25920|130|Overall, it has certainly worked out.
+audio-p363_420.npy|mel-p363_420.npy|embed-p363_420.npy|26880|135|Both were reduced to rubble.
+audio-p363_421.npy|mel-p363_421.npy|embed-p363_421.npy|28800|145|It could have taken another two months.
+audio-p363_422.npy|mel-p363_422.npy|embed-p363_422.npy|27200|137|Hopefully, the answer is in the positive.
+audio-p363_423.npy|mel-p363_423.npy|embed-p363_423.npy|34240|172|He said he had no reports of casualties.
+audio-p364_002.npy|mel-p364_002.npy|embed-p364_002.npy|53120|266|Ask her to bring these things with her from the store.
+audio-p364_003.npy|mel-p364_003.npy|embed-p364_003.npy|112320|562|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p364_004.npy|mel-p364_004.npy|embed-p364_004.npy|70720|354|We also need a small plastic snake and a big toy frog for the kids.
+audio-p364_005.npy|mel-p364_005.npy|embed-p364_005.npy|92160|461|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p364_006.npy|mel-p364_006.npy|embed-p364_006.npy|86400|433|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p364_007.npy|mel-p364_007.npy|embed-p364_007.npy|64640|324|The rainbow is a division of white light into many beautiful colors.
+audio-p364_008.npy|mel-p364_008.npy|embed-p364_008.npy|123520|618|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p364_009.npy|mel-p364_009.npy|embed-p364_009.npy|75840|380|There is , according to legend, a boiling pot of gold at one end.
+audio-p364_010.npy|mel-p364_010.npy|embed-p364_010.npy|40000|201|People look, but no one ever finds it.
+audio-p364_011.npy|mel-p364_011.npy|embed-p364_011.npy|111360|557|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow.
+audio-p364_012.npy|mel-p364_012.npy|embed-p364_012.npy|69440|348|Throughout the centuries people have explained the rainbow in various ways.
+audio-p364_013.npy|mel-p364_013.npy|embed-p364_013.npy|62400|313|Some have accepted it as a miracle without physical explanation.
+audio-p364_014.npy|mel-p364_014.npy|embed-p364_014.npy|67840|340|To the Hebrews it was a token that there would be no more universal floods.
+audio-p364_015.npy|mel-p364_015.npy|embed-p364_015.npy|96000|481|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain.
+audio-p364_016.npy|mel-p364_016.npy|embed-p364_016.npy|105600|529|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
+audio-p364_017.npy|mel-p364_017.npy|embed-p364_017.npy|51200|257|Others have tried to explain the phenomenon physically.
+audio-p364_018.npy|mel-p364_018.npy|embed-p364_018.npy|87360|437|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain.
+audio-p364_019.npy|mel-p364_019.npy|embed-p364_019.npy|115200|577|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbow.
+audio-p364_020.npy|mel-p364_020.npy|embed-p364_020.npy|58240|292|Many complicated ideas about the rainbow have been formed.
+audio-p364_021.npy|mel-p364_021.npy|embed-p364_021.npy|145920|730|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.
+audio-p364_022.npy|mel-p364_022.npy|embed-p364_022.npy|104000|521|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.
+audio-p364_023.npy|mel-p364_023.npy|embed-p364_023.npy|196800|985|If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.
+audio-p364_024.npy|mel-p364_024.npy|embed-p364_024.npy|123200|617|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+audio-p364_025.npy|mel-p364_025.npy|embed-p364_025.npy|26240|132|Is that not pathetic?
+audio-p364_026.npy|mel-p364_026.npy|embed-p364_026.npy|42240|212|Our nation has been changed by this event.
+audio-p364_027.npy|mel-p364_027.npy|embed-p364_027.npy|32320|162|That would be a big step forward.
+audio-p364_028.npy|mel-p364_028.npy|embed-p364_028.npy|29760|149|I love you so very much.
+audio-p364_029.npy|mel-p364_029.npy|embed-p364_029.npy|30720|154|Scotland needs to hear it, too.
+audio-p364_030.npy|mel-p364_030.npy|embed-p364_030.npy|39040|196|Prime minister Blair is not that way.
+audio-p364_031.npy|mel-p364_031.npy|embed-p364_031.npy|36160|181|But at the moment there isn't the budget.
+audio-p364_032.npy|mel-p364_032.npy|embed-p364_032.npy|31360|157|It is not a matter of concern.
+audio-p364_033.npy|mel-p364_033.npy|embed-p364_033.npy|32640|164|We're not either of those things.
+audio-p364_034.npy|mel-p364_034.npy|embed-p364_034.npy|43200|217|The man has already had too many chances.
+audio-p364_036.npy|mel-p364_036.npy|embed-p364_036.npy|38400|193|It was very moving, actually.
+audio-p364_037.npy|mel-p364_037.npy|embed-p364_037.npy|26240|132|It isn't a free-for-all.
+audio-p364_038.npy|mel-p364_038.npy|embed-p364_038.npy|35520|178|PENSIONS have been hitting the headlines.
+audio-p364_039.npy|mel-p364_039.npy|embed-p364_039.npy|35520|178|I was not fit enough and it showed.
+audio-p364_040.npy|mel-p364_040.npy|embed-p364_040.npy|34880|175|I thought it was the only way out.
+audio-p364_041.npy|mel-p364_041.npy|embed-p364_041.npy|34560|173|We welcome the ministers decision.
+audio-p364_042.npy|mel-p364_042.npy|embed-p364_042.npy|32640|164|Since then it has become a tradition.
+audio-p364_043.npy|mel-p364_043.npy|embed-p364_043.npy|25920|130|The concept is simple.
+audio-p364_044.npy|mel-p364_044.npy|embed-p364_044.npy|38720|194|That is how the Farmer is feeling today.
+audio-p364_045.npy|mel-p364_045.npy|embed-p364_045.npy|31680|159|And that's the trouble with this business.
+audio-p364_047.npy|mel-p364_047.npy|embed-p364_047.npy|34240|172|We must not give in to bastards.
+audio-p364_048.npy|mel-p364_048.npy|embed-p364_048.npy|29120|146|The trial will open today.
+audio-p364_051.npy|mel-p364_051.npy|embed-p364_051.npy|34560|173|There will be no disruption in the schools.
+audio-p364_056.npy|mel-p364_056.npy|embed-p364_056.npy|33920|170|Our commitment is to move forward.
+audio-p364_057.npy|mel-p364_057.npy|embed-p364_057.npy|34880|175|Partly, it is his own fault.
+audio-p364_059.npy|mel-p364_059.npy|embed-p364_059.npy|28160|141|The family is so happy for him.
+audio-p364_060.npy|mel-p364_060.npy|embed-p364_060.npy|26560|133|Why has it taken so long?
+audio-p364_061.npy|mel-p364_061.npy|embed-p364_061.npy|26240|132|No-one knows the numbers.
+audio-p364_063.npy|mel-p364_063.npy|embed-p364_063.npy|46720|234|It is not the fault of one man, of course.
+audio-p364_067.npy|mel-p364_067.npy|embed-p364_067.npy|26880|135|Perhaps it was her demeanour.
+audio-p364_068.npy|mel-p364_068.npy|embed-p364_068.npy|28160|141|I see no need to change.
+audio-p364_069.npy|mel-p364_069.npy|embed-p364_069.npy|30400|153|It lasted longer than we thought.
+audio-p364_071.npy|mel-p364_071.npy|embed-p364_071.npy|30080|151|They made a huge impression on me.
+audio-p364_073.npy|mel-p364_073.npy|embed-p364_073.npy|41280|207|A contractor was due to be appointed yesterday.
+audio-p364_074.npy|mel-p364_074.npy|embed-p364_074.npy|30720|154|This was a massive result for us.
+audio-p364_076.npy|mel-p364_076.npy|embed-p364_076.npy|41600|209|You see - this business is a good one.
+audio-p364_078.npy|mel-p364_078.npy|embed-p364_078.npy|27520|138|Scotland were on Saturday.
+audio-p364_079.npy|mel-p364_079.npy|embed-p364_079.npy|27840|140|He wanted to talk to me about it.
+audio-p364_081.npy|mel-p364_081.npy|embed-p364_081.npy|25600|129|That would be a big mistake.
+audio-p364_082.npy|mel-p364_082.npy|embed-p364_082.npy|26240|132|No-one has spoken to me.
+audio-p364_083.npy|mel-p364_083.npy|embed-p364_083.npy|35200|177|His arrival could be the making of them.
+audio-p364_087.npy|mel-p364_087.npy|embed-p364_087.npy|34880|175|I support the stand that they are making.
+audio-p364_090.npy|mel-p364_090.npy|embed-p364_090.npy|35200|177|Nature will not find its own level.
+audio-p364_092.npy|mel-p364_092.npy|embed-p364_092.npy|30400|153|But this has already been rejected.
+audio-p364_094.npy|mel-p364_094.npy|embed-p364_094.npy|28160|141|They have not seen her for years.
+audio-p364_095.npy|mel-p364_095.npy|embed-p364_095.npy|33280|167|It was good to score the goal today.
+audio-p364_096.npy|mel-p364_096.npy|embed-p364_096.npy|33280|167|Allison is not convinced.
+audio-p364_097.npy|mel-p364_097.npy|embed-p364_097.npy|29440|148|He felt there was no case to answer.
+audio-p364_100.npy|mel-p364_100.npy|embed-p364_100.npy|31360|157|Lots of others were doing the same.
+audio-p364_101.npy|mel-p364_101.npy|embed-p364_101.npy|31040|156|It is still holding good today.
+audio-p364_103.npy|mel-p364_103.npy|embed-p364_103.npy|29120|146|Our legal advice is clear.
+audio-p364_106.npy|mel-p364_106.npy|embed-p364_106.npy|40640|204|Long-term, it was the right thing to do.
+audio-p364_107.npy|mel-p364_107.npy|embed-p364_107.npy|27200|137|We are not leaving the area.
+audio-p364_108.npy|mel-p364_108.npy|embed-p364_108.npy|43840|220|The airspace above the theatre was closed off.
+audio-p364_109.npy|mel-p364_109.npy|embed-p364_109.npy|34880|175|Success in Scotland is important.
+audio-p364_111.npy|mel-p364_111.npy|embed-p364_111.npy|27840|140|I know the worry over Iraq.
+audio-p364_112.npy|mel-p364_112.npy|embed-p364_112.npy|35200|177|The outcome is now in our own hands.
+audio-p364_114.npy|mel-p364_114.npy|embed-p364_114.npy|47360|237|You are always aware of the injury potential.
+audio-p364_115.npy|mel-p364_115.npy|embed-p364_115.npy|29440|148|We don't know what is happening to them.
+audio-p364_117.npy|mel-p364_117.npy|embed-p364_117.npy|32320|162|It was an important part of the course.
+audio-p364_119.npy|mel-p364_119.npy|embed-p364_119.npy|35200|177|I will be trying to do better tomorrow.
+audio-p364_122.npy|mel-p364_122.npy|embed-p364_122.npy|41280|207|This decision is a victory for common sense.
+audio-p364_125.npy|mel-p364_125.npy|embed-p364_125.npy|42560|213|This means that our programme is quite unusual.
+audio-p364_126.npy|mel-p364_126.npy|embed-p364_126.npy|32320|162|The money all appears to be gone.
+audio-p364_128.npy|mel-p364_128.npy|embed-p364_128.npy|25920|130|This time, it was not be.
+audio-p364_129.npy|mel-p364_129.npy|embed-p364_129.npy|33600|169|They are unable to say anything.
+audio-p364_131.npy|mel-p364_131.npy|embed-p364_131.npy|31360|157|That's why he is a national treasure.
+audio-p364_135.npy|mel-p364_135.npy|embed-p364_135.npy|35840|180|There will be no exceptions to this rule.
+audio-p364_136.npy|mel-p364_136.npy|embed-p364_136.npy|25600|129|But he's a very quiet man.
+audio-p364_137.npy|mel-p364_137.npy|embed-p364_137.npy|30400|153|Destruction came from within.
+audio-p364_141.npy|mel-p364_141.npy|embed-p364_141.npy|39360|197|New investment will be openly tendered.
+audio-p364_142.npy|mel-p364_142.npy|embed-p364_142.npy|37440|188|I'd never have called a doctor for myself.
+audio-p364_143.npy|mel-p364_143.npy|embed-p364_143.npy|27840|140|It is sponsored by The Herald.
+audio-p364_144.npy|mel-p364_144.npy|embed-p364_144.npy|28480|143|I don't entirely buy that.
+audio-p364_145.npy|mel-p364_145.npy|embed-p364_145.npy|40960|205|It was the rugby writers dinner in London.
+audio-p364_146.npy|mel-p364_146.npy|embed-p364_146.npy|39040|196|The casting of her husband was an accident.
+audio-p364_148.npy|mel-p364_148.npy|embed-p364_148.npy|31360|157|I've had six days of rehearsal.
+audio-p364_152.npy|mel-p364_152.npy|embed-p364_152.npy|28800|145|It is an absolute disgrace.
+audio-p364_154.npy|mel-p364_154.npy|embed-p364_154.npy|26240|132|Everyone would have been happy.
+audio-p364_156.npy|mel-p364_156.npy|embed-p364_156.npy|28160|141|Ferguson had done his homework.
+audio-p364_158.npy|mel-p364_158.npy|embed-p364_158.npy|28160|141|We want to know about the policy.
+audio-p364_159.npy|mel-p364_159.npy|embed-p364_159.npy|30080|151|Mr Blair defended his wife.
+audio-p364_163.npy|mel-p364_163.npy|embed-p364_163.npy|27840|140|There was nothing anyone could do.
+audio-p364_164.npy|mel-p364_164.npy|embed-p364_164.npy|27200|137|I don't want to use the term.
+audio-p364_165.npy|mel-p364_165.npy|embed-p364_165.npy|35520|178|I really feel sorry for the Irish.
+audio-p364_166.npy|mel-p364_166.npy|embed-p364_166.npy|31360|157|Now they have to do something about it.
+audio-p364_167.npy|mel-p364_167.npy|embed-p364_167.npy|25600|129|The post will be unpaid.
+audio-p364_168.npy|mel-p364_168.npy|embed-p364_168.npy|39680|199|One-third of the places are already taken.
+audio-p364_170.npy|mel-p364_170.npy|embed-p364_170.npy|31680|159|It's all happening at a local level.
+audio-p364_171.npy|mel-p364_171.npy|embed-p364_171.npy|29440|148|You will never replace the child.
+audio-p364_173.npy|mel-p364_173.npy|embed-p364_173.npy|32960|165|England will be under a lot of pressure.
+audio-p364_174.npy|mel-p364_174.npy|embed-p364_174.npy|25600|129|This has been fantastic.
+audio-p364_176.npy|mel-p364_176.npy|embed-p364_176.npy|25920|130|I learned that only yesterday.
+audio-p364_177.npy|mel-p364_177.npy|embed-p364_177.npy|29120|146|It's very very frustrating.
+audio-p364_178.npy|mel-p364_178.npy|embed-p364_178.npy|29760|149|We want him to continue that way.
+audio-p364_179.npy|mel-p364_179.npy|embed-p364_179.npy|34560|173|But he did not rule out further talks.
+audio-p364_180.npy|mel-p364_180.npy|embed-p364_180.npy|29440|148|Our children are our future.
+audio-p364_185.npy|mel-p364_185.npy|embed-p364_185.npy|35840|180|There are two offerings from Scotland.
+audio-p364_187.npy|mel-p364_187.npy|embed-p364_187.npy|36800|185|The matter has been reported to the police.
+audio-p364_189.npy|mel-p364_189.npy|embed-p364_189.npy|43520|218|We do know the reaction of the SAC.
+audio-p364_190.npy|mel-p364_190.npy|embed-p364_190.npy|31680|159|The state is controlled by the left.
+audio-p364_191.npy|mel-p364_191.npy|embed-p364_191.npy|28800|145|The principle is quite clear.
+audio-p364_192.npy|mel-p364_192.npy|embed-p364_192.npy|38720|194|Despite that, it was a great day for me.
+audio-p364_193.npy|mel-p364_193.npy|embed-p364_193.npy|31360|157|I would say the risk is very small.
+audio-p364_194.npy|mel-p364_194.npy|embed-p364_194.npy|29440|148|And there are different perspectives.
+audio-p364_195.npy|mel-p364_195.npy|embed-p364_195.npy|32640|164|Mr Wallace was unimpressed.
+audio-p364_197.npy|mel-p364_197.npy|embed-p364_197.npy|28480|143|The hearing continues today.
+audio-p364_199.npy|mel-p364_199.npy|embed-p364_199.npy|42240|212|On recent evidence, he will not be missed.
+audio-p364_200.npy|mel-p364_200.npy|embed-p364_200.npy|42560|213|Police have refused to name the couple involved.
+audio-p364_201.npy|mel-p364_201.npy|embed-p364_201.npy|36480|183|Our destiny is in our own hands.
+audio-p364_202.npy|mel-p364_202.npy|embed-p364_202.npy|26560|133|The attitude was good today.
+audio-p364_204.npy|mel-p364_204.npy|embed-p364_204.npy|30400|153|It requires a wider team.
+audio-p364_206.npy|mel-p364_206.npy|embed-p364_206.npy|33280|167|It is suitable and sensible.
+audio-p364_207.npy|mel-p364_207.npy|embed-p364_207.npy|33600|169|In many ways it was disastrous.
+audio-p364_208.npy|mel-p364_208.npy|embed-p364_208.npy|29760|149|I am really, really happy.
+audio-p364_211.npy|mel-p364_211.npy|embed-p364_211.npy|35520|178|I'm looking forward to racing Donovan.
+audio-p364_214.npy|mel-p364_214.npy|embed-p364_214.npy|34240|172|We are seeking a meeting with the Minister.
+audio-p364_215.npy|mel-p364_215.npy|embed-p364_215.npy|34560|173|I believe it would have been successful.
+audio-p364_217.npy|mel-p364_217.npy|embed-p364_217.npy|32000|161|It's happened, but it's a dream.
+audio-p364_219.npy|mel-p364_219.npy|embed-p364_219.npy|32320|162|It was very, very frightening.
+audio-p364_220.npy|mel-p364_220.npy|embed-p364_220.npy|38720|194|That suggests that out fitness is good.
+audio-p364_223.npy|mel-p364_223.npy|embed-p364_223.npy|34560|173|It would also delay the Scottish results.
+audio-p364_228.npy|mel-p364_228.npy|embed-p364_228.npy|27520|138|Is it a warning to parents?
+audio-p364_229.npy|mel-p364_229.npy|embed-p364_229.npy|34880|175|Everything is surrounded by confusion.
+audio-p364_233.npy|mel-p364_233.npy|embed-p364_233.npy|41920|210|And there are some interesting conductors, too.
+audio-p364_234.npy|mel-p364_234.npy|embed-p364_234.npy|27520|138|It was all over for us then.
+audio-p364_235.npy|mel-p364_235.npy|embed-p364_235.npy|26240|132|They were assured that it would.
+audio-p364_237.npy|mel-p364_237.npy|embed-p364_237.npy|32640|164|I am very encouraged by this poll.
+audio-p364_239.npy|mel-p364_239.npy|embed-p364_239.npy|26240|132|It was a long time coming.
+audio-p364_242.npy|mel-p364_242.npy|embed-p364_242.npy|26560|133|We were completely outplayed.
+audio-p364_243.npy|mel-p364_243.npy|embed-p364_243.npy|26880|135|The car driver was not injured.
+audio-p364_244.npy|mel-p364_244.npy|embed-p364_244.npy|28160|141|It was a surprising decision.
+audio-p364_245.npy|mel-p364_245.npy|embed-p364_245.npy|28800|145|Colin Cameron was excellent.
+audio-p364_246.npy|mel-p364_246.npy|embed-p364_246.npy|33920|170|I believe in having difficult times.
+audio-p364_250.npy|mel-p364_250.npy|embed-p364_250.npy|28800|145|We just need the Government to act.
+audio-p364_253.npy|mel-p364_253.npy|embed-p364_253.npy|26240|132|But this is just the first step.
+audio-p364_255.npy|mel-p364_255.npy|embed-p364_255.npy|25920|130|This is as bad as it gets.
+audio-p364_256.npy|mel-p364_256.npy|embed-p364_256.npy|27520|138|The real issue is personal.
+audio-p364_258.npy|mel-p364_258.npy|embed-p364_258.npy|32320|162|We deserved to get the victory today.
+audio-p364_260.npy|mel-p364_260.npy|embed-p364_260.npy|41600|209|FIRST, we had the Battle of Britain.
+audio-p364_262.npy|mel-p364_262.npy|embed-p364_262.npy|29760|149|It would be a bonus for this game.
+audio-p364_265.npy|mel-p364_265.npy|embed-p364_265.npy|36800|185|Israeli forces denied the claim.
+audio-p364_268.npy|mel-p364_268.npy|embed-p364_268.npy|26560|133|I have got to keep the lid on.
+audio-p364_270.npy|mel-p364_270.npy|embed-p364_270.npy|35200|177|For many, it had become a fact of life.
+audio-p364_271.npy|mel-p364_271.npy|embed-p364_271.npy|33600|169|Last season was very hard for me.
+audio-p364_272.npy|mel-p364_272.npy|embed-p364_272.npy|26240|132|It was a definite penalty.
+audio-p364_273.npy|mel-p364_273.npy|embed-p364_273.npy|29440|148|It's great fun to get to act.
+audio-p364_277.npy|mel-p364_277.npy|embed-p364_277.npy|32320|162|And now he has decided, enough.
+audio-p364_278.npy|mel-p364_278.npy|embed-p364_278.npy|46080|231|Visiting fans were banned from attending the game.
+audio-p364_281.npy|mel-p364_281.npy|embed-p364_281.npy|38080|191|He was at the game, and he is indeed.
+audio-p364_282.npy|mel-p364_282.npy|embed-p364_282.npy|29440|148|It would be dangerous to resign.
+audio-p364_283.npy|mel-p364_283.npy|embed-p364_283.npy|30080|151|It is a victory to that extent.
+audio-p364_284.npy|mel-p364_284.npy|embed-p364_284.npy|32640|164|Clearly, the future remains uncertain.
+audio-p364_288.npy|mel-p364_288.npy|embed-p364_288.npy|32640|164|It will not be today, though.
+audio-p364_289.npy|mel-p364_289.npy|embed-p364_289.npy|27520|138|We suspect he was pleased.
+audio-p364_290.npy|mel-p364_290.npy|embed-p364_290.npy|32960|165|I have been here for only three months.
+audio-p364_294.npy|mel-p364_294.npy|embed-p364_294.npy|29440|148|When he got up he was hit again.
+audio-p364_299.npy|mel-p364_299.npy|embed-p364_299.npy|27200|137|You will be very, very welcome.
+audio-p364_300.npy|mel-p364_300.npy|embed-p364_300.npy|28160|141|I really want to win in Glasgow.
+audio-p364_302.npy|mel-p364_302.npy|embed-p364_302.npy|42240|212|The proposals have been taken out of context.
+audio-p364_303.npy|mel-p364_303.npy|embed-p364_303.npy|29440|148|It was then that Rangers scored.
+audio-p364_304.npy|mel-p364_304.npy|embed-p364_304.npy|29440|148|This was repeated the second time.
+audio-p364_306.npy|mel-p364_306.npy|embed-p364_306.npy|28800|145|Sub Not Used, McKee.
+audio-p360_002.npy|mel-p360_002.npy|embed-p360_002.npy|41280|207|Ask her to bring these things with her from the store.
+audio-p360_003.npy|mel-p360_003.npy|embed-p360_003.npy|89920|450|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p360_004.npy|mel-p360_004.npy|embed-p360_004.npy|56320|282|We also need a small plastic snake and a big toy frog for the kids.
+audio-p360_005.npy|mel-p360_005.npy|embed-p360_005.npy|87040|436|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p360_006.npy|mel-p360_006.npy|embed-p360_006.npy|77760|389|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p360_007.npy|mel-p360_007.npy|embed-p360_007.npy|55360|277|The rainbow is a division of white light into many beautiful colors.
+audio-p360_008.npy|mel-p360_008.npy|embed-p360_008.npy|103040|516|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p360_009.npy|mel-p360_009.npy|embed-p360_009.npy|61440|308|There is , according to legend, a boiling pot of gold at one end.
+audio-p360_010.npy|mel-p360_010.npy|embed-p360_010.npy|32960|165|People look, but no one ever finds it.
+audio-p360_011.npy|mel-p360_011.npy|embed-p360_011.npy|97600|489|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow.
+audio-p360_012.npy|mel-p360_012.npy|embed-p360_012.npy|64640|324|Throughout the centuries people have explained the rainbow in various ways.
+audio-p360_013.npy|mel-p360_013.npy|embed-p360_013.npy|57920|290|Some have accepted it as a miracle without physical explanation.
+audio-p360_014.npy|mel-p360_014.npy|embed-p360_014.npy|62400|313|To the Hebrews it was a token that there would be no more universal floods.
+audio-p360_015.npy|mel-p360_015.npy|embed-p360_015.npy|72960|365|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain.
+audio-p360_016.npy|mel-p360_016.npy|embed-p360_016.npy|87360|437|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
+audio-p360_017.npy|mel-p360_017.npy|embed-p360_017.npy|44799|224|Others have tried to explain the phenomenon physically.
+audio-p360_018.npy|mel-p360_018.npy|embed-p360_018.npy|69760|349|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain.
+audio-p360_019.npy|mel-p360_019.npy|embed-p360_019.npy|100800|505|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows.
+audio-p360_020.npy|mel-p360_020.npy|embed-p360_020.npy|48000|241|Many complicated ideas about the rainbow have been formed.
+audio-p360_021.npy|mel-p360_021.npy|embed-p360_021.npy|121920|610|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.
+audio-p360_022.npy|mel-p360_022.npy|embed-p360_022.npy|89600|449|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.
+audio-p360_023.npy|mel-p360_023.npy|embed-p360_023.npy|186560|933|If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.
+audio-p360_024.npy|mel-p360_024.npy|embed-p360_024.npy|101440|508|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+audio-p360_025.npy|mel-p360_025.npy|embed-p360_025.npy|32000|161|You can never take a win for granted.
+audio-p360_026.npy|mel-p360_026.npy|embed-p360_026.npy|27840|140|My conscience is not clear.
+audio-p360_032.npy|mel-p360_032.npy|embed-p360_032.npy|29440|148|Lose, and they would be ridiculed.
+audio-p360_033.npy|mel-p360_033.npy|embed-p360_033.npy|33600|169|It's something which is very important to me.
+audio-p360_034.npy|mel-p360_034.npy|embed-p360_034.npy|27200|137|For once he was wrong.
+audio-p360_036.npy|mel-p360_036.npy|embed-p360_036.npy|32320|162|I want to deliver a learning society.
+audio-p360_037.npy|mel-p360_037.npy|embed-p360_037.npy|35520|178|We are just happy that hasn't happened.
+audio-p360_041.npy|mel-p360_041.npy|embed-p360_041.npy|44800|225|A similar exercise is expected in Scotland.
+audio-p360_042.npy|mel-p360_042.npy|embed-p360_042.npy|32320|162|I have no intention of resigning today.
+audio-p360_044.npy|mel-p360_044.npy|embed-p360_044.npy|40640|204|Donald is genuine in trying to be inclusive.
+audio-p360_047.npy|mel-p360_047.npy|embed-p360_047.npy|44160|221|Next league matches, Dundee United Rangers.
+audio-p360_051.npy|mel-p360_051.npy|embed-p360_051.npy|27520|138|When he came to see me on Monday.
+audio-p360_053.npy|mel-p360_053.npy|embed-p360_053.npy|26240|132|She said she was really sorry.
+audio-p360_055.npy|mel-p360_055.npy|embed-p360_055.npy|28160|141|But here it is also very bad.
+audio-p360_058.npy|mel-p360_058.npy|embed-p360_058.npy|32000|161|As for the warning, it was not needed.
+audio-p360_059.npy|mel-p360_059.npy|embed-p360_059.npy|35200|177|The incidents are not believed to be linked.
+audio-p360_060.npy|mel-p360_060.npy|embed-p360_060.npy|25600|129|But there is no easy option.
+audio-p360_064.npy|mel-p360_064.npy|embed-p360_064.npy|31360|157|Most of the works are small in scale.
+audio-p360_065.npy|mel-p360_065.npy|embed-p360_065.npy|30400|153|He was pronounced dead at the scene.
+audio-p360_067.npy|mel-p360_067.npy|embed-p360_067.npy|26560|133|But he just carried on anyway.
+audio-p360_068.npy|mel-p360_068.npy|embed-p360_068.npy|34560|173|Nor was it a game without its lessons.
+audio-p360_070.npy|mel-p360_070.npy|embed-p360_070.npy|29440|148|His presence was very important.
+audio-p360_072.npy|mel-p360_072.npy|embed-p360_072.npy|25920|130|They couldn't believe what had happened.
+audio-p360_073.npy|mel-p360_073.npy|embed-p360_073.npy|29760|149|The bombing begins in five minutes.
+audio-p360_076.npy|mel-p360_076.npy|embed-p360_076.npy|27520|138|That perhaps is behind the problem.
+audio-p360_080.npy|mel-p360_080.npy|embed-p360_080.npy|25600|129|There was a definite prejudice.
+audio-p360_081.npy|mel-p360_081.npy|embed-p360_081.npy|27840|140|Nothing is going right at the moment.
+audio-p360_084.npy|mel-p360_084.npy|embed-p360_084.npy|39360|197|His musicals were very much of their time.
+audio-p360_085.npy|mel-p360_085.npy|embed-p360_085.npy|29760|149|He became enchanted with the process.
+audio-p360_086.npy|mel-p360_086.npy|embed-p360_086.npy|35200|177|This year the exercise is being repeated.
+audio-p360_089.npy|mel-p360_089.npy|embed-p360_089.npy|28800|145|We discovered that for ourselves.
+audio-p360_090.npy|mel-p360_090.npy|embed-p360_090.npy|38720|194|We will continue to provide support for them.
+audio-p360_091.npy|mel-p360_091.npy|embed-p360_091.npy|32640|164|I've always been very taken by the drink.
+audio-p360_093.npy|mel-p360_093.npy|embed-p360_093.npy|28160|141|That's what makes it interesting.
+audio-p360_098.npy|mel-p360_098.npy|embed-p360_098.npy|34880|175|The release attracted little attention.
+audio-p360_101.npy|mel-p360_101.npy|embed-p360_101.npy|26560|133|It is not in the public interest.
+audio-p360_107.npy|mel-p360_107.npy|embed-p360_107.npy|31040|156|That would be even more disastrous.
+audio-p360_108.npy|mel-p360_108.npy|embed-p360_108.npy|32000|161|We opened up and everything was gone.
+audio-p360_110.npy|mel-p360_110.npy|embed-p360_110.npy|32320|162|They offered to make an investment into it.
+audio-p360_112.npy|mel-p360_112.npy|embed-p360_112.npy|43200|217|She was close to suicide at one stage.
+audio-p360_114.npy|mel-p360_114.npy|embed-p360_114.npy|38400|193|Mr Docherty said the whole family was shocked.
+audio-p360_115.npy|mel-p360_115.npy|embed-p360_115.npy|25600|129|It has no place in football.
+audio-p360_116.npy|mel-p360_116.npy|embed-p360_116.npy|32320|162|It is frustrating that we cannot do that.
+audio-p360_120.npy|mel-p360_120.npy|embed-p360_120.npy|30400|153|I'm not thinking about anyone else.
+audio-p360_122.npy|mel-p360_122.npy|embed-p360_122.npy|32320|162|When she went off it was quite amazing.
+audio-p360_123.npy|mel-p360_123.npy|embed-p360_123.npy|33920|170|Britain has never had it so good.
+audio-p360_124.npy|mel-p360_124.npy|embed-p360_124.npy|32320|162|So many people will be affected by this.
+audio-p360_127.npy|mel-p360_127.npy|embed-p360_127.npy|32960|165|We are under no illusions about this.
+audio-p360_130.npy|mel-p360_130.npy|embed-p360_130.npy|29120|146|I hope it has helped the prisoners.
+audio-p360_131.npy|mel-p360_131.npy|embed-p360_131.npy|44160|221|Scotland, is an increasing concern for young people.
+audio-p360_132.npy|mel-p360_132.npy|embed-p360_132.npy|25920|130|I knew that we needed to get out.
+audio-p360_134.npy|mel-p360_134.npy|embed-p360_134.npy|30400|153|And this game is all about belief.
+audio-p360_137.npy|mel-p360_137.npy|embed-p360_137.npy|32000|161|The only safe investment is cash.
+audio-p360_139.npy|mel-p360_139.npy|embed-p360_139.npy|35200|177|Elections would follow in about two years.
+audio-p360_147.npy|mel-p360_147.npy|embed-p360_147.npy|26240|132|Our players are exhausted.
+audio-p360_148.npy|mel-p360_148.npy|embed-p360_148.npy|25920|130|It is deeply frustrating.
+audio-p360_149.npy|mel-p360_149.npy|embed-p360_149.npy|40320|202|He suffered a broken back and other injuries.
+audio-p360_150.npy|mel-p360_150.npy|embed-p360_150.npy|28160|141|We've had an enjoyable adventure.
+audio-p360_153.npy|mel-p360_153.npy|embed-p360_153.npy|27520|138|It was a moment of madness.
+audio-p360_154.npy|mel-p360_154.npy|embed-p360_154.npy|30400|153|But other Ministers are not convinced.
+audio-p360_156.npy|mel-p360_156.npy|embed-p360_156.npy|32320|162|No, we were not exactly favourites.
+audio-p360_157.npy|mel-p360_157.npy|embed-p360_157.npy|38400|193|Conditions were very difficult for the players.
+audio-p360_158.npy|mel-p360_158.npy|embed-p360_158.npy|45440|228|This solution is not being considered in Scotland.
+audio-p360_159.npy|mel-p360_159.npy|embed-p360_159.npy|29760|149|I didn't think we deserved to go out.
+audio-p360_160.npy|mel-p360_160.npy|embed-p360_160.npy|30720|154|However, we will have to wait and see.
+audio-p360_164.npy|mel-p360_164.npy|embed-p360_164.npy|28800|145|It is a new company for Scotland.
+audio-p360_167.npy|mel-p360_167.npy|embed-p360_167.npy|32640|164|But the action is about to be restarted.
+audio-p360_173.npy|mel-p360_173.npy|embed-p360_173.npy|26880|135|Hopefully it will be a good day.
+audio-p360_175.npy|mel-p360_175.npy|embed-p360_175.npy|34240|172|There is an ongoing problem with this company.
+audio-p360_176.npy|mel-p360_176.npy|embed-p360_176.npy|26560|133|The process will start tomorrow.
+audio-p360_177.npy|mel-p360_177.npy|embed-p360_177.npy|25600|129|Was the punishment excessive?
+audio-p360_178.npy|mel-p360_178.npy|embed-p360_178.npy|35840|180|The police have an awful lot to explain.
+audio-p360_179.npy|mel-p360_179.npy|embed-p360_179.npy|31360|157|That's when you hope to take advantage.
+audio-p360_182.npy|mel-p360_182.npy|embed-p360_182.npy|33920|170|I try to be clear in the narrative.
+audio-p360_184.npy|mel-p360_184.npy|embed-p360_184.npy|30080|151|I did not see anything to begin with.
+audio-p360_186.npy|mel-p360_186.npy|embed-p360_186.npy|27840|140|I certainly do not agree with that.
+audio-p360_187.npy|mel-p360_187.npy|embed-p360_187.npy|28800|145|It was a disaster of a race.
+audio-p360_188.npy|mel-p360_188.npy|embed-p360_188.npy|32320|162|Only one person can claim the credit.
+audio-p360_193.npy|mel-p360_193.npy|embed-p360_193.npy|27200|137|There are some good people in there.
+audio-p360_195.npy|mel-p360_195.npy|embed-p360_195.npy|27200|137|I'm not going to blame the band.
+audio-p360_196.npy|mel-p360_196.npy|embed-p360_196.npy|28800|145|I think that he got the message.
+audio-p360_199.npy|mel-p360_199.npy|embed-p360_199.npy|43200|217|They are protesting, but they know it cannot go on.
+audio-p360_200.npy|mel-p360_200.npy|embed-p360_200.npy|34240|172|The atmosphere in the dressing room is superb.
+audio-p360_203.npy|mel-p360_203.npy|embed-p360_203.npy|29760|149|She would say he was still the best.
+audio-p360_204.npy|mel-p360_204.npy|embed-p360_204.npy|30400|153|It is dangerous and it is a lie.
+audio-p360_205.npy|mel-p360_205.npy|embed-p360_205.npy|28800|145|We didn't, and it worked for us.
+audio-p360_208.npy|mel-p360_208.npy|embed-p360_208.npy|31360|157|That remains the unanswered question.
+audio-p360_209.npy|mel-p360_209.npy|embed-p360_209.npy|29760|149|Everyone is too upset to comment.
+audio-p360_212.npy|mel-p360_212.npy|embed-p360_212.npy|32640|164|Pensions are a long-term investment.
+audio-p360_213.npy|mel-p360_213.npy|embed-p360_213.npy|30080|151|An announcement is expected soon.
+audio-p360_216.npy|mel-p360_216.npy|embed-p360_216.npy|28160|141|But sometimes it was even worse.
+audio-p360_219.npy|mel-p360_219.npy|embed-p360_219.npy|28480|143|There will be good prospects ahead.
+audio-p360_223.npy|mel-p360_223.npy|embed-p360_223.npy|26240|132|We are not conducting the review.
+audio-p360_225.npy|mel-p360_225.npy|embed-p360_225.npy|28800|145|The club has never won it.
+audio-p360_229.npy|mel-p360_229.npy|embed-p360_229.npy|37760|189|Labour will almost certainly remain in control.
+audio-p360_230.npy|mel-p360_230.npy|embed-p360_230.npy|35840|180|The characters are always the first attraction.
+audio-p360_232.npy|mel-p360_232.npy|embed-p360_232.npy|34880|175|We are being realistic about the challenges ahead.
+audio-p360_235.npy|mel-p360_235.npy|embed-p360_235.npy|26880|135|I think he was lost for words.
+audio-p360_236.npy|mel-p360_236.npy|embed-p360_236.npy|39040|196|In fact, it is deeply unpleasant.
+audio-p360_237.npy|mel-p360_237.npy|embed-p360_237.npy|29120|146|I want to celebrate the World Cup.
+audio-p360_238.npy|mel-p360_238.npy|embed-p360_238.npy|25600|129|This is a historic occasion.
+audio-p360_239.npy|mel-p360_239.npy|embed-p360_239.npy|35520|178|No-one expected that their parents would stay.
+audio-p360_242.npy|mel-p360_242.npy|embed-p360_242.npy|31680|159|I'm very pleased with what we have achieved.
+audio-p360_243.npy|mel-p360_243.npy|embed-p360_243.npy|32000|161|We're looking for unity in the council.
+audio-p360_244.npy|mel-p360_244.npy|embed-p360_244.npy|36800|185|The observer saw no evidence of fighting.
+audio-p360_246.npy|mel-p360_246.npy|embed-p360_246.npy|29760|149|Just one of those things, we suppose.
+audio-p360_251.npy|mel-p360_251.npy|embed-p360_251.npy|27200|137|Did he just want to be on telly?
+audio-p360_257.npy|mel-p360_257.npy|embed-p360_257.npy|28800|145|Human beings are always the same.
+audio-p360_261.npy|mel-p360_261.npy|embed-p360_261.npy|42880|215|The distinction is also supported by doctors.
+audio-p360_264.npy|mel-p360_264.npy|embed-p360_264.npy|25600|129|I don't intend to do so now.
+audio-p360_266.npy|mel-p360_266.npy|embed-p360_266.npy|27520|138|He was pleased with his display.
+audio-p360_268.npy|mel-p360_268.npy|embed-p360_268.npy|30400|153|There was no let-up for the minnows.
+audio-p360_269.npy|mel-p360_269.npy|embed-p360_269.npy|32640|164|The bottom line is that this must stop.
+audio-p360_275.npy|mel-p360_275.npy|embed-p360_275.npy|26560|133|It disappeared into the cup.
+audio-p360_277.npy|mel-p360_277.npy|embed-p360_277.npy|27840|140|I have no further comment to make.
+audio-p360_280.npy|mel-p360_280.npy|embed-p360_280.npy|26240|132|The joint bid is still on course.
+audio-p360_281.npy|mel-p360_281.npy|embed-p360_281.npy|34880|175|A press conference is about politics.
+audio-p360_282.npy|mel-p360_282.npy|embed-p360_282.npy|32640|164|It was important to bring them all together.
+audio-p360_283.npy|mel-p360_283.npy|embed-p360_283.npy|35520|178|We didn't play well and will certainly improve.
+audio-p360_284.npy|mel-p360_284.npy|embed-p360_284.npy|31360|157|They tend to be female and retired.
+audio-p360_285.npy|mel-p360_285.npy|embed-p360_285.npy|38720|194|These things happen in football but shouldn't.
+audio-p360_287.npy|mel-p360_287.npy|embed-p360_287.npy|26560|133|We know the fight is going to happen.
+audio-p360_288.npy|mel-p360_288.npy|embed-p360_288.npy|31360|157|I have played well the past two days.
+audio-p360_293.npy|mel-p360_293.npy|embed-p360_293.npy|25920|130|I have never been unemployed.
+audio-p360_299.npy|mel-p360_299.npy|embed-p360_299.npy|27200|137|Why have you decided to get married?
+audio-p360_302.npy|mel-p360_302.npy|embed-p360_302.npy|27840|140|I would not descend to that level.
+audio-p360_303.npy|mel-p360_303.npy|embed-p360_303.npy|28480|143|They were not at the property yesterday.
+audio-p360_311.npy|mel-p360_311.npy|embed-p360_311.npy|34880|175|The meaning is very profound and complex.
+audio-p360_313.npy|mel-p360_313.npy|embed-p360_313.npy|32320|162|The response from everyone was wonderful.
+audio-p360_314.npy|mel-p360_314.npy|embed-p360_314.npy|27200|137|And that match was played in June.
+audio-p360_315.npy|mel-p360_315.npy|embed-p360_315.npy|33280|167|We are looking for Scotland to be inspired.
+audio-p360_316.npy|mel-p360_316.npy|embed-p360_316.npy|28480|143|I don't mean in a frightening way.
+audio-p360_317.npy|mel-p360_317.npy|embed-p360_317.npy|31360|157|He is a sort of a mystery figure.
+audio-p360_321.npy|mel-p360_321.npy|embed-p360_321.npy|29120|146|He has yet to receive a reply.
+audio-p360_324.npy|mel-p360_324.npy|embed-p360_324.npy|25920|130|Hopefully, it will be good enough.
+audio-p360_325.npy|mel-p360_325.npy|embed-p360_325.npy|32320|162|For me, any manager is good.
+audio-p360_326.npy|mel-p360_326.npy|embed-p360_326.npy|34880|175|Eight new hospitals are set to be built.
+audio-p360_328.npy|mel-p360_328.npy|embed-p360_328.npy|27840|140|He refused to name the survivors.
+audio-p360_329.npy|mel-p360_329.npy|embed-p360_329.npy|25920|130|He has changed my life forever.
+audio-p360_331.npy|mel-p360_331.npy|embed-p360_331.npy|25600|129|This plan is all about respect.
+audio-p360_333.npy|mel-p360_333.npy|embed-p360_333.npy|26880|135|Pakistan denied the report.
+audio-p360_339.npy|mel-p360_339.npy|embed-p360_339.npy|29760|149|You can't get the experience in Austria.
+audio-p360_341.npy|mel-p360_341.npy|embed-p360_341.npy|25920|130|There will be no backing down.
+audio-p360_348.npy|mel-p360_348.npy|embed-p360_348.npy|28160|141|Our position is extremely simple.
+audio-p360_350.npy|mel-p360_350.npy|embed-p360_350.npy|38720|194|I suppose it is quite exciting really.
+audio-p360_351.npy|mel-p360_351.npy|embed-p360_351.npy|36160|181|The most important thing was to win today.
+audio-p360_355.npy|mel-p360_355.npy|embed-p360_355.npy|33920|170|Lots of them haven't recovered that far.
+audio-p360_356.npy|mel-p360_356.npy|embed-p360_356.npy|31680|159|They said that they stood by their statement.
+audio-p360_357.npy|mel-p360_357.npy|embed-p360_357.npy|40640|204|That is a trend which will be encouraged.
+audio-p360_360.npy|mel-p360_360.npy|embed-p360_360.npy|31360|157|There was no-one of the required standard.
+audio-p360_361.npy|mel-p360_361.npy|embed-p360_361.npy|27200|137|That would be very good for Rangers.
+audio-p360_362.npy|mel-p360_362.npy|embed-p360_362.npy|32640|164|It's something he has worked very hard on.
+audio-p360_363.npy|mel-p360_363.npy|embed-p360_363.npy|32960|165|It is time to fight a decisive battle.
+audio-p360_368.npy|mel-p360_368.npy|embed-p360_368.npy|30720|154|Having done it, he was asked again.
+audio-p360_370.npy|mel-p360_370.npy|embed-p360_370.npy|26880|135|The package is a changing one.
+audio-p360_371.npy|mel-p360_371.npy|embed-p360_371.npy|26240|132|I'm working on that one, too.
+audio-p360_375.npy|mel-p360_375.npy|embed-p360_375.npy|26560|133|The whole family was in shock.
+audio-p360_376.npy|mel-p360_376.npy|embed-p360_376.npy|31040|156|But everywhere the problems are the same.
+audio-p360_377.npy|mel-p360_377.npy|embed-p360_377.npy|29120|146|Craig is a major concern for us.
+audio-p360_378.npy|mel-p360_378.npy|embed-p360_378.npy|30400|153|The problems began a long time ago.
+audio-p360_380.npy|mel-p360_380.npy|embed-p360_380.npy|26560|133|What other retailer would do this?
+audio-p360_381.npy|mel-p360_381.npy|embed-p360_381.npy|34560|173|Other musicians were found in retirement.
+audio-p360_382.npy|mel-p360_382.npy|embed-p360_382.npy|27200|137|This country has many challenges.
+audio-p360_388.npy|mel-p360_388.npy|embed-p360_388.npy|38720|194|I can understand the frustrations of our fans.
+audio-p360_389.npy|mel-p360_389.npy|embed-p360_389.npy|30080|151|No, they are not the same thing.
+audio-p360_390.npy|mel-p360_390.npy|embed-p360_390.npy|31040|156|In football it is not always the case.
+audio-p360_391.npy|mel-p360_391.npy|embed-p360_391.npy|26240|132|Sometimes we find a person.
+audio-p360_393.npy|mel-p360_393.npy|embed-p360_393.npy|34880|175|I am in a very difficult position.
+audio-p360_406.npy|mel-p360_406.npy|embed-p360_406.npy|36160|181|Still, it is a very good result for us.
+audio-p360_411.npy|mel-p360_411.npy|embed-p360_411.npy|26240|132|What she can't have is the money.
+audio-p360_414.npy|mel-p360_414.npy|embed-p360_414.npy|30720|154|And they went on to win the title.
+audio-p360_415.npy|mel-p360_415.npy|embed-p360_415.npy|34240|172|Now, she will not be running at all.
+audio-p360_419.npy|mel-p360_419.npy|embed-p360_419.npy|26880|135|I don't think they are too serious.
+audio-p360_424.npy|mel-p360_424.npy|embed-p360_424.npy|32320|162|As for Owen, class is permanent.

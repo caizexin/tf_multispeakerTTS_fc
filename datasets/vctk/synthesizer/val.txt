@@ -1,0 +1,800 @@
+audio-p260_002.npy|mel-p260_002.npy|embed-p260_002.npy|36480|183|Ask her to bring these things with her from the store.
+audio-p260_003.npy|mel-p260_003.npy|embed-p260_003.npy|89920|450|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p260_004.npy|mel-p260_004.npy|embed-p260_004.npy|54720|274|We also need a small plastic snake and a big toy frog for the kids.
+audio-p260_005.npy|mel-p260_005.npy|embed-p260_005.npy|72000|361|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p260_006.npy|mel-p260_006.npy|embed-p260_006.npy|64000|321|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p260_007.npy|mel-p260_007.npy|embed-p260_007.npy|49600|249|The rainbow is a division of white light into many beautiful colors.
+audio-p260_008.npy|mel-p260_008.npy|embed-p260_008.npy|79360|397|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p260_009.npy|mel-p260_009.npy|embed-p260_009.npy|58560|293|There is , according to legend, a boiling pot of gold at one end.
+audio-p302_002.npy|mel-p302_002.npy|embed-p302_002.npy|34560|173|Ask her to bring these things with her from the store.
+audio-p302_003.npy|mel-p302_003.npy|embed-p302_003.npy|82880|415|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p302_004.npy|mel-p302_004.npy|embed-p302_004.npy|54720|274|We also need a small plastic snake and a big toy frog for the kids.
+audio-p302_005.npy|mel-p302_005.npy|embed-p302_005.npy|72960|365|She can spoon these things into her three bags, and we will go meet her Wednesday at the train station.
+audio-p302_006.npy|mel-p302_006.npy|embed-p302_006.npy|61440|308|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p302_007.npy|mel-p302_007.npy|embed-p302_007.npy|48320|242|The rainbow is a division of white light into many beautiful colors.
+audio-p302_008.npy|mel-p302_008.npy|embed-p302_008.npy|93760|469|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p302_009.npy|mel-p302_009.npy|embed-p302_009.npy|43840|220|There is , according to legend, a boiling pot of gold at one end.
+audio-p339_002.npy|mel-p339_002.npy|embed-p339_002.npy|37440|188|Ask her to bring these things with her from the store.
+audio-p339_003.npy|mel-p339_003.npy|embed-p339_003.npy|92160|461|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a sack for her brother Bob.
+audio-p339_004.npy|mel-p339_004.npy|embed-p339_004.npy|61120|306|We also need a small plastic snake and a big toy frog for the kids.
+audio-p339_005.npy|mel-p339_005.npy|embed-p339_005.npy|91200|457|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p339_006.npy|mel-p339_006.npy|embed-p339_006.npy|77120|386|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p339_007.npy|mel-p339_007.npy|embed-p339_007.npy|56640|284|The rainbow is a division of white light into many beautiful colors.
+audio-p339_008.npy|mel-p339_008.npy|embed-p339_008.npy|110720|554|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p339_009.npy|mel-p339_009.npy|embed-p339_009.npy|70080|351|There is , according to legend, a boiling pot of gold at one end.
+audio-p253_002.npy|mel-p253_002.npy|embed-p253_002.npy|47040|236|Ask her to bring these things with her from the store.
+audio-p253_003.npy|mel-p253_003.npy|embed-p253_003.npy|103360|517|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p253_004.npy|mel-p253_004.npy|embed-p253_004.npy|65920|330|We also need a small plastic snake and a big toy frog for the kids.
+audio-p253_005.npy|mel-p253_005.npy|embed-p253_005.npy|101120|506|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p253_007.npy|mel-p253_007.npy|embed-p253_007.npy|54720|274|The rainbow is a division of white light into many beautiful colors.
+audio-p253_008.npy|mel-p253_008.npy|embed-p253_008.npy|109440|548|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p253_009.npy|mel-p253_009.npy|embed-p253_009.npy|65920|330|There is , according to legend, a boiling pot of gold at one end.
+audio-p253_010.npy|mel-p253_010.npy|embed-p253_010.npy|38400|193|People look, but no one ever finds it.
+audio-p232_002.npy|mel-p232_002.npy|embed-p232_002.npy|34240|172|Ask her to bring these things with her from the store.
+audio-p232_003.npy|mel-p232_003.npy|embed-p232_003.npy|105600|529|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p232_004.npy|mel-p232_004.npy|embed-p232_004.npy|57920|290|We also need a small plastic snake and a big toy frog for the kids.
+audio-p232_005.npy|mel-p232_005.npy|embed-p232_005.npy|90560|453|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p232_006.npy|mel-p232_006.npy|embed-p232_006.npy|72000|361|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p232_007.npy|mel-p232_007.npy|embed-p232_007.npy|53760|269|The rainbow is a division of white light into many beautiful colors.
+audio-p232_008.npy|mel-p232_008.npy|embed-p232_008.npy|91520|458|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p232_009.npy|mel-p232_009.npy|embed-p232_009.npy|56640|284|There is , according to legend, a boiling pot of gold at one end.
+audio-p345_002.npy|mel-p345_002.npy|embed-p345_002.npy|45440|228|Ask her to bring these things with her from the store.
+audio-p345_003.npy|mel-p345_003.npy|embed-p345_003.npy|104961|525|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p345_004.npy|mel-p345_004.npy|embed-p345_004.npy|65920|330|We also need a small plastic snake and a big toy frog for the kids.
+audio-p345_005.npy|mel-p345_005.npy|embed-p345_005.npy|94080|471|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p345_006.npy|mel-p345_006.npy|embed-p345_006.npy|80320|402|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p345_007.npy|mel-p345_007.npy|embed-p345_007.npy|59840|300|The rainbow is a division of white light into many beautiful colors.
+audio-p345_008.npy|mel-p345_008.npy|embed-p345_008.npy|110400|553|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p345_009.npy|mel-p345_009.npy|embed-p345_009.npy|57920|290|There is , according to legend, a boiling pot of gold at one end.
+audio-p285_002.npy|mel-p285_002.npy|embed-p285_002.npy|37440|188|Ask her to bring these things with her from the store.
+audio-p285_003.npy|mel-p285_003.npy|embed-p285_003.npy|88320|442|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p285_004.npy|mel-p285_004.npy|embed-p285_004.npy|56960|285|We also need a small plastic snake and a big toy frog for the kids.
+audio-p285_005.npy|mel-p285_005.npy|embed-p285_005.npy|72320|362|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p285_006.npy|mel-p285_006.npy|embed-p285_006.npy|66560|333|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p285_007.npy|mel-p285_007.npy|embed-p285_007.npy|45760|229|The rainbow is a division of white light into many beautiful colors.
+audio-p285_008.npy|mel-p285_008.npy|embed-p285_008.npy|95680|479|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p285_009.npy|mel-p285_009.npy|embed-p285_009.npy|58240|292|There is , according to legend, a boiling pot of gold at one end.
+audio-p237_002.npy|mel-p237_002.npy|embed-p237_002.npy|40320|202|Ask her to bring these things with her from the store.
+audio-p237_003.npy|mel-p237_003.npy|embed-p237_003.npy|89600|449|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p237_004.npy|mel-p237_004.npy|embed-p237_004.npy|56960|285|We also need a small plastic snake and a big toy frog for the kids.
+audio-p237_005.npy|mel-p237_005.npy|embed-p237_005.npy|76160|381|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p237_006.npy|mel-p237_006.npy|embed-p237_006.npy|64320|322|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p237_007.npy|mel-p237_007.npy|embed-p237_007.npy|50560|253|The rainbow is a division of white light into many beautiful colors.
+audio-p237_008.npy|mel-p237_008.npy|embed-p237_008.npy|87040|436|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p237_009.npy|mel-p237_009.npy|embed-p237_009.npy|55040|276|There is , according to legend, a boiling pot of gold at one end.
+audio-p266_002.npy|mel-p266_002.npy|embed-p266_002.npy|40320|202|Ask her to bring these things with her from the store.
+audio-p266_003.npy|mel-p266_003.npy|embed-p266_003.npy|84480|423|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p266_004.npy|mel-p266_004.npy|embed-p266_004.npy|56000|281|We also need a small plastic snake and a big toy frog for the kids.
+audio-p266_005.npy|mel-p266_005.npy|embed-p266_005.npy|75840|380|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p266_006.npy|mel-p266_006.npy|embed-p266_006.npy|70400|353|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p266_007.npy|mel-p266_007.npy|embed-p266_007.npy|55360|277|The rainbow is a division of white light into many beautiful colors.
+audio-p266_008.npy|mel-p266_008.npy|embed-p266_008.npy|90560|453|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p266_009.npy|mel-p266_009.npy|embed-p266_009.npy|53120|266|There is , according to legend, a boiling pot of gold at one end.
+audio-p254_002.npy|mel-p254_002.npy|embed-p254_002.npy|41920|210|Ask her to bring these things with her from the store.
+audio-p254_003.npy|mel-p254_003.npy|embed-p254_003.npy|100480|503|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p254_004.npy|mel-p254_004.npy|embed-p254_004.npy|66560|333|We also need a small plastic snake and a big toy frog for the kids.
+audio-p254_005.npy|mel-p254_005.npy|embed-p254_005.npy|89600|449|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p254_006.npy|mel-p254_006.npy|embed-p254_006.npy|69760|349|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p254_007.npy|mel-p254_007.npy|embed-p254_007.npy|57600|289|The rainbow is a division of white light into many beautiful colors.
+audio-p254_008.npy|mel-p254_008.npy|embed-p254_008.npy|102400|513|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p254_009.npy|mel-p254_009.npy|embed-p254_009.npy|60480|303|There is , according to legend, a boiling pot of gold at one end.
+audio-p257_002.npy|mel-p257_002.npy|embed-p257_002.npy|34880|175|Ask her to bring these things with her from the store.
+audio-p257_003.npy|mel-p257_003.npy|embed-p257_003.npy|85120|426|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p257_004.npy|mel-p257_004.npy|embed-p257_004.npy|50880|255|We also need a small plastic snake and a big toy frog for the kids.
+audio-p257_005.npy|mel-p257_005.npy|embed-p257_005.npy|64960|325|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p257_006.npy|mel-p257_006.npy|embed-p257_006.npy|58560|293|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p257_007.npy|mel-p257_007.npy|embed-p257_007.npy|51520|258|The rainbow is a division of white light into many beautiful colors.
+audio-p257_008.npy|mel-p257_008.npy|embed-p257_008.npy|86080|431|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p257_009.npy|mel-p257_009.npy|embed-p257_009.npy|49280|247|There is , according to legend, a boiling pot of gold at one end.
+audio-p279_002.npy|mel-p279_002.npy|embed-p279_002.npy|37120|186|Ask her to bring these things with her from the store.
+audio-p279_003.npy|mel-p279_003.npy|embed-p279_003.npy|81280|407|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p279_004.npy|mel-p279_004.npy|embed-p279_004.npy|50240|252|We also need a small plastic snake and a big toy frog for the kids.
+audio-p279_005.npy|mel-p279_005.npy|embed-p279_005.npy|62720|314|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p279_006.npy|mel-p279_006.npy|embed-p279_006.npy|58240|292|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p279_007.npy|mel-p279_007.npy|embed-p279_007.npy|48320|242|The rainbow is a division of white light into many beautiful colors.
+audio-p279_008.npy|mel-p279_008.npy|embed-p279_008.npy|82880|415|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p279_009.npy|mel-p279_009.npy|embed-p279_009.npy|47360|237|There is , according to legend, a boiling pot of gold at one end.
+audio-p251_002.npy|mel-p251_002.npy|embed-p251_002.npy|44159|221|Ask her to bring these things with her from the store.
+audio-p251_003.npy|mel-p251_003.npy|embed-p251_003.npy|101440|508|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p251_004.npy|mel-p251_004.npy|embed-p251_004.npy|60160|301|We also need a small plastic snake and a big toy frog for the kids.
+audio-p251_005.npy|mel-p251_005.npy|embed-p251_005.npy|84800|425|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p251_006.npy|mel-p251_006.npy|embed-p251_006.npy|70720|354|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p251_007.npy|mel-p251_007.npy|embed-p251_007.npy|51840|260|The rainbow is a division of white light into many beautiful colors.
+audio-p251_008.npy|mel-p251_008.npy|embed-p251_008.npy|97920|490|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p251_009.npy|mel-p251_009.npy|embed-p251_009.npy|64640|324|There is , according to legend, a boiling pot of gold at one end.
+audio-p241_002.npy|mel-p241_002.npy|embed-p241_002.npy|42240|212|Ask her to bring these things with her from the store.
+audio-p241_003.npy|mel-p241_003.npy|embed-p241_003.npy|99840|500|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p241_004.npy|mel-p241_004.npy|embed-p241_004.npy|59200|297|We also need a small plastic snake and a big toy frog for the kids.
+audio-p241_005.npy|mel-p241_005.npy|embed-p241_005.npy|85120|426|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p241_006.npy|mel-p241_006.npy|embed-p241_006.npy|70720|354|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p241_007.npy|mel-p241_007.npy|embed-p241_007.npy|51520|258|The rainbow is a division of white light into many beautiful colors.
+audio-p241_008.npy|mel-p241_008.npy|embed-p241_008.npy|103040|516|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p241_009.npy|mel-p241_009.npy|embed-p241_009.npy|55040|276|There is , according to legend, a boiling pot of gold at one end.
+audio-p229_002.npy|mel-p229_002.npy|embed-p229_002.npy|45120|226|Ask her to bring these things with her from the store.
+audio-p229_003.npy|mel-p229_003.npy|embed-p229_003.npy|93440|468|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p229_004.npy|mel-p229_004.npy|embed-p229_004.npy|57280|287|We also need a small plastic snake and a big toy frog for the kids.
+audio-p229_005.npy|mel-p229_005.npy|embed-p229_005.npy|80000|401|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p229_006.npy|mel-p229_006.npy|embed-p229_006.npy|67840|340|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p229_007.npy|mel-p229_007.npy|embed-p229_007.npy|49600|249|The rainbow is a division of white light into many beautiful colors.
+audio-p229_008.npy|mel-p229_008.npy|embed-p229_008.npy|93760|469|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p229_009.npy|mel-p229_009.npy|embed-p229_009.npy|59200|297|There is , according to legend, a boiling pot of gold at one end.
+audio-p249_002.npy|mel-p249_002.npy|embed-p249_002.npy|42560|213|Ask her to bring these things with her from the store.
+audio-p249_003.npy|mel-p249_003.npy|embed-p249_003.npy|102400|513|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p249_004.npy|mel-p249_004.npy|embed-p249_004.npy|63360|317|We also need a small plastic snake and a big toy frog for the kids.
+audio-p249_005.npy|mel-p249_005.npy|embed-p249_005.npy|92160|461|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p249_006.npy|mel-p249_006.npy|embed-p249_006.npy|78720|394|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p249_007.npy|mel-p249_007.npy|embed-p249_007.npy|56000|281|The rainbow is a division of white light into many beautiful colors.
+audio-p249_008.npy|mel-p249_008.npy|embed-p249_008.npy|96000|481|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p249_009.npy|mel-p249_009.npy|embed-p249_009.npy|60480|303|There is , according to legend, a boiling pot of gold at one end.
+audio-p362_002.npy|mel-p362_002.npy|embed-p362_002.npy|42880|215|Ask her to bring these things with her from the store.
+audio-p362_003.npy|mel-p362_003.npy|embed-p362_003.npy|96320|482|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p362_004.npy|mel-p362_004.npy|embed-p362_004.npy|60480|303|We also need a small plastic snake and a big toy frog for the kids.
+audio-p362_005.npy|mel-p362_005.npy|embed-p362_005.npy|76800|385|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p362_006.npy|mel-p362_006.npy|embed-p362_006.npy|69120|346|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p362_007.npy|mel-p362_007.npy|embed-p362_007.npy|55680|279|The rainbow is a division of white light into many beautiful colors.
+audio-p362_008.npy|mel-p362_008.npy|embed-p362_008.npy|118400|593|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p362_009.npy|mel-p362_009.npy|embed-p362_009.npy|59840|300|There is , according to legend, a boiling pot of gold at one end.
+audio-p282_002.npy|mel-p282_002.npy|embed-p282_002.npy|36160|181|Ask her to bring these things with her from the store.
+audio-p282_003.npy|mel-p282_003.npy|embed-p282_003.npy|92800|465|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p282_004.npy|mel-p282_004.npy|embed-p282_004.npy|59840|300|We also need a small plastic snake and a big toy frog for the kids.
+audio-p282_005.npy|mel-p282_005.npy|embed-p282_005.npy|81600|409|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p282_006.npy|mel-p282_006.npy|embed-p282_006.npy|62400|313|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p282_007.npy|mel-p282_007.npy|embed-p282_007.npy|63360|317|The rainbow is a division of white light into many beautiful colors.
+audio-p282_008.npy|mel-p282_008.npy|embed-p282_008.npy|94080|471|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p282_009.npy|mel-p282_009.npy|embed-p282_009.npy|58240|292|There is , according to legend, a boiling pot of gold at one end.
+audio-p336_002.npy|mel-p336_002.npy|embed-p336_002.npy|40960|205|Ask her to bring these things with her from the store.
+audio-p336_003.npy|mel-p336_003.npy|embed-p336_003.npy|83840|420|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p336_004.npy|mel-p336_004.npy|embed-p336_004.npy|63040|316|We also need a small plastic snake and a big toy frog for the kids.
+audio-p336_005.npy|mel-p336_005.npy|embed-p336_005.npy|89600|449|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p336_006.npy|mel-p336_006.npy|embed-p336_006.npy|78400|393|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p336_007.npy|mel-p336_007.npy|embed-p336_007.npy|60160|301|The rainbow is a division of white light into many beautiful colors.
+audio-p336_008.npy|mel-p336_008.npy|embed-p336_008.npy|104960|525|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p336_009.npy|mel-p336_009.npy|embed-p336_009.npy|61760|309|There is , according to legend, a boiling pot of gold at one end.
+audio-p256_002.npy|mel-p256_002.npy|embed-p256_002.npy|49920|250|Ask her to bring these things with her from the store.
+audio-p256_003.npy|mel-p256_003.npy|embed-p256_003.npy|97600|489|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p256_004.npy|mel-p256_004.npy|embed-p256_004.npy|65600|329|We also need a small plastic snake and a big toy frog for the kids.
+audio-p256_005.npy|mel-p256_005.npy|embed-p256_005.npy|87680|439|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p256_006.npy|mel-p256_006.npy|embed-p256_006.npy|74560|373|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p256_007.npy|mel-p256_007.npy|embed-p256_007.npy|59840|300|The rainbow is a division of white light into many beautiful colors.
+audio-p256_008.npy|mel-p256_008.npy|embed-p256_008.npy|102080|511|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p256_009.npy|mel-p256_009.npy|embed-p256_009.npy|65600|329|There is , according to legend, a boiling pot of gold at one end.
+audio-p275_002.npy|mel-p275_002.npy|embed-p275_002.npy|39680|199|Ask her to bring these things with her from the store.
+audio-p275_003.npy|mel-p275_003.npy|embed-p275_003.npy|99840|500|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p275_004.npy|mel-p275_004.npy|embed-p275_004.npy|56320|282|We also need a small plastic snake and a big toy frog for the kids.
+audio-p275_006.npy|mel-p275_006.npy|embed-p275_006.npy|77760|389|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p275_007.npy|mel-p275_007.npy|embed-p275_007.npy|51840|260|The rainbow is a division of white light into many beautiful colors.
+audio-p275_008.npy|mel-p275_008.npy|embed-p275_008.npy|95680|479|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p275_009.npy|mel-p275_009.npy|embed-p275_009.npy|64640|324|There is , according to the legend, a boiling pot of gold at one end.
+audio-p275_010.npy|mel-p275_010.npy|embed-p275_010.npy|30720|154|People look, but no one ever finds it.
+audio-p240_002.npy|mel-p240_002.npy|embed-p240_002.npy|44480|223|Ask her to bring these things with her from the store.
+audio-p240_003.npy|mel-p240_003.npy|embed-p240_003.npy|99520|498|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p240_004.npy|mel-p240_004.npy|embed-p240_004.npy|63680|319|We also need a small plastic snake and a big toy frog for the kids.
+audio-p240_005.npy|mel-p240_005.npy|embed-p240_005.npy|83840|420|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p240_006.npy|mel-p240_006.npy|embed-p240_006.npy|72640|364|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p240_007.npy|mel-p240_007.npy|embed-p240_007.npy|56000|281|The rainbow is a division of white light into many beautiful colors.
+audio-p240_008.npy|mel-p240_008.npy|embed-p240_008.npy|93120|466|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p240_009.npy|mel-p240_009.npy|embed-p240_009.npy|58560|293|There is , according to legend, a boiling pot of gold at one end.
+audio-p284_002.npy|mel-p284_002.npy|embed-p284_002.npy|32640|164|Ask her to bring these things with her from the store.
+audio-p284_003.npy|mel-p284_003.npy|embed-p284_003.npy|73600|369|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p284_004.npy|mel-p284_004.npy|embed-p284_004.npy|46720|234|We also need a small plastic snake and a big toy frog for the kids.
+audio-p284_005.npy|mel-p284_005.npy|embed-p284_005.npy|64640|324|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p284_006.npy|mel-p284_006.npy|embed-p284_006.npy|54400|273|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p284_007.npy|mel-p284_007.npy|embed-p284_007.npy|43520|218|The rainbow is a division of white light into many beautiful colors.
+audio-p284_008.npy|mel-p284_008.npy|embed-p284_008.npy|84480|423|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p284_009.npy|mel-p284_009.npy|embed-p284_009.npy|48960|245|There is , according to legend, a boiling pot of gold at one end.
+audio-p258_002.npy|mel-p258_002.npy|embed-p258_002.npy|42240|212|Ask her to bring these things with her from the store.
+audio-p258_003.npy|mel-p258_003.npy|embed-p258_003.npy|96640|484|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p258_004.npy|mel-p258_004.npy|embed-p258_004.npy|60160|301|We also need a small plastic snake and a big toy frog for the kids.
+audio-p258_005.npy|mel-p258_005.npy|embed-p258_005.npy|86720|434|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p258_006.npy|mel-p258_006.npy|embed-p258_006.npy|70400|353|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p258_007.npy|mel-p258_007.npy|embed-p258_007.npy|56640|284|The rainbow is a division of white light into many beautiful colors.
+audio-p258_008.npy|mel-p258_008.npy|embed-p258_008.npy|102400|513|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p258_009.npy|mel-p258_009.npy|embed-p258_009.npy|55040|276|There is , according to legend, a boiling pot of gold at one end.
+audio-p226_002.npy|mel-p226_002.npy|embed-p226_002.npy|48960|245|Ask her to bring these things with her from the store.
+audio-p226_003.npy|mel-p226_003.npy|embed-p226_003.npy|111680|559|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p226_004.npy|mel-p226_004.npy|embed-p226_004.npy|69440|348|We also need a small plastic snake and a big toy frog for the kids.
+audio-p226_005.npy|mel-p226_005.npy|embed-p226_005.npy|106560|533|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p226_006.npy|mel-p226_006.npy|embed-p226_006.npy|87680|439|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p226_007.npy|mel-p226_007.npy|embed-p226_007.npy|63680|319|The rainbow is a division of white light into many beautiful colors.
+audio-p226_008.npy|mel-p226_008.npy|embed-p226_008.npy|121599|608|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p226_009.npy|mel-p226_009.npy|embed-p226_009.npy|68480|343|There is , according to legend, a boiling pot of gold at one end.
+audio-p245_002.npy|mel-p245_002.npy|embed-p245_002.npy|46400|233|Ask her to bring these things with her from the store.
+audio-p245_003.npy|mel-p245_003.npy|embed-p245_003.npy|121280|607|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p245_004.npy|mel-p245_004.npy|embed-p245_004.npy|76160|381|We also need a small plastic snake and a big toy frog for the kids.
+audio-p245_005.npy|mel-p245_005.npy|embed-p245_005.npy|102400|513|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p245_006.npy|mel-p245_006.npy|embed-p245_006.npy|92160|461|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p245_007.npy|mel-p245_007.npy|embed-p245_007.npy|68160|341|The rainbow is a division of white light into many beautiful colors.
+audio-p245_008.npy|mel-p245_008.npy|embed-p245_008.npy|125120|626|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p245_009.npy|mel-p245_009.npy|embed-p245_009.npy|59520|298|There is , according to legend, a boiling pot of gold at one end.
+audio-p351_002.npy|mel-p351_002.npy|embed-p351_002.npy|40960|205|Ask her to bring these things with her from the store.
+audio-p351_003.npy|mel-p351_003.npy|embed-p351_003.npy|92160|461|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p351_004.npy|mel-p351_004.npy|embed-p351_004.npy|56000|281|We also need a small plastic snake and a big toy frog for the kids.
+audio-p351_005.npy|mel-p351_005.npy|embed-p351_005.npy|76160|381|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p351_006.npy|mel-p351_006.npy|embed-p351_006.npy|73280|367|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p351_007.npy|mel-p351_007.npy|embed-p351_007.npy|56320|282|The rainbow is a division of white light into many beautiful colors.
+audio-p351_008.npy|mel-p351_008.npy|embed-p351_008.npy|94400|473|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p351_009.npy|mel-p351_009.npy|embed-p351_009.npy|56320|282|There is , according to legend, a boiling pot of gold at one end.
+audio-p265_002.npy|mel-p265_002.npy|embed-p265_002.npy|50560|253|Ask her to bring these things with her from the store.
+audio-p265_003.npy|mel-p265_003.npy|embed-p265_003.npy|120640|604|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p265_004.npy|mel-p265_004.npy|embed-p265_004.npy|82560|413|We also need a small plastic snake and a big toy frog for the kids.
+audio-p265_005.npy|mel-p265_005.npy|embed-p265_005.npy|110080|551|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p265_006.npy|mel-p265_006.npy|embed-p265_006.npy|103680|519|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p265_007.npy|mel-p265_007.npy|embed-p265_007.npy|66560|333|The rainbow is a division of white light into many beautiful colors.
+audio-p265_008.npy|mel-p265_008.npy|embed-p265_008.npy|129280|647|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p265_010.npy|mel-p265_010.npy|embed-p265_010.npy|43520|218|People look, but no one ever finds it.
+audio-p250_002.npy|mel-p250_002.npy|embed-p250_002.npy|36160|181|Ask her to bring these things with her from the store.
+audio-p250_003.npy|mel-p250_003.npy|embed-p250_003.npy|85120|426|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p250_004.npy|mel-p250_004.npy|embed-p250_004.npy|53440|268|We also need a small plastic snake and a big toy frog for the kids.
+audio-p250_005.npy|mel-p250_005.npy|embed-p250_005.npy|82240|412|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p250_006.npy|mel-p250_006.npy|embed-p250_006.npy|73280|367|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p250_007.npy|mel-p250_007.npy|embed-p250_007.npy|55040|276|The rainbow is a division of white light into many beautiful colors.
+audio-p250_008.npy|mel-p250_008.npy|embed-p250_008.npy|90880|455|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p250_009.npy|mel-p250_009.npy|embed-p250_009.npy|56320|282|There is , according to legend, a boiling pot of gold at one end.
+audio-p269_002.npy|mel-p269_002.npy|embed-p269_002.npy|41280|207|Ask her to bring these things with her from the store.
+audio-p269_003.npy|mel-p269_003.npy|embed-p269_003.npy|84480|423|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p269_004.npy|mel-p269_004.npy|embed-p269_004.npy|55680|279|We also need a small plastic snake and a big toy frog for the kids.
+audio-p269_005.npy|mel-p269_005.npy|embed-p269_005.npy|74880|375|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p269_006.npy|mel-p269_006.npy|embed-p269_006.npy|66560|333|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p269_007.npy|mel-p269_007.npy|embed-p269_007.npy|49600|249|The rainbow is a division of white light into many beautiful colors.
+audio-p269_008.npy|mel-p269_008.npy|embed-p269_008.npy|96640|484|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p269_009.npy|mel-p269_009.npy|embed-p269_009.npy|58240|292|There is , according to legend, a boiling pot of gold at one end.
+audio-p287_002.npy|mel-p287_002.npy|embed-p287_002.npy|42240|212|Ask her to bring these things with her from the store.
+audio-p287_003.npy|mel-p287_003.npy|embed-p287_003.npy|102080|511|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p287_004.npy|mel-p287_004.npy|embed-p287_004.npy|67840|340|We also need a small plastic snake and a big toy frog for the kids.
+audio-p287_005.npy|mel-p287_005.npy|embed-p287_005.npy|94720|474|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p287_006.npy|mel-p287_006.npy|embed-p287_006.npy|71360|357|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p287_007.npy|mel-p287_007.npy|embed-p287_007.npy|56960|285|The rainbow is a division of white light into many beautiful colors.
+audio-p287_008.npy|mel-p287_008.npy|embed-p287_008.npy|112000|561|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p287_009.npy|mel-p287_009.npy|embed-p287_009.npy|69760|349|There is , according to legend, a boiling pot of gold at one end.
+audio-p246_002.npy|mel-p246_002.npy|embed-p246_002.npy|48320|242|Ask her to bring these things with her from the store.
+audio-p246_003.npy|mel-p246_003.npy|embed-p246_003.npy|120640|604|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p246_004.npy|mel-p246_004.npy|embed-p246_004.npy|77440|388|We also need a small plastic snake and a big toy frog for the kids.
+audio-p246_005.npy|mel-p246_005.npy|embed-p246_005.npy|102080|511|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p246_006.npy|mel-p246_006.npy|embed-p246_006.npy|90240|452|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p246_007.npy|mel-p246_007.npy|embed-p246_007.npy|70720|354|The rainbow is a division of white light into many beautiful colors.
+audio-p246_008.npy|mel-p246_008.npy|embed-p246_008.npy|120320|602|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p246_009.npy|mel-p246_009.npy|embed-p246_009.npy|73600|369|There is , according to legend, a boiling pot of gold at one end.
+audio-p234_002.npy|mel-p234_002.npy|embed-p234_002.npy|40000|201|Ask her to bring these things with her from the store.
+audio-p234_003.npy|mel-p234_003.npy|embed-p234_003.npy|82240|412|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p234_004.npy|mel-p234_004.npy|embed-p234_004.npy|56320|282|We also need a small plastic snake and a big toy frog for the kids.
+audio-p234_005.npy|mel-p234_005.npy|embed-p234_005.npy|72000|361|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p234_006.npy|mel-p234_006.npy|embed-p234_006.npy|64960|325|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p234_007.npy|mel-p234_007.npy|embed-p234_007.npy|48640|244|The rainbow is a division of white light into many beautiful colors.
+audio-p234_008.npy|mel-p234_008.npy|embed-p234_008.npy|88000|441|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p234_009.npy|mel-p234_009.npy|embed-p234_009.npy|49600|249|There is , according to legend, a boiling pot of gold at one end.
+audio-p252_002.npy|mel-p252_002.npy|embed-p252_002.npy|38720|194|Ask her to bring these things with her from the store.
+audio-p252_003.npy|mel-p252_003.npy|embed-p252_003.npy|103360|517|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p252_004.npy|mel-p252_004.npy|embed-p252_004.npy|68800|345|We also need a small plastic snake and a big toy frog for the kids.
+audio-p252_005.npy|mel-p252_005.npy|embed-p252_005.npy|83840|420|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p252_006.npy|mel-p252_006.npy|embed-p252_006.npy|70400|353|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p252_007.npy|mel-p252_007.npy|embed-p252_007.npy|51200|257|The rainbow is a division of white light into many beautiful colors.
+audio-p252_008.npy|mel-p252_008.npy|embed-p252_008.npy|101440|508|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p252_009.npy|mel-p252_009.npy|embed-p252_009.npy|63040|316|There is , according to legend, a boiling pot of gold at one end.
+audio-p255_002.npy|mel-p255_002.npy|embed-p255_002.npy|38720|194|Ask her to bring these things with her from the store.
+audio-p255_003.npy|mel-p255_003.npy|embed-p255_003.npy|111360|557|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p255_004.npy|mel-p255_004.npy|embed-p255_004.npy|77440|388|We also need a small plastic snake and a big toy frog for the kids.
+audio-p255_005.npy|mel-p255_005.npy|embed-p255_005.npy|94720|474|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p255_006.npy|mel-p255_006.npy|embed-p255_006.npy|78080|391|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p255_007.npy|mel-p255_007.npy|embed-p255_007.npy|52480|263|The rainbow is a division of white light into many beautiful colors.
+audio-p255_008.npy|mel-p255_008.npy|embed-p255_008.npy|107841|540|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p255_009.npy|mel-p255_009.npy|embed-p255_009.npy|64640|324|There is , according to legend, a boiling pot of gold at one end.
+audio-p313_002.npy|mel-p313_002.npy|embed-p313_002.npy|45120|226|Ask her to bring these things with her from the store.
+audio-p313_003.npy|mel-p313_003.npy|embed-p313_003.npy|102400|513|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p313_004.npy|mel-p313_004.npy|embed-p313_004.npy|66240|332|We also need a small plastic snake and a big toy frog for the kids.
+audio-p313_005.npy|mel-p313_005.npy|embed-p313_005.npy|97280|487|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p313_006.npy|mel-p313_006.npy|embed-p313_006.npy|84160|421|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p313_007.npy|mel-p313_007.npy|embed-p313_007.npy|63360|317|The rainbow is a division of white light into many beautiful colors.
+audio-p313_008.npy|mel-p313_008.npy|embed-p313_008.npy|104640|524|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p313_009.npy|mel-p313_009.npy|embed-p313_009.npy|56320|282|There is , according to legend, a boiling pot of gold at one end.
+audio-p233_001.npy|mel-p233_001.npy|embed-p233_001.npy|25600|129|Please call Stella.
+audio-p233_002.npy|mel-p233_002.npy|embed-p233_002.npy|49920|250|Ask her to bring these things with her from the store.
+audio-p233_003.npy|mel-p233_003.npy|embed-p233_003.npy|128960|645|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p233_004.npy|mel-p233_004.npy|embed-p233_004.npy|77440|388|We also need a small plastic snake and a big toy frog for the kids.
+audio-p233_005.npy|mel-p233_005.npy|embed-p233_005.npy|99840|500|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p233_006.npy|mel-p233_006.npy|embed-p233_006.npy|85120|426|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p233_007.npy|mel-p233_007.npy|embed-p233_007.npy|65280|327|The rainbow is a division of white light into many beautiful colors.
+audio-p233_008.npy|mel-p233_008.npy|embed-p233_008.npy|113920|570|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p227_002.npy|mel-p227_002.npy|embed-p227_002.npy|49600|249|Ask her to bring these things with her from the store.
+audio-p227_003.npy|mel-p227_003.npy|embed-p227_003.npy|115520|578|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p227_004.npy|mel-p227_004.npy|embed-p227_004.npy|71040|356|We also need a small plastic snake and a big toy frog for the kids.
+audio-p227_005.npy|mel-p227_005.npy|embed-p227_005.npy|104960|525|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p227_006.npy|mel-p227_006.npy|embed-p227_006.npy|91840|460|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p227_008.npy|mel-p227_008.npy|embed-p227_008.npy|120000|601|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p227_009.npy|mel-p227_009.npy|embed-p227_009.npy|69760|349|There is , according to legend, a boiling pot of gold at one end.
+audio-p227_010.npy|mel-p227_010.npy|embed-p227_010.npy|47360|237|People look, but no one ever finds it.
+audio-p272_002.npy|mel-p272_002.npy|embed-p272_002.npy|47680|239|Ask her to bring these things with her from the store.
+audio-p272_003.npy|mel-p272_003.npy|embed-p272_003.npy|103040|516|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p272_004.npy|mel-p272_004.npy|embed-p272_004.npy|60480|303|We also need a small plastic snake and a big toy frog for the kids.
+audio-p272_005.npy|mel-p272_005.npy|embed-p272_005.npy|86400|433|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p272_006.npy|mel-p272_006.npy|embed-p272_006.npy|77120|386|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p272_007.npy|mel-p272_007.npy|embed-p272_007.npy|56640|284|The rainbow is a division of white light into many beautiful colors.
+audio-p272_008.npy|mel-p272_008.npy|embed-p272_008.npy|98240|492|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p272_009.npy|mel-p272_009.npy|embed-p272_009.npy|64000|321|There is , according to legend, a boiling pot of gold at one end.
+audio-p244_002.npy|mel-p244_002.npy|embed-p244_002.npy|34560|173|Ask her to bring these things with her from the store.
+audio-p244_003.npy|mel-p244_003.npy|embed-p244_003.npy|82240|412|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p244_004.npy|mel-p244_004.npy|embed-p244_004.npy|61760|309|We also need a small plastic snake and a big toy frog for the kids.
+audio-p244_005.npy|mel-p244_005.npy|embed-p244_005.npy|78720|394|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p244_006.npy|mel-p244_006.npy|embed-p244_006.npy|69120|346|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p244_007.npy|mel-p244_007.npy|embed-p244_007.npy|51200|257|The rainbow is a division of white light into many beautiful colors.
+audio-p244_008.npy|mel-p244_008.npy|embed-p244_008.npy|105599|528|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p244_009.npy|mel-p244_009.npy|embed-p244_009.npy|59840|300|There is , according to legend, a boiling pot of gold at one end.
+audio-p334_002.npy|mel-p334_002.npy|embed-p334_002.npy|36800|185|Ask her to bring these things with her from the store.
+audio-p334_003.npy|mel-p334_003.npy|embed-p334_003.npy|82560|413|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p334_004.npy|mel-p334_004.npy|embed-p334_004.npy|57600|289|We also need a small plastic snake and a big toy frog for the kids.
+audio-p334_005.npy|mel-p334_005.npy|embed-p334_005.npy|79360|397|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p334_006.npy|mel-p334_006.npy|embed-p334_006.npy|67200|337|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p334_007.npy|mel-p334_007.npy|embed-p334_007.npy|50559|253|The rainbow is a division of white light into many beautiful colors.
+audio-p334_008.npy|mel-p334_008.npy|embed-p334_008.npy|88640|444|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p334_009.npy|mel-p334_009.npy|embed-p334_009.npy|52160|261|There is , according to legend, a boiling pot of gold at one end.
+audio-p228_001.npy|mel-p228_001.npy|embed-p228_001.npy|25600|129|Please call Stella.
+audio-p228_002.npy|mel-p228_002.npy|embed-p228_002.npy|45760|229|Ask her to bring these things with her from the store.
+audio-p228_003.npy|mel-p228_003.npy|embed-p228_003.npy|115520|578|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p228_004.npy|mel-p228_004.npy|embed-p228_004.npy|75840|380|We also need a small plastic snake and a big toy frog for the kids.
+audio-p228_005.npy|mel-p228_005.npy|embed-p228_005.npy|104000|521|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p228_006.npy|mel-p228_006.npy|embed-p228_006.npy|87360|437|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p228_007.npy|mel-p228_007.npy|embed-p228_007.npy|70400|353|The rainbow is a division of white light into many beautiful colors.
+audio-p228_008.npy|mel-p228_008.npy|embed-p228_008.npy|115520|578|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p273_002.npy|mel-p273_002.npy|embed-p273_002.npy|38720|194|Ask her to bring these things with her from the store.
+audio-p273_003.npy|mel-p273_003.npy|embed-p273_003.npy|100160|501|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p273_004.npy|mel-p273_004.npy|embed-p273_004.npy|69440|348|We also need a small plastic snake and a big toy frog for the kids.
+audio-p273_005.npy|mel-p273_005.npy|embed-p273_005.npy|95040|476|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p273_006.npy|mel-p273_006.npy|embed-p273_006.npy|77440|388|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p273_007.npy|mel-p273_007.npy|embed-p273_007.npy|55360|277|The rainbow is a division of white light into many beautiful colors.
+audio-p273_008.npy|mel-p273_008.npy|embed-p273_008.npy|115520|578|These take the shape of a long round arch, and its path high above, and its two ends apparently beyond the horizon.
+audio-p273_009.npy|mel-p273_009.npy|embed-p273_009.npy|72000|361|There is , according to legend, a boiling pot of gold at one end.
+audio-p326_002.npy|mel-p326_002.npy|embed-p326_002.npy|42240|212|Ask her to bring these things with her from the store.
+audio-p326_003.npy|mel-p326_003.npy|embed-p326_003.npy|96640|484|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p326_004.npy|mel-p326_004.npy|embed-p326_004.npy|63680|319|We also need a small plastic snake and a big toy frog for the kids.
+audio-p326_005.npy|mel-p326_005.npy|embed-p326_005.npy|86720|434|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p326_006.npy|mel-p326_006.npy|embed-p326_006.npy|77440|388|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p326_007.npy|mel-p326_007.npy|embed-p326_007.npy|54400|273|The rainbow is a division of white light into many beautiful colors.
+audio-p326_008.npy|mel-p326_008.npy|embed-p326_008.npy|95360|477|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p326_009.npy|mel-p326_009.npy|embed-p326_009.npy|55999|280|There is , according to legend, a boiling pot of gold at one end.
+audio-p312_002.npy|mel-p312_002.npy|embed-p312_002.npy|44800|225|Ask her to bring these things with her from the store.
+audio-p312_003.npy|mel-p312_003.npy|embed-p312_003.npy|97920|490|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p312_004.npy|mel-p312_004.npy|embed-p312_004.npy|61760|309|We also need a small plastic snake and a big toy frog for the kids.
+audio-p312_005.npy|mel-p312_005.npy|embed-p312_005.npy|88640|444|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p312_006.npy|mel-p312_006.npy|embed-p312_006.npy|79680|399|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p312_007.npy|mel-p312_007.npy|embed-p312_007.npy|59520|298|The rainbow is a division of white light into many beautiful colors.
+audio-p312_008.npy|mel-p312_008.npy|embed-p312_008.npy|104320|522|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p312_009.npy|mel-p312_009.npy|embed-p312_009.npy|72640|364|There is , according to legend, a boiling pot of gold at one end.
+audio-p292_013.npy|mel-p292_013.npy|embed-p292_013.npy|59840|300|Some have accepted it as a miracle without physical explanation.
+audio-p292_014.npy|mel-p292_014.npy|embed-p292_014.npy|70400|353|To the Hebrews it was a token that there would be no more universal floods.
+audio-p292_015.npy|mel-p292_015.npy|embed-p292_015.npy|80640|404|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain.
+audio-p292_016.npy|mel-p292_016.npy|embed-p292_016.npy|104000|521|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
+audio-p292_017.npy|mel-p292_017.npy|embed-p292_017.npy|46400|233|Others have tried to explain the phenomenon physically.
+audio-p292_020.npy|mel-p292_020.npy|embed-p292_020.npy|48960|245|Many complicated ideas about the rainbow have been formed.
+audio-p292_021.npy|mel-p292_021.npy|embed-p292_021.npy|131840|660|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.
+audio-p292_022.npy|mel-p292_022.npy|embed-p292_022.npy|92160|461|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.
+audio-p267_002.npy|mel-p267_002.npy|embed-p267_002.npy|42560|213|Ask her to bring these things with her from the store.
+audio-p267_003.npy|mel-p267_003.npy|embed-p267_003.npy|97280|487|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p267_004.npy|mel-p267_004.npy|embed-p267_004.npy|66560|333|We also need a small plastic snake and a big toy frog for the kids.
+audio-p267_005.npy|mel-p267_005.npy|embed-p267_005.npy|77760|389|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p267_006.npy|mel-p267_006.npy|embed-p267_006.npy|71680|359|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p267_007.npy|mel-p267_007.npy|embed-p267_007.npy|56960|285|The rainbow is a division of white light into many beautiful colors.
+audio-p267_008.npy|mel-p267_008.npy|embed-p267_008.npy|94720|474|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p267_009.npy|mel-p267_009.npy|embed-p267_009.npy|61440|308|There is , according to legend, a boiling pot of gold at one end.
+audio-p294_002.npy|mel-p294_002.npy|embed-p294_002.npy|44800|225|Ask her to bring these things with her from the store.
+audio-p294_003.npy|mel-p294_003.npy|embed-p294_003.npy|99200|497|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p294_004.npy|mel-p294_004.npy|embed-p294_004.npy|65920|330|We also need a small plastic snake and a big toy frog for the kids.
+audio-p294_005.npy|mel-p294_005.npy|embed-p294_005.npy|92480|463|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p294_006.npy|mel-p294_006.npy|embed-p294_006.npy|81280|407|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p294_007.npy|mel-p294_007.npy|embed-p294_007.npy|58240|292|The rainbow is a division of white light into many beautiful colors.
+audio-p294_008.npy|mel-p294_008.npy|embed-p294_008.npy|117120|586|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p294_009.npy|mel-p294_009.npy|embed-p294_009.npy|58880|295|There is , according to legend, a boiling pot of gold at one end.
+audio-p278_002.npy|mel-p278_002.npy|embed-p278_002.npy|38720|194|Ask her to bring these things with her from the store.
+audio-p278_003.npy|mel-p278_003.npy|embed-p278_003.npy|96640|484|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p278_004.npy|mel-p278_004.npy|embed-p278_004.npy|61120|306|We also need a small plastic snake and a big toy frog for the kids.
+audio-p278_005.npy|mel-p278_005.npy|embed-p278_005.npy|85760|429|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p278_006.npy|mel-p278_006.npy|embed-p278_006.npy|70400|353|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p278_007.npy|mel-p278_007.npy|embed-p278_007.npy|55040|276|The rainbow is a division of white light into many beautiful colors.
+audio-p278_008.npy|mel-p278_008.npy|embed-p278_008.npy|92480|463|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p278_009.npy|mel-p278_009.npy|embed-p278_009.npy|55040|276|There is , according to legend, a boiling pot of gold at one end.
+audio-p304_001.npy|mel-p304_001.npy|embed-p304_001.npy|25920|130|Please call Stella.
+audio-p304_002.npy|mel-p304_002.npy|embed-p304_002.npy|47680|239|Ask her to bring these things with her from the store.
+audio-p304_003.npy|mel-p304_003.npy|embed-p304_003.npy|105600|529|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p304_004.npy|mel-p304_004.npy|embed-p304_004.npy|70400|353|We also need a small plastic snake and a big toy frog for the kids.
+audio-p304_005.npy|mel-p304_005.npy|embed-p304_005.npy|91840|460|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p304_006.npy|mel-p304_006.npy|embed-p304_006.npy|84160|421|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p304_007.npy|mel-p304_007.npy|embed-p304_007.npy|61760|309|The rainbow is a division of white light into many beautiful colors.
+audio-p304_008.npy|mel-p304_008.npy|embed-p304_008.npy|111680|559|These take the shape of a long round arc, with its path high above, and its two ends apparently beyond the horizon.
+audio-p248_002.npy|mel-p248_002.npy|embed-p248_002.npy|56960|285|Ask her to bring these things with her from the store.
+audio-p248_003.npy|mel-p248_003.npy|embed-p248_003.npy|133120|666|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p248_004.npy|mel-p248_004.npy|embed-p248_004.npy|74560|373|We also need a small plastic snake and a big toy frog for the kids.
+audio-p248_005.npy|mel-p248_005.npy|embed-p248_005.npy|121920|610|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p248_006.npy|mel-p248_006.npy|embed-p248_006.npy|100800|505|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p248_007.npy|mel-p248_007.npy|embed-p248_007.npy|69440|348|The rainbow is a division of white light into many beautiful colors.
+audio-p248_008.npy|mel-p248_008.npy|embed-p248_008.npy|136960|685|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p248_009.npy|mel-p248_009.npy|embed-p248_009.npy|83200|417|There is , according to legend, a boiling pot of gold at one end.
+audio-p311_002.npy|mel-p311_002.npy|embed-p311_002.npy|44160|221|Ask her to bring these things with her from the store.
+audio-p311_003.npy|mel-p311_003.npy|embed-p311_003.npy|103680|519|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p311_004.npy|mel-p311_004.npy|embed-p311_004.npy|64960|325|We also need a small plastic snake and a big toy frog for the kids.
+audio-p311_005.npy|mel-p311_005.npy|embed-p311_005.npy|81280|407|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p311_006.npy|mel-p311_006.npy|embed-p311_006.npy|71680|359|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p311_007.npy|mel-p311_007.npy|embed-p311_007.npy|60800|305|The rainbow is a division of white light into many beautiful colors.
+audio-p311_008.npy|mel-p311_008.npy|embed-p311_008.npy|105600|529|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p311_009.npy|mel-p311_009.npy|embed-p311_009.npy|51520|258|There is , according to legend, a boiling pot of gold at one end.
+audio-p288_002.npy|mel-p288_002.npy|embed-p288_002.npy|40960|205|Ask her to bring these things with her from the store.
+audio-p288_003.npy|mel-p288_003.npy|embed-p288_003.npy|100480|503|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p288_004.npy|mel-p288_004.npy|embed-p288_004.npy|68160|341|We also need a small plastic snake and a big toy frog for the kids.
+audio-p288_005.npy|mel-p288_005.npy|embed-p288_005.npy|94400|473|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p288_006.npy|mel-p288_006.npy|embed-p288_006.npy|76160|381|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p288_007.npy|mel-p288_007.npy|embed-p288_007.npy|64960|325|The rainbow is a division of white light into many beautiful colors.
+audio-p288_008.npy|mel-p288_008.npy|embed-p288_008.npy|110720|554|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p288_009.npy|mel-p288_009.npy|embed-p288_009.npy|62400|313|There is , according to legend, a boiling pot of gold at one end.
+audio-p343_002.npy|mel-p343_002.npy|embed-p343_002.npy|47360|237|Ask her to bring these things with her from the store.
+audio-p343_003.npy|mel-p343_003.npy|embed-p343_003.npy|116160|581|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p343_004.npy|mel-p343_004.npy|embed-p343_004.npy|68160|341|We also need a small plastic snake and a big toy frog for the kids.
+audio-p343_005.npy|mel-p343_005.npy|embed-p343_005.npy|91200|457|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p343_006.npy|mel-p343_006.npy|embed-p343_006.npy|80000|401|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p343_007.npy|mel-p343_007.npy|embed-p343_007.npy|60800|305|The rainbow is a division of white light into many beautiful colors.
+audio-p343_009.npy|mel-p343_009.npy|embed-p343_009.npy|61760|309|There is , according to legend, a boiling pot of gold at one end.
+audio-p343_010.npy|mel-p343_010.npy|embed-p343_010.npy|39360|197|People look, but no one ever finds it.
+audio-p316_002.npy|mel-p316_002.npy|embed-p316_002.npy|45760|229|Ask her to bring these things with her from the store.
+audio-p316_003.npy|mel-p316_003.npy|embed-p316_003.npy|103360|517|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p316_004.npy|mel-p316_004.npy|embed-p316_004.npy|67200|337|We also need a small plastic snake and a big toy frog for the kids.
+audio-p316_005.npy|mel-p316_005.npy|embed-p316_005.npy|108800|545|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p316_006.npy|mel-p316_006.npy|embed-p316_006.npy|83520|418|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p316_007.npy|mel-p316_007.npy|embed-p316_007.npy|59840|300|The rainbow is a division of white light into many beautiful colors.
+audio-p316_008.npy|mel-p316_008.npy|embed-p316_008.npy|115840|580|These take the shape of a long round arc, with its path high above, and its two ends apparently beyond the horizon.
+audio-p316_009.npy|mel-p316_009.npy|embed-p316_009.npy|71360|357|There is , according to a legend, a boiling pot of gold at one end.
+audio-p277_002.npy|mel-p277_002.npy|embed-p277_002.npy|40320|202|Ask her to bring these things with her from the store.
+audio-p277_003.npy|mel-p277_003.npy|embed-p277_003.npy|104000|521|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p277_004.npy|mel-p277_004.npy|embed-p277_004.npy|59200|297|We also need a small plastic snake and a big toy frog for the kids.
+audio-p277_005.npy|mel-p277_005.npy|embed-p277_005.npy|88640|444|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p277_006.npy|mel-p277_006.npy|embed-p277_006.npy|81920|410|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p277_007.npy|mel-p277_007.npy|embed-p277_007.npy|59840|300|The rainbow is a division of white light into many beautiful colors.
+audio-p277_008.npy|mel-p277_008.npy|embed-p277_008.npy|114880|575|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p277_009.npy|mel-p277_009.npy|embed-p277_009.npy|70720|354|There is , according to legend, a boiling pot of gold at one end.
+audio-p271_002.npy|mel-p271_002.npy|embed-p271_002.npy|46400|233|Ask her to bring these things with her from the store.
+audio-p271_003.npy|mel-p271_003.npy|embed-p271_003.npy|121280|607|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p271_004.npy|mel-p271_004.npy|embed-p271_004.npy|72640|364|We also need a small plastic snake and a big toy frog for the kids.
+audio-p271_005.npy|mel-p271_005.npy|embed-p271_005.npy|99840|500|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p271_006.npy|mel-p271_006.npy|embed-p271_006.npy|82240|412|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p271_007.npy|mel-p271_007.npy|embed-p271_007.npy|69120|346|The rainbow is a division of white light into many beautiful colors.
+audio-p271_008.npy|mel-p271_008.npy|embed-p271_008.npy|132160|661|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p271_009.npy|mel-p271_009.npy|embed-p271_009.npy|66560|333|There is , according to legend, a boiling pot of gold at one end.
+audio-p374_002.npy|mel-p374_002.npy|embed-p374_002.npy|50240|252|Ask her to bring these things with her from the store.
+audio-p374_003.npy|mel-p374_003.npy|embed-p374_003.npy|107200|537|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p374_004.npy|mel-p374_004.npy|embed-p374_004.npy|69120|346|We also need a small plastic snake and a big toy frog for the kids.
+audio-p374_005.npy|mel-p374_005.npy|embed-p374_005.npy|100480|503|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p374_006.npy|mel-p374_006.npy|embed-p374_006.npy|79680|399|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p374_007.npy|mel-p374_007.npy|embed-p374_007.npy|59840|300|The rainbow is a division of white light into many beautiful colors.
+audio-p374_008.npy|mel-p374_008.npy|embed-p374_008.npy|114560|573|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p374_009.npy|mel-p374_009.npy|embed-p374_009.npy|65600|329|There is , according to legend, a boiling pot of gold at one end.
+audio-p262_002.npy|mel-p262_002.npy|embed-p262_002.npy|47680|239|Ask her to bring these things with her from the store.
+audio-p262_003.npy|mel-p262_003.npy|embed-p262_003.npy|114560|573|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p262_004.npy|mel-p262_004.npy|embed-p262_004.npy|64960|325|We also need a small plastic snake and a big toy frog for the kids.
+audio-p262_005.npy|mel-p262_005.npy|embed-p262_005.npy|96640|484|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p262_006.npy|mel-p262_006.npy|embed-p262_006.npy|79680|399|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p262_007.npy|mel-p262_007.npy|embed-p262_007.npy|62720|314|The rainbow is a division of white light into many beautiful colors.
+audio-p262_008.npy|mel-p262_008.npy|embed-p262_008.npy|125760|629|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p262_009.npy|mel-p262_009.npy|embed-p262_009.npy|74560|373|There is , according to legend, a boiling pot of gold at one end.
+audio-p283_002.npy|mel-p283_002.npy|embed-p283_002.npy|40640|204|Ask her to bring these things with her from the store.
+audio-p283_003.npy|mel-p283_003.npy|embed-p283_003.npy|87040|436|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p283_004.npy|mel-p283_004.npy|embed-p283_004.npy|76480|383|We also need a small plastic snake and a big toy frog for the kids.
+audio-p283_005.npy|mel-p283_005.npy|embed-p283_005.npy|83840|420|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p283_006.npy|mel-p283_006.npy|embed-p283_006.npy|74240|372|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p283_007.npy|mel-p283_007.npy|embed-p283_007.npy|54720|274|The rainbow is a division of white light into many beautiful colors.
+audio-p283_008.npy|mel-p283_008.npy|embed-p283_008.npy|100160|501|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p283_009.npy|mel-p283_009.npy|embed-p283_009.npy|55680|279|There is , according to legend, a boiling pot of gold at one end.
+audio-p333_002.npy|mel-p333_002.npy|embed-p333_002.npy|44480|223|Ask her to bring these things with her from the store.
+audio-p333_003.npy|mel-p333_003.npy|embed-p333_003.npy|87360|437|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p333_004.npy|mel-p333_004.npy|embed-p333_004.npy|58880|295|We also need a small plastic snake and a big toy frog for the kids.
+audio-p333_005.npy|mel-p333_005.npy|embed-p333_005.npy|78720|394|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p333_006.npy|mel-p333_006.npy|embed-p333_006.npy|85120|426|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p333_007.npy|mel-p333_007.npy|embed-p333_007.npy|57920|290|The rainbow is a division of white light into many beautiful colors.
+audio-p333_008.npy|mel-p333_008.npy|embed-p333_008.npy|96320|482|These take the shape of a long round arc, with its path high above, and its two ends apparently beyond the horizon.
+audio-p333_009.npy|mel-p333_009.npy|embed-p333_009.npy|52160|261|There is , according to legend, a boiling pot of gold at one end.
+audio-p308_002.npy|mel-p308_002.npy|embed-p308_002.npy|36480|183|Ask her to bring these things with her from the store.
+audio-p308_003.npy|mel-p308_003.npy|embed-p308_003.npy|100480|503|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p308_004.npy|mel-p308_004.npy|embed-p308_004.npy|53760|269|We also need a small plastic snake and a big toy frog for the kids.
+audio-p308_005.npy|mel-p308_005.npy|embed-p308_005.npy|73600|369|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p308_006.npy|mel-p308_006.npy|embed-p308_006.npy|64000|321|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p308_007.npy|mel-p308_007.npy|embed-p308_007.npy|52160|261|The rainbow is a division of white light into many beautiful colors.
+audio-p308_008.npy|mel-p308_008.npy|embed-p308_008.npy|92800|465|They take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p308_009.npy|mel-p308_009.npy|embed-p308_009.npy|57280|287|There is , according to legend, a boiling pot of gold at one end.
+audio-p299_002.npy|mel-p299_002.npy|embed-p299_002.npy|42880|215|Ask her to bring these things with her from the store.
+audio-p299_003.npy|mel-p299_003.npy|embed-p299_003.npy|103680|519|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p299_004.npy|mel-p299_004.npy|embed-p299_004.npy|59520|298|We also need a small plastic snake and a big toy frog for the kids.
+audio-p299_005.npy|mel-p299_005.npy|embed-p299_005.npy|85120|426|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p299_006.npy|mel-p299_006.npy|embed-p299_006.npy|71680|359|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p299_007.npy|mel-p299_007.npy|embed-p299_007.npy|58240|292|The rainbow is a division of white light into many beautiful colors.
+audio-p299_008.npy|mel-p299_008.npy|embed-p299_008.npy|107520|538|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p299_009.npy|mel-p299_009.npy|embed-p299_009.npy|65920|330|There is , according to legend, a boiling pot of gold at one end.
+audio-p310_002.npy|mel-p310_002.npy|embed-p310_002.npy|42880|215|Ask her to bring these things with her from the store.
+audio-p310_003.npy|mel-p310_003.npy|embed-p310_003.npy|111680|559|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p310_004.npy|mel-p310_004.npy|embed-p310_004.npy|80000|401|We also need a small plastic snake and a big toy frog for the kids.
+audio-p310_005.npy|mel-p310_005.npy|embed-p310_005.npy|90560|453|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p310_006.npy|mel-p310_006.npy|embed-p310_006.npy|80960|405|When the sunlight strikes the raindrops in the air, they act as a prism and form a rainbow.
+audio-p310_007.npy|mel-p310_007.npy|embed-p310_007.npy|62080|311|The rainbow is a division of white light into many beautiful colors.
+audio-p310_008.npy|mel-p310_008.npy|embed-p310_008.npy|110080|551|These take the shape of a long round arch, with its path high above, and these two ends apparently beyond the horizon.
+audio-p310_009.npy|mel-p310_009.npy|embed-p310_009.npy|59200|297|There is , according to legend, a boiling pot of gold at one end.
+audio-p298_002.npy|mel-p298_002.npy|embed-p298_002.npy|37760|189|Ask her to bring these things with her from the store.
+audio-p298_003.npy|mel-p298_003.npy|embed-p298_003.npy|86400|433|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p298_004.npy|mel-p298_004.npy|embed-p298_004.npy|58560|293|We also need a small plastic snake and a big toy frog for the kids.
+audio-p298_005.npy|mel-p298_005.npy|embed-p298_005.npy|74240|372|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p298_006.npy|mel-p298_006.npy|embed-p298_006.npy|67200|337|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p298_007.npy|mel-p298_007.npy|embed-p298_007.npy|49920|250|The rainbow is a division of white light into many beautiful colors.
+audio-p298_008.npy|mel-p298_008.npy|embed-p298_008.npy|93120|466|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p298_009.npy|mel-p298_009.npy|embed-p298_009.npy|49920|250|There is , according to legend, a boiling pot of gold at one end.
+audio-p317_002.npy|mel-p317_002.npy|embed-p317_002.npy|38080|191|Ask her to bring these things with her from the store.
+audio-p317_003.npy|mel-p317_003.npy|embed-p317_003.npy|88320|442|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p317_004.npy|mel-p317_004.npy|embed-p317_004.npy|60160|301|We also need a small plastic snake and a big toy frog for the kids.
+audio-p317_005.npy|mel-p317_005.npy|embed-p317_005.npy|79680|399|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p317_006.npy|mel-p317_006.npy|embed-p317_006.npy|82560|413|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p317_007.npy|mel-p317_007.npy|embed-p317_007.npy|55360|277|The rainbow is a division of white light into many beautiful colors.
+audio-p317_008.npy|mel-p317_008.npy|embed-p317_008.npy|110080|551|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p317_009.npy|mel-p317_009.npy|embed-p317_009.npy|74562|373|There is , according to legend, a boiling pot of gold at one end.
+audio-p236_002.npy|mel-p236_002.npy|embed-p236_002.npy|34880|175|Ask her to bring these things with her from the store.
+audio-p236_003.npy|mel-p236_003.npy|embed-p236_003.npy|84480|423|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p236_004.npy|mel-p236_004.npy|embed-p236_004.npy|67200|337|We also need a small plastic snake and a big toy frog for the kids.
+audio-p236_005.npy|mel-p236_005.npy|embed-p236_005.npy|106560|533|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p236_006.npy|mel-p236_006.npy|embed-p236_006.npy|69440|348|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p236_007.npy|mel-p236_007.npy|embed-p236_007.npy|50560|253|The rainbow is a division of white light into many beautiful colors.
+audio-p236_009.npy|mel-p236_009.npy|embed-p236_009.npy|55680|279|There is , according to legend, a boiling pot of gold at one end.
+audio-p236_010.npy|mel-p236_010.npy|embed-p236_010.npy|34240|172|People look, but no one ever finds it.
+audio-p303_002.npy|mel-p303_002.npy|embed-p303_002.npy|44800|225|Ask her to bring these things with her from the store.
+audio-p303_003.npy|mel-p303_003.npy|embed-p303_003.npy|93760|469|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p303_004.npy|mel-p303_004.npy|embed-p303_004.npy|64640|324|We also need a small plastic snake and a big toy frog for the kids.
+audio-p303_005.npy|mel-p303_005.npy|embed-p303_005.npy|94720|474|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p303_006.npy|mel-p303_006.npy|embed-p303_006.npy|76160|381|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p303_007.npy|mel-p303_007.npy|embed-p303_007.npy|57280|287|The rainbow is a division of white light into many beautiful colors.
+audio-p303_008.npy|mel-p303_008.npy|embed-p303_008.npy|105600|529|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p303_009.npy|mel-p303_009.npy|embed-p303_009.npy|66560|333|There is , according to legend, a boiling pot of gold at one end.
+audio-p306_002.npy|mel-p306_002.npy|embed-p306_002.npy|48640|244|Ask her to bring these things with her from the store.
+audio-p306_003.npy|mel-p306_003.npy|embed-p306_003.npy|117440|588|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p306_004.npy|mel-p306_004.npy|embed-p306_004.npy|78720|394|We also need a small plastic snake and a big toy frog for the kids.
+audio-p306_005.npy|mel-p306_005.npy|embed-p306_005.npy|114240|572|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p306_006.npy|mel-p306_006.npy|embed-p306_006.npy|84480|423|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p306_007.npy|mel-p306_007.npy|embed-p306_007.npy|63040|316|The rainbow is a division of white light into many beautiful colors.
+audio-p306_008.npy|mel-p306_008.npy|embed-p306_008.npy|138560|693|These take the shape of a long round arch, with its paths high above, and its two ends apparently beyond the horizon.
+audio-p306_009.npy|mel-p306_009.npy|embed-p306_009.npy|80960|405|There is , according to legend, a boiling pot of gold at one end.
+audio-p239_002.npy|mel-p239_002.npy|embed-p239_002.npy|32640|164|Ask her to bring these things with her from the store.
+audio-p239_003.npy|mel-p239_003.npy|embed-p239_003.npy|81600|409|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p239_004.npy|mel-p239_004.npy|embed-p239_004.npy|51520|258|We also need a small plastic snake and a big toy frog for the kids.
+audio-p239_005.npy|mel-p239_005.npy|embed-p239_005.npy|72640|364|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p239_006.npy|mel-p239_006.npy|embed-p239_006.npy|64000|321|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p239_007.npy|mel-p239_007.npy|embed-p239_007.npy|56000|281|The rainbow is a division of white light into many beautiful colors.
+audio-p239_008.npy|mel-p239_008.npy|embed-p239_008.npy|94080|471|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p239_009.npy|mel-p239_009.npy|embed-p239_009.npy|49600|249|There is , according to legend, a boiling pot of gold at one end.
+audio-p293_002.npy|mel-p293_002.npy|embed-p293_002.npy|46400|233|Ask her to bring these things with her from the store.
+audio-p293_003.npy|mel-p293_003.npy|embed-p293_003.npy|103680|519|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p293_004.npy|mel-p293_004.npy|embed-p293_004.npy|68160|341|We also need a small plastic snake and a big toy frog for the kids.
+audio-p293_005.npy|mel-p293_005.npy|embed-p293_005.npy|94400|473|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p293_006.npy|mel-p293_006.npy|embed-p293_006.npy|81920|410|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p293_007.npy|mel-p293_007.npy|embed-p293_007.npy|56640|284|The rainbow is a division of white light into many beautiful colors.
+audio-p293_008.npy|mel-p293_008.npy|embed-p293_008.npy|112320|562|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p293_009.npy|mel-p293_009.npy|embed-p293_009.npy|58560|293|There is , according to legend, a boiling pot of gold at one end.
+audio-p347_002.npy|mel-p347_002.npy|embed-p347_002.npy|43840|220|Ask her to bring these things with her from the store.
+audio-p347_003.npy|mel-p347_003.npy|embed-p347_003.npy|104000|521|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p347_004.npy|mel-p347_004.npy|embed-p347_004.npy|65280|327|We also need a small plastic snake and a big toy frog for the kids.
+audio-p347_005.npy|mel-p347_005.npy|embed-p347_005.npy|103680|519|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p347_006.npy|mel-p347_006.npy|embed-p347_006.npy|83200|417|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p347_007.npy|mel-p347_007.npy|embed-p347_007.npy|60480|303|The rainbow is a division of white light into many beautiful colors.
+audio-p347_008.npy|mel-p347_008.npy|embed-p347_008.npy|116480|583|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p347_009.npy|mel-p347_009.npy|embed-p347_009.npy|64640|324|There is , according to legend, a boiling pot of gold at one end.
+audio-p230_002.npy|mel-p230_002.npy|embed-p230_002.npy|55040|276|Ask her to bring these things with her from the store.
+audio-p230_003.npy|mel-p230_003.npy|embed-p230_003.npy|107840|540|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p230_005.npy|mel-p230_005.npy|embed-p230_005.npy|107520|538|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p230_006.npy|mel-p230_006.npy|embed-p230_006.npy|83840|420|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p230_007.npy|mel-p230_007.npy|embed-p230_007.npy|68800|345|The rainbow is a division of white light into many beautiful colors.
+audio-p230_008.npy|mel-p230_008.npy|embed-p230_008.npy|120960|605|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p230_009.npy|mel-p230_009.npy|embed-p230_009.npy|66880|335|There is , according to legend, a boiling pot of gold at one end.
+audio-p230_010.npy|mel-p230_010.npy|embed-p230_010.npy|40000|201|People look, but no one ever finds it.
+audio-p318_002.npy|mel-p318_002.npy|embed-p318_002.npy|41280|207|Ask her to bring these things with her from the store.
+audio-p318_005.npy|mel-p318_005.npy|embed-p318_005.npy|89920|450|She can scoop these things into three red bags, and we can go meet her Wednesday at the train station.
+audio-p318_006.npy|mel-p318_006.npy|embed-p318_006.npy|74560|373|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p318_007.npy|mel-p318_007.npy|embed-p318_007.npy|57600|289|The rainbow is a division of white light into many beautiful colors.
+audio-p318_008.npy|mel-p318_008.npy|embed-p318_008.npy|107839|540|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p318_009.npy|mel-p318_009.npy|embed-p318_009.npy|60160|301|There is , according to legend, a boiling pot of gold at one end.
+audio-p318_010.npy|mel-p318_010.npy|embed-p318_010.npy|35840|180|People look, but no one ever finds it.
+audio-p318_011.npy|mel-p318_011.npy|embed-p318_011.npy|95680|479|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow.
+audio-p264_001.npy|mel-p264_001.npy|embed-p264_001.npy|29120|146|Please call Stella.  )
+audio-p264_002.npy|mel-p264_002.npy|embed-p264_002.npy|44480|223|Ask her to bring these things with her from the store.  )
+audio-p264_003.npy|mel-p264_003.npy|embed-p264_003.npy|107200|537|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  )
+audio-p264_004.npy|mel-p264_004.npy|embed-p264_004.npy|59840|300|We also need a small plastic snake and a big toy frog for the kids.  )
+audio-p264_005.npy|mel-p264_005.npy|embed-p264_005.npy|84160|421|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. )
+audio-p264_006.npy|mel-p264_006.npy|embed-p264_006.npy|69760|349|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. )
+audio-p264_007.npy|mel-p264_007.npy|embed-p264_007.npy|54720|274|The rainbow is a division of white light into many beautiful colors. )
+audio-p264_008.npy|mel-p264_008.npy|embed-p264_008.npy|96320|482|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. )
+audio-p314_002.npy|mel-p314_002.npy|embed-p314_002.npy|44160|221|Ask her to bring these things with her from the store.
+audio-p314_003.npy|mel-p314_003.npy|embed-p314_003.npy|80960|405|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p314_004.npy|mel-p314_004.npy|embed-p314_004.npy|55680|279|We also need a small plastic snake and a big toy frog for the kids.
+audio-p314_005.npy|mel-p314_005.npy|embed-p314_005.npy|81600|409|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p314_006.npy|mel-p314_006.npy|embed-p314_006.npy|77760|389|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p314_007.npy|mel-p314_007.npy|embed-p314_007.npy|60800|305|The rainbow is a division of white light into many beautiful colors.
+audio-p314_008.npy|mel-p314_008.npy|embed-p314_008.npy|102080|511|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p314_009.npy|mel-p314_009.npy|embed-p314_009.npy|65920|330|There is , according to legend, a boiling pot of gold at one end.
+audio-p281_002.npy|mel-p281_002.npy|embed-p281_002.npy|40960|205|Ask her to bring these things with her from the store.
+audio-p281_003.npy|mel-p281_003.npy|embed-p281_003.npy|101120|506|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p281_004.npy|mel-p281_004.npy|embed-p281_004.npy|72641|364|We also need a small plastic snake and a big toy frog for the kids.
+audio-p281_005.npy|mel-p281_005.npy|embed-p281_005.npy|109120|546|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p281_006.npy|mel-p281_006.npy|embed-p281_006.npy|80960|405|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p281_007.npy|mel-p281_007.npy|embed-p281_007.npy|56960|285|The rainbow is a division of white light into many beautiful colors.
+audio-p281_008.npy|mel-p281_008.npy|embed-p281_008.npy|110720|554|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p281_009.npy|mel-p281_009.npy|embed-p281_009.npy|74560|373|There is , according to legend, a boiling pot of gold at one end.
+audio-p297_002.npy|mel-p297_002.npy|embed-p297_002.npy|47680|239|Ask her to bring these things with her from the store.
+audio-p297_003.npy|mel-p297_003.npy|embed-p297_003.npy|116160|581|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p297_004.npy|mel-p297_004.npy|embed-p297_004.npy|66880|335|We also need a small plastic snake and a big toy frog for the kids.
+audio-p297_005.npy|mel-p297_005.npy|embed-p297_005.npy|90560|453|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p297_006.npy|mel-p297_006.npy|embed-p297_006.npy|84160|421|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p297_007.npy|mel-p297_007.npy|embed-p297_007.npy|64000|321|The rainbow is a division of white light into many beautiful colors.
+audio-p297_008.npy|mel-p297_008.npy|embed-p297_008.npy|110400|553|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p297_009.npy|mel-p297_009.npy|embed-p297_009.npy|72000|361|There is , according to legend, a boiling pot of gold at one end.
+audio-p295_002.npy|mel-p295_002.npy|embed-p295_002.npy|43840|220|Ask her to bring these things with her from the store.
+audio-p295_003.npy|mel-p295_003.npy|embed-p295_003.npy|106560|533|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p295_004.npy|mel-p295_004.npy|embed-p295_004.npy|55680|279|We also need a small plastic snake and a big toy frog for the kids.
+audio-p295_005.npy|mel-p295_005.npy|embed-p295_005.npy|87360|437|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p295_006.npy|mel-p295_006.npy|embed-p295_006.npy|73920|370|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p295_007.npy|mel-p295_007.npy|embed-p295_007.npy|51200|257|The rainbow is a division of white light into many beautiful colors.
+audio-p295_008.npy|mel-p295_008.npy|embed-p295_008.npy|100800|505|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p295_009.npy|mel-p295_009.npy|embed-p295_009.npy|56640|284|There is , according to legend, a boiling pot of gold at one end.
+audio-p268_002.npy|mel-p268_002.npy|embed-p268_002.npy|44160|221|Ask her to bring these things with her from the store.
+audio-p268_003.npy|mel-p268_003.npy|embed-p268_003.npy|114880|575|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p268_004.npy|mel-p268_004.npy|embed-p268_004.npy|62720|314|We also need a small plastic snake and a big toy frog for the kids.
+audio-p268_005.npy|mel-p268_005.npy|embed-p268_005.npy|100480|503|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p268_006.npy|mel-p268_006.npy|embed-p268_006.npy|79680|399|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p268_007.npy|mel-p268_007.npy|embed-p268_007.npy|60480|303|The rainbow is a division of white light into many beautiful colors.
+audio-p268_009.npy|mel-p268_009.npy|embed-p268_009.npy|69760|349|There is , according to legend, a boiling pot of gold at one end.
+audio-p268_010.npy|mel-p268_010.npy|embed-p268_010.npy|42560|213|People look, but no one ever finds it.
+audio-p329_002.npy|mel-p329_002.npy|embed-p329_002.npy|44480|223|Ask her to bring these things with her from the store.
+audio-p329_003.npy|mel-p329_003.npy|embed-p329_003.npy|120640|604|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p329_004.npy|mel-p329_004.npy|embed-p329_004.npy|76800|385|We also need a small plastic snake and a big toy frog for the kids.
+audio-p329_005.npy|mel-p329_005.npy|embed-p329_005.npy|100480|503|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p329_006.npy|mel-p329_006.npy|embed-p329_006.npy|87040|436|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p329_007.npy|mel-p329_007.npy|embed-p329_007.npy|65280|327|The rainbow is a division of white light into many beautiful colors.
+audio-p329_008.npy|mel-p329_008.npy|embed-p329_008.npy|119360|597|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p329_009.npy|mel-p329_009.npy|embed-p329_009.npy|64960|325|There is , according to legend, a boiling pot of gold at one end.
+audio-p341_002.npy|mel-p341_002.npy|embed-p341_002.npy|60160|301|Ask her to bring these things with her from the store.
+audio-p341_003.npy|mel-p341_003.npy|embed-p341_003.npy|108800|545|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p341_004.npy|mel-p341_004.npy|embed-p341_004.npy|77120|386|We also need a small plastic snake and a big toy frog for the kids.
+audio-p341_005.npy|mel-p341_005.npy|embed-p341_005.npy|103040|516|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p341_006.npy|mel-p341_006.npy|embed-p341_006.npy|99840|500|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p341_007.npy|mel-p341_007.npy|embed-p341_007.npy|68160|341|The rainbow is a division of white light into many beautiful colors.
+audio-p341_008.npy|mel-p341_008.npy|embed-p341_008.npy|129280|647|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p341_009.npy|mel-p341_009.npy|embed-p341_009.npy|77760|389|There is , according to legend, a boiling pot of gold at one end.
+audio-p300_002.npy|mel-p300_002.npy|embed-p300_002.npy|47680|239|Ask her to bring these things with her from the store.
+audio-p300_003.npy|mel-p300_003.npy|embed-p300_003.npy|114241|572|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p300_004.npy|mel-p300_004.npy|embed-p300_004.npy|64960|325|We also need a small plastic snake and a big toy frog for the kids.
+audio-p300_005.npy|mel-p300_005.npy|embed-p300_005.npy|93440|468|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p300_006.npy|mel-p300_006.npy|embed-p300_006.npy|77760|389|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p300_007.npy|mel-p300_007.npy|embed-p300_007.npy|59200|297|The rainbow is a division of white light into many beautiful colors.
+audio-p300_008.npy|mel-p300_008.npy|embed-p300_008.npy|112960|565|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p300_009.npy|mel-p300_009.npy|embed-p300_009.npy|67200|337|There is , according to legend, a boiling pot of gold at one end.
+audio-p261_002.npy|mel-p261_002.npy|embed-p261_002.npy|46720|234|Ask her to bring these things with her from the store.
+audio-p261_003.npy|mel-p261_003.npy|embed-p261_003.npy|104640|524|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p261_004.npy|mel-p261_004.npy|embed-p261_004.npy|56000|281|We also need a small plastic snake and a big toy frog for the kids.
+audio-p261_005.npy|mel-p261_005.npy|embed-p261_005.npy|87680|439|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p261_006.npy|mel-p261_006.npy|embed-p261_006.npy|73280|367|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p261_007.npy|mel-p261_007.npy|embed-p261_007.npy|55360|277|The rainbow is a division of white light into many beautiful colors.
+audio-p261_008.npy|mel-p261_008.npy|embed-p261_008.npy|102720|514|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p261_009.npy|mel-p261_009.npy|embed-p261_009.npy|59520|298|There is , according to legend, a boiling pot of gold at one end.
+audio-p335_001.npy|mel-p335_001.npy|embed-p335_001.npy|26240|132|Please call Stella.
+audio-p335_002.npy|mel-p335_002.npy|embed-p335_002.npy|50240|252|Ask her to bring these things with her from the store.
+audio-p335_003.npy|mel-p335_003.npy|embed-p335_003.npy|124161|621|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p335_004.npy|mel-p335_004.npy|embed-p335_004.npy|89600|449|We also need a small plastic snake and a big toy frog for the kids.
+audio-p335_005.npy|mel-p335_005.npy|embed-p335_005.npy|106880|535|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p335_006.npy|mel-p335_006.npy|embed-p335_006.npy|105600|529|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p335_007.npy|mel-p335_007.npy|embed-p335_007.npy|62400|313|The rainbow is a division of white light into many beautiful colors.
+audio-p335_008.npy|mel-p335_008.npy|embed-p335_008.npy|135040|676|These take the shape of a long round arc, with its path high above, and its two ends apparently beyond the horizon.
+audio-p243_002.npy|mel-p243_002.npy|embed-p243_002.npy|50560|253|Ask her to bring these things with her from the store.
+audio-p243_003.npy|mel-p243_003.npy|embed-p243_003.npy|106561|533|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p243_004.npy|mel-p243_004.npy|embed-p243_004.npy|66880|335|We also need a small plastic snake and a big toy frog for the kids.
+audio-p243_005.npy|mel-p243_005.npy|embed-p243_005.npy|92160|461|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p243_006.npy|mel-p243_006.npy|embed-p243_006.npy|84160|421|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p243_007.npy|mel-p243_007.npy|embed-p243_007.npy|64000|321|The rainbow is a division of white light into many beautiful colors.
+audio-p243_008.npy|mel-p243_008.npy|embed-p243_008.npy|108480|543|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p243_009.npy|mel-p243_009.npy|embed-p243_009.npy|67520|338|There is , according to legend, a boiling pot of gold at one end.
+audio-p280_002.npy|mel-p280_002.npy|embed-p280_002.npy|44480|223|Ask her to bring these things with her from the store.
+audio-p280_003.npy|mel-p280_003.npy|embed-p280_003.npy|96640|484|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p280_004.npy|mel-p280_004.npy|embed-p280_004.npy|67200|337|We also need a small plastic snake and a big toy frog for the kids.
+audio-p280_005.npy|mel-p280_005.npy|embed-p280_005.npy|96320|482|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p280_006.npy|mel-p280_006.npy|embed-p280_006.npy|77120|386|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p280_007.npy|mel-p280_007.npy|embed-p280_007.npy|53440|268|The rainbow is a division of white light into many beautiful colors.
+audio-p280_008.npy|mel-p280_008.npy|embed-p280_008.npy|97280|487|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p280_009.npy|mel-p280_009.npy|embed-p280_009.npy|60160|301|There is , according to legend, a boiling pot of gold at one end.
+audio-p247_002.npy|mel-p247_002.npy|embed-p247_002.npy|40960|205|Ask her to bring these things with her from the store.  )
+audio-p247_003.npy|mel-p247_003.npy|embed-p247_003.npy|100160|501|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  )
+audio-p247_004.npy|mel-p247_004.npy|embed-p247_004.npy|62080|311|We also need a small plastic snake and a big toy frog for the kids.  )
+audio-p247_005.npy|mel-p247_005.npy|embed-p247_005.npy|81280|407|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. )
+audio-p247_006.npy|mel-p247_006.npy|embed-p247_006.npy|73920|370|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. )
+audio-p247_007.npy|mel-p247_007.npy|embed-p247_007.npy|57280|287|The rainbow is a division of white light into many beautiful colors. )
+audio-p247_008.npy|mel-p247_008.npy|embed-p247_008.npy|102720|514|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. )
+audio-p247_009.npy|mel-p247_009.npy|embed-p247_009.npy|61760|309|There is , according to legend, a boiling pot of gold at one end. )
+audio-p263_002.npy|mel-p263_002.npy|embed-p263_002.npy|45120|226|Ask her to bring these things with her from the store.
+audio-p263_003.npy|mel-p263_003.npy|embed-p263_003.npy|94400|473|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p263_004.npy|mel-p263_004.npy|embed-p263_004.npy|64960|325|We also need a small plastic snake and a big toy frog for the kids.
+audio-p263_005.npy|mel-p263_005.npy|embed-p263_005.npy|83520|418|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p263_006.npy|mel-p263_006.npy|embed-p263_006.npy|70080|351|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p263_007.npy|mel-p263_007.npy|embed-p263_007.npy|55040|276|The rainbow is a division of white light into many beautiful colors.
+audio-p263_008.npy|mel-p263_008.npy|embed-p263_008.npy|94720|474|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p263_009.npy|mel-p263_009.npy|embed-p263_009.npy|57600|289|There is , according to legend, a boiling pot of gold at one end.
+audio-p270_001.npy|mel-p270_001.npy|embed-p270_001.npy|27840|140|Please call Stella.
+audio-p270_002.npy|mel-p270_002.npy|embed-p270_002.npy|58560|293|Ask her to bring these things with her from the store.
+audio-p270_003.npy|mel-p270_003.npy|embed-p270_003.npy|125440|628|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p270_004.npy|mel-p270_004.npy|embed-p270_004.npy|78400|393|We also need a small plastic snake and a big toy frog for the kids.
+audio-p270_005.npy|mel-p270_005.npy|embed-p270_005.npy|109440|548|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p270_006.npy|mel-p270_006.npy|embed-p270_006.npy|86720|434|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p270_007.npy|mel-p270_007.npy|embed-p270_007.npy|68480|343|The rainbow is a division of white light into many beautiful colors.
+audio-p270_008.npy|mel-p270_008.npy|embed-p270_008.npy|116800|585|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p301_002.npy|mel-p301_002.npy|embed-p301_002.npy|40960|205|Ask her to bring these things with her from the store.
+audio-p301_003.npy|mel-p301_003.npy|embed-p301_003.npy|109440|548|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p301_004.npy|mel-p301_004.npy|embed-p301_004.npy|65280|327|We also need a small plastic snake and a big toy frog for the kids.
+audio-p301_005.npy|mel-p301_005.npy|embed-p301_005.npy|84480|423|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p301_006.npy|mel-p301_006.npy|embed-p301_006.npy|75520|378|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p301_007.npy|mel-p301_007.npy|embed-p301_007.npy|55040|276|The rainbow is a division of white light into many beautiful colors.
+audio-p301_008.npy|mel-p301_008.npy|embed-p301_008.npy|102400|513|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p301_009.npy|mel-p301_009.npy|embed-p301_009.npy|64000|321|There is , according to legend, a boiling pot of gold at one end.
+audio-p305_002.npy|mel-p305_002.npy|embed-p305_002.npy|43840|220|Ask her to bring these things with her from the store.
+audio-p305_003.npy|mel-p305_003.npy|embed-p305_003.npy|100800|505|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p305_004.npy|mel-p305_004.npy|embed-p305_004.npy|65600|329|We also need a small plastic snake and a big toy frog for the kids.
+audio-p305_005.npy|mel-p305_005.npy|embed-p305_005.npy|91840|460|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p305_006.npy|mel-p305_006.npy|embed-p305_006.npy|71040|356|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p305_007.npy|mel-p305_007.npy|embed-p305_007.npy|53120|266|The rainbow is a division of white light into many beautiful colors.
+audio-p305_008.npy|mel-p305_008.npy|embed-p305_008.npy|124480|623|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p305_009.npy|mel-p305_009.npy|embed-p305_009.npy|69440|348|There is , according to legend, a boiling pot of gold at one end.
+audio-p307_002.npy|mel-p307_002.npy|embed-p307_002.npy|40320|202|Ask her to bring these things with her from the store.
+audio-p307_003.npy|mel-p307_003.npy|embed-p307_003.npy|88640|444|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p307_005.npy|mel-p307_005.npy|embed-p307_005.npy|89600|449|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p307_006.npy|mel-p307_006.npy|embed-p307_006.npy|72640|364|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p307_007.npy|mel-p307_007.npy|embed-p307_007.npy|55040|276|The rainbow is a division of white light into many beautiful colors.
+audio-p307_008.npy|mel-p307_008.npy|embed-p307_008.npy|119041|596|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p307_009.npy|mel-p307_009.npy|embed-p307_009.npy|69120|346|There is , according to legend, a boiling pot of gold at one end.
+audio-p307_010.npy|mel-p307_010.npy|embed-p307_010.npy|34240|172|People look, but no one ever finds it.
+audio-p259_002.npy|mel-p259_002.npy|embed-p259_002.npy|42560|213|Ask her to bring these things with her from the store.  )
+audio-p259_003.npy|mel-p259_003.npy|embed-p259_003.npy|112640|564|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  )
+audio-p259_004.npy|mel-p259_004.npy|embed-p259_004.npy|60480|303|We also need a small plastic snake and a big toy frog for the kids.  )
+audio-p259_005.npy|mel-p259_005.npy|embed-p259_005.npy|101120|506|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. )
+audio-p259_006.npy|mel-p259_006.npy|embed-p259_006.npy|76480|383|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. )
+audio-p259_007.npy|mel-p259_007.npy|embed-p259_007.npy|60800|305|The rainbow is a division of white light into many beautiful colors. )
+audio-p259_008.npy|mel-p259_008.npy|embed-p259_008.npy|103040|516|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. )
+audio-p259_009.npy|mel-p259_009.npy|embed-p259_009.npy|66560|333|There is , according to legend, a boiling pot of gold at one end. )
+audio-p286_002.npy|mel-p286_002.npy|embed-p286_002.npy|43840|220|Ask her to bring these things with her from the store.
+audio-p286_003.npy|mel-p286_003.npy|embed-p286_003.npy|98880|495|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p286_004.npy|mel-p286_004.npy|embed-p286_004.npy|60480|303|We also need a small plastic snake and a big toy frog for the kids.
+audio-p286_005.npy|mel-p286_005.npy|embed-p286_005.npy|87040|436|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p286_006.npy|mel-p286_006.npy|embed-p286_006.npy|76800|385|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p286_007.npy|mel-p286_007.npy|embed-p286_007.npy|57920|290|The rainbow is a division of white light into many beautiful colors.
+audio-p286_008.npy|mel-p286_008.npy|embed-p286_008.npy|107840|540|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p286_009.npy|mel-p286_009.npy|embed-p286_009.npy|65280|327|There is , according to legend, a boiling pot of gold at one end.
+audio-p276_002.npy|mel-p276_002.npy|embed-p276_002.npy|46400|233|Ask her to bring these things with her from the store.
+audio-p276_003.npy|mel-p276_003.npy|embed-p276_003.npy|105600|529|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p276_004.npy|mel-p276_004.npy|embed-p276_004.npy|65920|330|We also need a small plastic snake and a big toy frog for the kids.
+audio-p276_005.npy|mel-p276_005.npy|embed-p276_005.npy|97920|490|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p276_006.npy|mel-p276_006.npy|embed-p276_006.npy|80000|401|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p276_007.npy|mel-p276_007.npy|embed-p276_007.npy|63360|317|The rainbow is a division of white light into many beautiful colors.
+audio-p276_008.npy|mel-p276_008.npy|embed-p276_008.npy|113920|570|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p276_009.npy|mel-p276_009.npy|embed-p276_009.npy|66560|333|There is , according to legend, a boiling pot of gold at one end.
+audio-p323_002.npy|mel-p323_002.npy|embed-p323_002.npy|42560|213|Ask her to bring these things with her from the store.
+audio-p323_003.npy|mel-p323_003.npy|embed-p323_003.npy|125440|628|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p323_004.npy|mel-p323_004.npy|embed-p323_004.npy|74240|372|We also need a small plastic snake and a big toy frog for the kids.
+audio-p323_005.npy|mel-p323_005.npy|embed-p323_005.npy|102720|514|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p323_006.npy|mel-p323_006.npy|embed-p323_006.npy|96000|481|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p323_007.npy|mel-p323_007.npy|embed-p323_007.npy|68160|341|The rainbow is a division of white light into many beautiful colors.
+audio-p323_008.npy|mel-p323_008.npy|embed-p323_008.npy|138240|692|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p323_009.npy|mel-p323_009.npy|embed-p323_009.npy|83520|418|There is , according to legend, a boiling pot of gold at one end.
+audio-p330_002.npy|mel-p330_002.npy|embed-p330_002.npy|47040|236|Ask her to bring these things with her from the store.
+audio-p330_003.npy|mel-p330_003.npy|embed-p330_003.npy|101120|506|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p330_004.npy|mel-p330_004.npy|embed-p330_004.npy|73600|369|We also need a small plastic snake and a big toy frog for the kids.
+audio-p330_005.npy|mel-p330_005.npy|embed-p330_005.npy|98880|495|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p330_006.npy|mel-p330_006.npy|embed-p330_006.npy|89600|449|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p330_007.npy|mel-p330_007.npy|embed-p330_007.npy|66880|335|The rainbow is a division of white light into many beautiful colors.
+audio-p330_008.npy|mel-p330_008.npy|embed-p330_008.npy|118720|594|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+audio-p330_009.npy|mel-p330_009.npy|embed-p330_009.npy|67520|338|There is , according to legend, a boiling pot of gold at one end.
+audio-p274_002.npy|mel-p274_002.npy|embed-p274_002.npy|48640|244|Ask her to bring these things with her from the store.  )
+audio-p274_003.npy|mel-p274_003.npy|embed-p274_003.npy|105280|527|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  )
+audio-p274_004.npy|mel-p274_004.npy|embed-p274_004.npy|68800|345|We also need a small plastic snake and a big toy frog for the kids.  )
+audio-p274_005.npy|mel-p274_005.npy|embed-p274_005.npy|94080|471|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. )
+audio-p274_006.npy|mel-p274_006.npy|embed-p274_006.npy|81280|407|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. )
+audio-p274_007.npy|mel-p274_007.npy|embed-p274_007.npy|62080|311|The rainbow is a division of white light into many beautiful colors. )
+audio-p274_008.npy|mel-p274_008.npy|embed-p274_008.npy|118080|591|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. )
+audio-p274_009.npy|mel-p274_009.npy|embed-p274_009.npy|68480|343|There is , according to legend, a boiling pot of gold at one end. )
+audio-p238_001.npy|mel-p238_001.npy|embed-p238_001.npy|27520|138|Please call Stella.
+audio-p238_002.npy|mel-p238_002.npy|embed-p238_002.npy|51840|260|Ask her to bring these things with her from the store.
+audio-p238_003.npy|mel-p238_003.npy|embed-p238_003.npy|106560|533|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+audio-p238_004.npy|mel-p238_004.npy|embed-p238_004.npy|77440|388|We also need a small plastic snake and a big toy frog for the kids.
+audio-p238_005.npy|mel-p238_005.npy|embed-p238_005.npy|113600|569|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+audio-p238_006.npy|mel-p238_006.npy|embed-p238_006.npy|91520|458|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+audio-p238_007.npy|mel-p238_007.npy|embed-p238_007.npy|76800|385|The rainbow is a division of white light into many beautiful colors.
+audio-p238_008.npy|mel-p238_008.npy|embed-p238_008.npy|135680|679|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
