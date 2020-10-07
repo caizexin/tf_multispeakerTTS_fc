@@ -15,13 +15,15 @@ This is a tensorflow implementation of the multispeaker TTS network introduced i
 
 # Model Architecture
 
-![](/Users/caizexin/Documents/my_papers/interspeech_2020/multispeaker_final_draft/LaTeX/Multi_TTS.png)
+<img src="Multi_TTS.pdf" style="zoom:150%;" />
 
 
 
-where the speaker embedding network is a ResNet-based network:
+#### where the speaker embedding network is a ResNet-based network:
 
-![](/Users/caizexin/Documents/my_papers/interspeech_2020/multispeaker_final_draft/LaTeX/resnet.png)
+<img src="resnet.png" style="zoom:45%;" />
+
+
 
 ---
 
