@@ -15,7 +15,7 @@ This is a tensorflow implementation of the multispeaker TTS network introduced i
 
 # Model Architecture
 
-<img src="Multi_TTS.png" style="zoom:45%;" />
+<img src="Multi_TTS.png" style="zoom:20%;" />
 
 
 
